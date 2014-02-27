@@ -1,0 +1,117 @@
+Body	: +3
+Mind	: +3
+Spirit	: -1
+
+HP		: 10
+Attack	: 8
+Defense	: 8
+SpAtk	: 9
+SpDef	: 9
+Speed	: 9
+
+Acrobatics:				Novice	
+Athletics:				Novice	
+Combat:					Novice	
+Intimidate:				Pathetic	
+Stealth:				Novice	
+Survival:				Novice	
+Education [General]:	Novice
+Education [Medicine]:	Novice
+Education [Occult]:		Pathetic
+Education [Pokemon]:	Novice
+Education [Technology]:	Untrained
+Guile:					Pathetic	
+Perception:				Expert	
+Charm:					Untrained		
+Command:				Untrained		
+Focus:					Untrained		
+Intuition:				Untrained		
+
+Background: I do things, me (Perception, General Education, Acrobatics up || Guile, Education [Occult], Intimidate down)
+
+HP					: 56
+Physical Evasion	: 1
+Special Evasion		: 1
+Speed Evasion		: 1
+Power				: 6
+High Jump			: 0
+Long Jump			: 1
+Movement 			: 6
+Swimming 			: 3
+Action Points		: 6
+Level				: 8
+Exp					: 70
+
+Edges:
+	1				: Novice Athletics
+	1				: Groomer
+	1				: Breeder
+	Hobbyist		: Iron Mind
+	Hobbyist		: Natural Theory
+	2				: Novice Combat
+	2				: Adept Percetion
+	Hobbyist Adept	: Basic Balls
+	Hobbyist Adept	: Egg Index
+	4				: Novice Stealth
+	6				: Novice Education [Pokemon]
+	6				: Expert Perception
+	8				: Novice Education [Technology]
+	
+Features:
+	1				: Rogue
+	1				: Hobbiest
+	1				: Varied Hobbies
+	Varied Hobbies	: First Aid (use perception instead)
+	3				: Hobbyist Adept
+	5				: Varied Hobbies
+	Varied Hobbies	: Quick Switch (use perception instead)
+	7				: Varied Hobbies
+	Varied Hobbies	: Swift Mount (use perception instead)
+	
+Basic Info:
+	Joey
+	16yo
+
+Equipment: (15000 total)
+	
+Pokemon:
+		
+	Level 23 Decisive Rattata - Rattata - 600 / 670
+	
+		HP		17
+		ATK		18
+		DEF		5
+		SpAtk	2
+		SpDef	5
+		Speed	19
+		
+		Loyalty: 2
+		
+		Abilities:	Run Away
+					Instinct
+		
+		Capabilities:	Overland 6
+						Swim 4
+						Jump 2/2
+						Power 1
+						Intelligence 3
+						Stealth
+						Underdog
+		
+		Skills:	Athletics	| 1d6
+				Acrobatics	| 3d6
+				Combat		| 2d6+2
+				Stealth		| 4d6
+				Perception	| 3d6
+				Focus		| 2d6
+		
+		HP: 81
+		Tutor: 5
+		Evasion: 5
+		
+		Super Fang		Normal | Scene | AC4 | DB0 | Physical | Melee 1 | Target loses 1/2 of current HP
+		Assurance		Dark | At Will | AC2 | DB6 | Physical | Melee 1 | If target has already been damaged, DB12, once per scene
+		Crunch			Dark | At Will | AC2 | DB8 | Physical | Melee 1 | Lowers targets defense by 1CS on 17+
+		Sucker Punch	Dark | At Will | AC2 | DB8 | Physical | Melee 1, Priority, Trigger | If an adjacent foe targets ~ with a damaging attack, priorty against triggerer
+		Hyper Fang		Normal | At Will | AC4 | DB8 | Physical | Melee 1 | Flinches on 19+
+		Persuit			Dark | At Will | AC2 | DB4 | Physical | Melee 1 | If foe is fleeing or being switched out, ~ is an interrupt and user gets +5 to all Movement Speeds and DB8
