@@ -2,45 +2,45 @@ Body	: +3
 Mind	: +3
 Spirit	: -1
 
-HP		: 10
+HP	: 10
 Attack	: 8
 Defense	: 8
 SpAtk	: 9
 SpDef	: 9
 Speed	: 9
 
-Acrobatics:				Novice	
-Athletics:				Novice	
-Combat:					Novice	
-Intimidate:				Pathetic	
-Stealth:				Novice	
-Survival:				Novice	
+Acrobatics:		Novice	
+Athletics:		Novice	
+Combat:			Novice	
+Intimidate:		Pathetic	
+Stealth:		Novice	
+Survival:		Novice	
 Education [General]:	Novice
 Education [Medicine]:	Novice
-Education [Occult]:		Pathetic
+Education [Occult]:	Pathetic
 Education [Pokemon]:	Novice
 Education [Technology]:	Untrained
-Guile:					Pathetic	
-Perception:				Expert	
-Charm:					Untrained		
-Command:				Untrained		
-Focus:					Untrained		
-Intuition:				Untrained		
+Guile:			Pathetic	
+Perception:		Expert	
+Charm:			Untrained		
+Command:		Untrained		
+Focus:			Untrained		
+Intuition:		Untrained		
 
 Background: I do things, me (Perception, General Education, Acrobatics up || Guile, Education [Occult], Intimidate down)
 
-HP					: 56
+HP			: 56
 Physical Evasion	: 1
 Special Evasion		: 1
 Speed Evasion		: 1
-Power				: 6
-High Jump			: 0
-Long Jump			: 1
-Movement 			: 6
-Swimming 			: 3
+Power			: 6
+High Jump		: 0
+Long Jump		: 1
+Movement 		: 6
+Swimming 		: 3
 Action Points		: 6
-Level				: 8
-Exp					: 70
+Level			: 8
+Exp			: 70
 
 Edges:
 	1				: Novice Athletics
