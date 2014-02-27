@@ -1,0 +1,252 @@
+Body	: +6
+Mind	: -1
+Spirit	: +0
+
+HP		: 32
+Attack	: 5
+Defense	: 8
+SpAtk	: 5
+SpDef	: 7
+Speed	: 5
+
+Acrobatics:				Adept	
+Athletics:				Expert + 2
+Combat:					Adept
+Intimidate:				Untrained	
+Stealth:				Untrained	
+Survival:				Untrained	
+Education [General]:	Pathetic
+Education [Medicine]:	Untrained
+Education [Occult]:		Pathetic
+Education [Pokemon]:	Untrained
+Education [Technology]:	Pathetic
+Guile:					Untrained	
+Perception:				Untrained	
+Charm:					Untrained		
+Command:				Untrained		
+Focus:					Untrained		
+Intuition:				Untrained		
+
+Background: Strongman (Acrobatics, Athletics, Combat up, Education [General], Education [Occult], Education [Technology] down)
+
+HP					: 120
+Physical Evasion	: 1
+Special Evasion		: 1
+Speed Evasion		: 1
+Power				: 11
+High Jump			: 1
+Long Jump			: 2
+Movement 			: 7
+Swimming 			: 5
+Action Points		: 5
+Height:				: 6'10
+Weight:				: 250lb (5)
+Level				: 8
+Exp					: 70
+
+Edges:
+	1 : Basic Martial Arts
+	1 : Athletic Prowess
+	1 : Swimmer
+	2 : Novice Survival
+	2 : Adept Combat
+	4 :	Adept Athletics
+	6 : Adept Acrobatics
+	6 : Expert Athletics
+	8 : Power Boost
+	
+Features:
+	1 : Agility Training
+	1 : Athlete
+	1 : Defensive Line
+	1 : Defender
+	3 : Coaching
+	5 : Athlete's Offense
+	7 : Power Play
+	
+Moves:
+	Rock Smash	Fighting | At Will | AC2 | DB6 | Melee 1 | Target Defense lowered 1CS on 17+
+	Agility		Normal | EOT | None | Status | Self | +2 Speed CS
+	Block		Normal | At-Will | AC2 | Status | Melee 1 | Target is Stuck and Trapped until the beginning of your next turn
+	Strength	Normal | EOT | AC4 | DB8 | Physical | Melee 1 Push | Target is Pushed 2 meters, +1 Power
+	
+Basic Info:
+
+Goals
+	Get Power to 14
+	Get Puncher's power value to 20
+	Have a party all with Power Value 16+
+	Beat every Fighting, Ground and Rock gym
+
+Equipment: (15000 total)
+	Running Shoes	| 2000
+	A4 Strength		| 3400
+	
+Pokemon:
+
+	Level 20 Patient Onix - Dragger
+
+		HP		: 21
+		Attack	: 5
+		Defense	: 21
+		SpAtk	: 3
+		SpDef	: 15
+		Speed	: 5
+		
+		Type:	Rock/Ground
+		Height: 28'10"
+		Weight: 463lb (6)
+		
+		Abilities:
+			Sturdy (Immune to Sheer Cold, Guillotine, Horn Drill and Fissure. Full to 0 HP move sets to 1. Massive damage has no effect) 
+			Frighten (Swift - Target loses 2 Speed CS)
+		
+		Capabilities
+			HP					: 103
+			Physical Evasion	: 5
+			Special Evasion		: 4
+			Speed Evasion		: 1
+			Power				: 12
+			Overland			: 7
+			Swim				: 4
+			Burrow				: 7
+			Jump				: 2/3
+			Intelligence		: 3
+			Reach				: 3
+			Mountable			: 5
+			Tutor				: 1
+			Darkvision
+			Groundshaper
+			Underdog
+			Materializer
+			
+		Tutor
+			Block (2)
+			Capability Training (Power) (1)
+			Skill Training (Combat) (1)
+		
+		Skills
+			Athletics 		| 4d6+2
+			Acrobatics		| 2d6
+			Combat			| 3d6
+			Stealth			| 2d6
+			Percetion		| 3d6
+			Focus			| 4d6+1
+			
+		Moves
+			Strength		Normal | EOT | AC4 | DB8 | Physical | Melee 1 Push | Target is Pushed 2 meters, +1 Power
+			Block			Normal | At-Will | AC2 | Status | Melee 1 | Target is Stuck and Trapped until the beginning of your next turn
+			Stealth Rock	Rock | Scene | AC0 | Status | Field, Hazard | Put 4 adjacent Stealth Rock hazards. If enemy moves within 2 meters, move 1 rock to the offender, destroy rock, offender takes 1/10th of their Max HP in damage (applying weakness/resist but not stats). Can only hit each pokemon once per recall
+			Rock Tomb		Rock | At-Will | AC5 | DB8 | Physical | 6m Ranged 1 | Lowers speed by 1CS
+			Rock Throw		Rock | At-Will | AC5 | DB7 | Physical | 6m Ranged 1
+			Bind			Normal | Static | Static | User gains +1 to Accuracy on Struggle Attacks for Grapple and +2 on Skill Checks to initiate Grapple. Whenever the user ends their turn and is grappling, the target loses 1/10 of max health.
+			
+		Notes:
+			Heavy Slam is an egg move
+			
+	Level 30 Proud Hariyama - Puncher
+
+		HP		: 36
+		Attack	: 32
+		Defense	: 6
+		SpAtk	: 2
+		SpDef	: 6
+		Speed	: 5
+		
+		Type:	Fighting
+		Height: 7'7"
+		Weight: 559.5lb (7)
+		
+		Abilities:
+			Thick Fat (+1 Resistant to Fire and Ice)
+			Sumo Stance (Weight Class +1, Immune to Push effects)
+		
+		Capabilities
+			HP					: 148
+			Physical Evasion	: 1
+			Special Evasion		: 1
+			Speed Evasion		: 1
+			Power				: 16
+			Overland			: 6
+			Swim				: 3
+			Jump				: 1/1
+			Intelligence		: 5
+			Tutor				: 1
+			Aura
+			
+		Tutor
+			Strength (2)
+			Capability Training (Power) (1)
+			Skill Training (Athletics) (1)
+			Skill Training (Combat) (1)
+			Capability Training (Intelligence) (1)
+		
+		Skills
+			Athletics 		| 6d6+2
+			Acrobatics		| 1d6
+			Combat			| 6d6
+			Stealth			| 1d6
+			Percetion		| 3d6
+			Focus			| 4d6+1
+			
+		Moves
+			Strength		Normal | EOT | AC4 | DB8 | Physical | Melee 1 Push | Target is Pushed 2 meters, +1 Power
+			Block			Normal | At-Will | AC2 | Status | Melee 1 | Target is Stuck and Trapped until the beginning of your next turn
+			Knock Off		Dark | Scene | AC2 | DB7 | Static | Melee 1 | Automatic disarm. Consumables destroyed.
+			Whirlwind		Normal | Scene x2 | AC2 | Status | Line 6 | All targets pushed X meters, where X is 8 - Weight Class. Disperses Smokescreen, destroys hazards
+			Vital Throw		Fighting | EOT | AC0 | DB9 | Physical | Melee 1 Push Reaction | If user melee attacked and has not yet taken an action, user may declare Vital Throw as a reaction. Cannot miss.
+			Arm Thrust		Fighting | EOT | AC4 | DB2(FS) + 2 | Physical | Melee 1 Five-Strike
+			
+	Level 30 Patient Golett - Lifter - XXXXXX
+
+		HP		: 23
+		Attack	: 20
+		Defense	: 18
+		SpAtk	: 4
+		SpDef	: 5
+		Speed	: 2
+		
+		Type:	Ground/Ghost
+		Height: 3.3ft
+		Weight: 202.8lb (4)
+		
+		Abilities:
+			Iron Fist (Punch moves get +2DB)
+			Hustle (-2 Accuracy, +10 Damage on Physical moves)
+		
+		Capabilities
+			HP					: 109
+			Physical Evasion	: 3
+			Special Evasion		: 1
+			Speed Evasion		: 0
+			Power				: 9
+			Overland			: 5
+			Swim				: 2
+			Jump				: 1/1
+			Intelligence		: 4
+			Tutor				: 4
+			Darkvision
+			Underdog
+			
+		Tutor
+			Strength (2)
+			Capability Training (Power) (1)
+		
+		Skills
+			Athletics 		| 4d6+2
+			Acrobatics		| 2d6
+			Combat			| 2d6+2
+			Stealth			| 2d6
+			Percetion		| 3d6+1
+			Focus			| 4d6+2
+			
+		Moves
+			Strength		Normal | EOT | AC4 | DB8 | Physical | Melee 1 Push | Target is Pushed 2 meters, +1 Power
+			Block			Normal | At-Will | AC2 | Status | Melee 1 | Target is Stuck and Trapped until the beginning of your next turn
+			Mega Punch		Normal | At-Will | AC4 | DB10 | Physical | Melee 1
+			Shadow Punch	Ghost | EOT | AC0 | DB10 | Physical | 6m Ranged 1 | Cannot miss
+			Dynamic Punch	Fighting | At-Will | AC9 | DB12 | Physical | Melee 1 | Confuses. Evasion is ignored if target is Flanked
+			Defense Curl	Normal | At-Will | AC0 | Status | Self | Immune to Crits, Damage Reduction 10, Slowed, Accuracy -4, Swift action to end. If ~ has Rollout or Ice Ball, not sllowed and those moves get +10 damage and no Accuracy penalty
+			
+		Goals
+			Get Heavy Slam
