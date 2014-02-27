@@ -1,0 +1,322 @@
+Body	: -1
+Mind	: +2
+Spirit	: +4
+
+HP		: 19
+Attack	: 5
+Defense	: 11
+SpAtk	: 5
+SpDef	: 11
+Speed	: 5
+
+Acrobatics:				Untrained	
+Athletics:				Untrained	
+Combat:					Pathetic	
+Intimidate:				Untrained	
+Stealth:				Pathetic	
+Survival:				Untrained	
+Education [Pokemon]: 	Untrained	
+Education [General]: 	Untrained	
+Education [Medicine]:	Untrained	
+Guile:					Pathetic	
+Perception:				Untrained	
+Charm:					Expert		
+Command:				Expert		
+Focus:					Adept		
+Intuition:				Expert		
+
+Background: That Kid From The Ranch. You Know The One. (Combat, Stealth, Guile down, Charm, Focus, Inuition up)
+
+HP				: 87 (1)
+Power			: 3
+High Jump		: 0
+Long Jump		: 0
+Movement 		: 5
+Swimming 		: 2
+Action Points	: 5
+Level			: 10
+Exp				: 96
+
+Edges:
+	1 : Group Trainer
+	1 : Mystic Senses
+	1 : Skill Stunt (Charm, Pokemon I haven't met before)
+	1 : Novice Charm
+	1 : Novice Command
+	1 : Novice Focus
+	1 : Pathetic Combat
+	1 : Pathetic Stealth
+	1 : Pathetic Guile 
+	2 : Novice Command
+	2 : Adept Charm
+	3 : Adept Intuition
+	4 : Adept Command
+	6 : Expert Charm
+	6 : Adept Focus
+	7 : Expert Intuition
+	8 : Pokemon Connoisseur
+	10: Expert Command
+
+Features:
+	1 : Channeller
+	1 : Mentor (Charm, Intuition)
+	1 : Inspired Growth
+	5 : Shared Senses
+	9 : Soul Shuffle
+	
+Basic Info:
+	Anton Talwain
+	20yo
+
+Equipment:
+	5 Bandages
+	10 Pokeball
+	2 Great Balls
+	Unrefined Moonstone
+	Good Tent
+	Camping Gear
+	Treats
+	Pokedex
+	Food x15
+	6ft stick
+	$14251
+	Passport
+	Fancy fancy prosthetic
+	Memorial pokeball
+	
+Pokemon:
+		
+	Level 35 Bronzong, Modest - Bella - 1699 / 1770
+	
+		HP		19
+		ATK		7
+		DEF		22
+		SpAtk	21
+		SpDef	23
+		Speed	3
+		
+		Loyalty: 2
+
+		Levitate
+		Heavy Metal
+		
+		HP: 101
+		Tutor: 7
+		
+		Safeguard
+		Extrasensory
+		Hypnosis
+		Faint Attack
+		Psy Wave
+		Iron Defense
+		
+	Level 32 Female Plusle, Jolly - Oio - 1305 / 1355
+	
+		HP		17
+		ATK		5
+		DEF		4
+		SpAtk	18
+		SpDef	19
+		Speed	20
+		
+		Loyalty: 2
+		
+		Plus
+		Static
+		
+		HP: 88
+		Tutor: 7
+		
+		Thunder Wave
+		Helping Hand
+		Spark (AC2 DB6)
+		Electro Ball
+		Thunder
+		Charge
+		
+	Level 32 Female Minun, Jolly - Ioi - 1305 / 1355
+	
+		HP		15
+		ATK		5
+		DEF		4
+		SpAtk	18
+		SpDef	19
+		Speed	20
+		
+		Loyalty: 2
+		
+		Minus
+		Static
+		
+		HP: 88
+		Tutor: 7
+		
+		Thunder Wave
+		Helping Hand
+		Spark (AC2 DB6)
+		Electro Ball
+		Charge
+		Thunder
+		
+	Level 32 Male Teddiursa, Adamant - Winnie - 1449 / 1455
+	
+		HP		20
+		ATK		21
+		DEF		11 
+		SpAtk	3
+		SpDef	11
+		Speed	10
+		
+		Loyalty: 3
+		
+		Pick Up
+		Alluring
+		Quick Feet
+		
+		HP		101
+		Tutor	2
+		
+		Faint Attack
+		Fury Swipes
+		Aerial Ace
+		Belly Drum
+		Close Combat (DB 12 AC 2)
+		Slash
+		
+	Level 33 Male Chingling, Stoic - XXXXX
+	
+		HP		15
+		ATK		3
+		DEF		15
+		SpAtk	20
+		SpDef	15
+		Speed	5
+		
+		Loyalty: 2
+		
+		Levitate
+		Magic Guard
+		
+		HP		88
+		Tutor	7
+		
+		Confusion
+		Uproar
+		Last Resort
+		Entrainment
+		
+	Level 5 Female Vulpix, Dreamy - 45
+	
+		HP		3
+		ATK		4
+		DEF		3
+		SpAtk	5
+		SpDef	9
+		Speed	7
+		
+		Loyalty: 2
+		
+		Keen Eye
+		
+		HP		88
+		Tutor	3
+		
+		Bite
+		Taunt
+		Pursuit
+		Quick Attack
+		
+IN THE BANK
+		 
+	Level 67 Male Raticate, Adamant - Raticunt - 7 660
+	 
+		HP		20
+		ATK		66
+		DEF		8
+		SpAtk	1
+		SpDef	21
+		Speed	25
+
+		Loyalty: 1
+
+		Guts
+		Crushing Jaw
+		Huge Power
+		
+		HP: 128
+		Tutor: 2
+		Overland: 9
+		Swim: 7
+		Jump: 4/4
+		Power: 4
+		
+		Bite
+		Hyperfang
+		Super Fang
+		Crunch
+		Savage (2d12+20, At Will)
+		Endeavor
+		
+	Level 14 Male Pidgey, Bold - Pudge - 167
+	
+		HP		8
+		ATK		4
+		DEF		13
+		SpAtk	6
+		SpDef	6
+		Speed	13
+		
+		Loyalty: 2
+		
+		Keen Eye
+		
+		HP		88
+		Tutor	3
+		
+		Tackle
+		Sand Attack
+		Gust
+		Quick Attack
+		
+RELEASED AND STILL WITH US
+
+	Level 35 Male Gardevoir, Modest - Adam - 1761 / 1770
+
+		HP		13
+		ATK		9
+		DEF		14
+		SpAtk	36
+		SpDef	16
+		Speed	12
+		
+		Loyalty: 3
+
+		Synchronise
+		Telepathy
+		Telekinesis
+		Teleporter 6
+		Aura Reader
+	
+		HP: 84
+		Tutor: 8
+		
+		Heal Pulse
+		Confusion
+		Psychic
+		Teleport
+		Calm Mind
+		Magical Leaf
+
+GOALS
+Beat Brock
+Get back home and visit parents
+Save pokemon from cruelty (ongoing)
+Develop my pokemon
+
+RIP
+
+Dorothy, level 23 Murkrow, devoured by Trevenant.
+Sneeze, crushed by rocks
+Ivysaur, crushed by rocks
+Magby, crushed by rocks
+Magicarp, crushed by rocks
