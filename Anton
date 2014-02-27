@@ -2,40 +2,40 @@ Body	: -1
 Mind	: +2
 Spirit	: +4
 
-HP		: 19
+HP	: 19
 Attack	: 5
 Defense	: 11
 SpAtk	: 5
 SpDef	: 11
 Speed	: 5
 
-Acrobatics:				Untrained	
-Athletics:				Untrained	
-Combat:					Pathetic	
-Intimidate:				Untrained	
-Stealth:				Pathetic	
-Survival:				Untrained	
+Acrobatics:		Untrained	
+Athletics:		Untrained	
+Combat:			Pathetic	
+Intimidate:		Untrained	
+Stealth:		Pathetic	
+Survival:		Untrained	
 Education [Pokemon]: 	Untrained	
 Education [General]: 	Untrained	
 Education [Medicine]:	Untrained	
-Guile:					Pathetic	
-Perception:				Untrained	
-Charm:					Expert		
-Command:				Expert		
-Focus:					Adept		
-Intuition:				Expert		
+Guile:			Pathetic	
+Perception:		Untrained	
+Charm:			Expert		
+Command:		Expert		
+Focus:			Adept		
+Intuition:		Expert		
 
 Background: That Kid From The Ranch. You Know The One. (Combat, Stealth, Guile down, Charm, Focus, Inuition up)
 
-HP				: 87 (1)
-Power			: 3
-High Jump		: 0
-Long Jump		: 0
-Movement 		: 5
-Swimming 		: 2
-Action Points	: 5
-Level			: 10
-Exp				: 96
+HP		: 87 (1)
+Power		: 3
+High Jump	: 0
+Long Jump	: 0
+Movement 	: 5
+Swimming 	: 2
+Action Points	: 7
+Level		: 10
+Exp		: 96
 
 Edges:
 	1 : Group Trainer
@@ -88,9 +88,9 @@ Pokemon:
 		
 	Level 35 Bronzong, Modest - Bella - 1699 / 1770
 	
-		HP		19
-		ATK		7
-		DEF		22
+		HP	19
+		ATK	7
+		DEF	22
 		SpAtk	21
 		SpDef	23
 		Speed	3
@@ -112,9 +112,9 @@ Pokemon:
 		
 	Level 32 Female Plusle, Jolly - Oio - 1305 / 1355
 	
-		HP		17
-		ATK		5
-		DEF		4
+		HP	17
+		ATK	5
+		DEF	4
 		SpAtk	18
 		SpDef	19
 		Speed	20
@@ -136,9 +136,9 @@ Pokemon:
 		
 	Level 32 Female Minun, Jolly - Ioi - 1305 / 1355
 	
-		HP		15
-		ATK		5
-		DEF		4
+		HP	15
+		ATK	5
+		DEF	4
 		SpAtk	18
 		SpDef	19
 		Speed	20
@@ -160,9 +160,9 @@ Pokemon:
 		
 	Level 32 Male Teddiursa, Adamant - Winnie - 1449 / 1455
 	
-		HP		20
-		ATK		21
-		DEF		11 
+		HP	20
+		ATK	21
+		DEF	11 
 		SpAtk	3
 		SpDef	11
 		Speed	10
@@ -173,7 +173,7 @@ Pokemon:
 		Alluring
 		Quick Feet
 		
-		HP		101
+		HP	101
 		Tutor	2
 		
 		Faint Attack
@@ -185,9 +185,9 @@ Pokemon:
 		
 	Level 33 Male Chingling, Stoic - XXXXX
 	
-		HP		15
-		ATK		3
-		DEF		15
+		HP	15
+		ATK	3
+		DEF	15
 		SpAtk	20
 		SpDef	15
 		Speed	5
@@ -197,7 +197,7 @@ Pokemon:
 		Levitate
 		Magic Guard
 		
-		HP		88
+		HP	88
 		Tutor	7
 		
 		Confusion
@@ -207,9 +207,9 @@ Pokemon:
 		
 	Level 5 Female Vulpix, Dreamy - 45
 	
-		HP		3
-		ATK		4
-		DEF		3
+		HP	3
+		ATK	4
+		DEF	3
 		SpAtk	5
 		SpDef	9
 		Speed	7
@@ -218,7 +218,7 @@ Pokemon:
 		
 		Keen Eye
 		
-		HP		88
+		HP	88
 		Tutor	3
 		
 		Bite
@@ -230,9 +230,9 @@ IN THE BANK
 		 
 	Level 67 Male Raticate, Adamant - Raticunt - 7 660
 	 
-		HP		20
-		ATK		66
-		DEF		8
+		HP	20
+		ATK	66
+		DEF	8
 		SpAtk	1
 		SpDef	21
 		Speed	25
@@ -259,9 +259,9 @@ IN THE BANK
 		
 	Level 14 Male Pidgey, Bold - Pudge - 167
 	
-		HP		8
-		ATK		4
-		DEF		13
+		HP	8
+		ATK	4
+		DEF	13
 		SpAtk	6
 		SpDef	6
 		Speed	13
@@ -282,9 +282,9 @@ RELEASED AND STILL WITH US
 
 	Level 35 Male Gardevoir, Modest - Adam - 1761 / 1770
 
-		HP		13
-		ATK		9
-		DEF		14
+		HP	13
+		ATK	9
+		DEF	14
 		SpAtk	36
 		SpDef	16
 		Speed	12
@@ -308,10 +308,9 @@ RELEASED AND STILL WITH US
 		Magical Leaf
 
 GOALS
-Beat Brock
-Get back home and visit parents
 Save pokemon from cruelty (ongoing)
 Develop my pokemon
+Unfuck the region
 
 RIP
 
