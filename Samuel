@@ -1,0 +1,313 @@
+Body	: -1
+Mind	: +4
+Spirit	: +2
+
+HP		: 22
+Attack	: 5
+Defense	: 5
+SpAtk	: 5
+SpDef	: 5
+Speed	: 10
+
+Acrobatics:				Untrained	
+Athletics:				Untrained
+Combat:					Untrained
+Intimidate:				Untrained	
+Stealth:				Pathetic	
+Survival:				Novice	
+Education [General]:	Novice
+Education [Medicine]:	Untrained
+Education [Occult]:		Pathetic
+Education [Pokemon]:	Novice
+Education [Technology]:	Untrained
+Guile:					Pathetic	
+Perception:				Novice	
+Charm:					Untrained		
+Command:				Novice		
+Focus:					Untrained		
+Intuition:				Untrained		
+
+Background: Strongman (Perception, Education [Pokemon], Education [General] up, 
+						Education [Occult], Stealth, Guile down)
+
+HP					: 92
+Physical Evasion	: 1
+Special Evasion		: 1
+Speed Evasion		: 2
+Power				: 3
+High Jump			: 1
+Long Jump			: 0
+Movement 			: 5
+Swimming 			: 2
+Action Points		: 5
+Height:				: 5'10"
+Weight:				: 95 lb
+Level				: 8
+Exp					: 70
+
+Edges:
+	1 : Breeder
+	1 : Paleontologist
+	1 : Novice Survival
+	2 : Adept Education [Pokemon]
+	2 : Novice Command
+	4 :	Group Trainer
+	6 : Expert Education [Pokemon]
+	6 : Adept Education [General]
+	8 : Expert Education [General]
+	
+Features:
+	1 : Hatcher
+	1 : Birthright
+	1 : Researcher (Fossil Restoration)
+	3 : Ancient Heritage
+	5 : Complex Personality
+	7 : Bloodline Development
+	
+Basic Info:
+
+Goals
+
+Equipment: (15000 total)
+	
+Pokemon:
+
+	Level 20 Careful Cuddly Kabuto - 
+
+		HP		: 14
+		Attack	: 15
+		Defense	: 16
+		SpAtk	: 4
+		SpDef	: 16
+		Speed	: 6
+		
+		Type:	Rock/Water
+		Height: 1'8"
+		Weight: 25.4 lb (4)
+		
+		Abilities:
+			Battle Armor (Immune to crits)
+			Wave Rider (+4 Speed CS in water)
+			Covert (+2 Evasion in Rocks or Watery environments)
+		
+		Capabilities
+			HP					: 72
+			Physical Evasion	: 3
+			Special Evasion		: 3
+			Speed Evasion		: 1
+			Power				: 2
+			Overland			: 6
+			Swim				: 4
+			Burrow				: 7
+			Jump				: 0/1
+			Intelligence		: 4
+			Tutor				: 2
+			Gilled
+			Underdog
+			Hatcher (SpDef up, HP up)
+			Birthright (Dig)
+			
+		Tutor
+			Fossil Restoration (Cave, Covert) (2)
+			Bloodline Development (1)
+				Intelligence Capability Training
+				Dig Advanced Mobility Training
+				Overland Advanced Mobility Training
+		
+		Skills
+			Athletics 		| 2d6+2
+			Acrobatics		| 1d6
+			Combat			| 2d6
+			Stealth			| 3d6+2
+			Percetion		| 2d6
+			Focus			| 3d6+1
+			
+		Moves
+			Dig
+			Scratch
+			Absorb
+			Leer
+			Mud Shot
+			Ancient Power
+			
+		Notes
+			Found in a cave on the Whirl Islands in Johto
+
+	Level 20 Calm Quiet Omanyte - 
+
+		HP		: 4
+		Attack	: 2
+		Defense	: 20
+		SpAtk	: 20
+		SpDef	: 20
+		Speed	: 5
+		
+		Type:	Rock/Water
+		Height: 1'4"
+		Weight: 16.5 lb (1)
+		
+		Abilities:
+			Shell Shield (Withdraw as a Free Interrupt, shift to unwithdraw)
+			Rough Skin (Hit by damaging melee: attacker loses 1/10 HP)
+			Covert (+2 Evasion in Rocks or Watery environments)
+		
+		Capabilities
+			HP					: 42
+			Physical Evasion	: 4
+			Special Evasion		: 4
+			Speed Evasion		: 1
+			Power				: 1
+			Overland			: 5
+			Swim				: 7
+			Jump				: 1/1
+			Intelligence		: 3
+			Tutor				: 2
+			Gilled
+			Underdog
+			Hatcher (SpDef up, Speed up)
+			Birthright (Whirlpool)
+			
+		Tutor
+			Fossil Restoration (Cave, Covert) (2)
+			Bloodline Development (1)
+				Intelligence Capability Training
+				Swim Advanced Mobility Training
+				Overland Advanced Mobility Training
+		
+		Skills
+			Athletics 		| 2d6+2
+			Acrobatics		| 2d6
+			Combat			| 2d6
+			Stealth			| 2d6+2
+			Percetion		| 2d6
+			Focus			| 3d6+1
+			
+		Moves
+			Ancient Power
+			Whirlpool
+			Water Gun
+			Constrict
+			Withdraw
+			Rollout
+			
+		Notes
+			Found in Mt Moon in Kanto
+
+	Level 20 Adamant Decisive Aerodactyl - 
+
+		HP		: 9
+		Attack	: 30
+		Defense	: 7
+		SpAtk	: 3
+		SpDef	: 8
+		Speed	: 30
+		
+		Type:	Rock / Flying
+		Height: 5'11"
+		Weight: 130.1 lb
+		
+		Abilities:
+			Frighten
+			Cruelty
+			Covert
+		
+		Capabilities
+			HP					: 57
+			Physical Evasion	: 1
+			Special Evasion		: 1
+			Speed Evasion		: 6
+			Power				: 8
+			Overland			: 4
+			Swim				: 3
+			Sky					: 12
+			Jump				: 2/3
+			Intelligence		: 5
+			Mountable			: 1
+			Tutor				: 2
+			Hatcher (Attack up, Speed up)
+			Birthright (Steel Wing)
+			
+		Tutor
+			Fossil Restoration (Covert) (2)
+			Bloodline Development (1)
+				Perception Skill Development
+				Athletics Skill Development
+				Sky Advanced Mobility Training
+		
+		Skills
+			Athletics 		| 6d6+2
+			Acrobatics		| 4d6
+			Combat			| 4d6
+			Stealth			| 2d6
+			Percetion		| 4d6+1
+			Focus			| 4d6+3
+			
+		Moves
+			Ancient Power
+			Steel Wing
+			Bite
+			Wing Attack
+			Roar
+			Agility
+			
+		Notes
+			Found at Mt Coronet, in a cave in the foothills.
+
+	Level 20 Timid Proud Sheildon - 
+
+		HP		: 6
+		Attack	: 4
+		Defense	: 27
+		SpAtk	: 3
+		SpDef	: 28
+		Speed	: 1
+		
+		Type:	Rock / Steel
+		Height:1'8"
+		Weight: 125.7 lb
+		
+		Abilities:
+			Rock Head
+			Soundproof
+			Covert
+		
+		Capabilities
+			HP					: 48
+			Physical Evasion	: 5
+			Special Evasion		: 5
+			Speed Evasion		: 0
+			Power				: 5
+			Overland			: 5
+			Swim				: 4
+			Jump				: 0/0
+			Intelligence		: 4
+			Tutor				: 2
+			Underdog
+			Hatcher (HP up, SpDef up)
+			Birthright (Double Edge)
+			
+		Tutor
+			Fossil Restoration (Covert) (2)
+			Bloodline Development (1)
+				Overland Speed
+				Swim Speed
+				Intelligence Capability
+		
+		Skills
+			Athletics 		| 3d6+2
+			Acrobatics		| 1d6
+			Combat			| 2d6
+			Stealth			| 2d6
+			Percetion		| 3d6+1
+			Focus			| 3d6+3
+			
+		Moves
+			Ancient Power
+			Double Edge
+			Taunt
+			Metal Sound
+			Take Down
+			Tackle
+			
+		Notes
+			Found in Granite Cave, in Hoenn
