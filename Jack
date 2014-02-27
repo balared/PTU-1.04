@@ -1,290 +1,123 @@
-Body	: +0
-Mind	: +6
+Body	: +3
+Mind	: +3
 Spirit	: -1
 
-HP		: 14
-Attack	: 5
-Defense	: 5
-SpAtk	: 17
-SpDef	: 5
-Speed	: 15
+HP		: 10
+Attack	: 8
+Defense	: 8
+SpAtk	: 9
+SpDef	: 9
+Speed	: 9
 
-Acrobatics:				Untrained	
-Athletics:				Untrained	
-Combat:					Untrained	
+Acrobatics:				Novice	
+Athletics:				Novice	
+Combat:					Novice	
 Intimidate:				Pathetic	
-Stealth:				Untrained	
-Survival:				Pathetic	
-Education [Occult]: 	Adept	
-Education [Technology]:	Pathetic
-Guile:					Untrained	
-Perception:				Novice	
+Stealth:				Novice	
+Survival:				Novice	
+Education [General]:	Novice
+Education [Medicine]:	Novice
+Education [Occult]:		Pathetic
+Education [Pokemon]:	Novice
+Education [Technology]:	Untrained
+Guile:					Pathetic	
+Perception:				Expert	
 Charm:					Untrained		
-Command:				Expert		
-Focus:					Adept		
+Command:				Untrained		
+Focus:					Untrained		
 Intuition:				Untrained		
 
-Background: Saw Something Wrong (Intimidate, Survival, Education [Technology] down, Education [Occult], Perception, Focus up)
+Background: I do things, me (Perception, General Education, Acrobatics up || Guile, Education [Occult], Intimidate down)
 
-HP					: 68
+HP					: 56
 Physical Evasion	: 1
 Special Evasion		: 1
-Speed Evasion		: 3
-Power				: 4
+Speed Evasion		: 1
+Power				: 6
 High Jump			: 0
 Long Jump			: 1
-Movement 			: 5
-Swimming 			: 2
-Levitate			: 4
-Action Points		: 5
+Movement 			: 6
+Swimming 			: 3
+Action Points		: 6
 Level				: 8
 Exp					: 70
 
 Edges:
-	1 : Pathetic Intimidate
-	1 : Pathetic Survival
-	1 : Pathetic Education [Technology]
-	1 : Novice Education [Occult]
-	1 : Novice Perception
-	1 : Novice Focus
-	1 : Basic Psionics (Confusion)
-	1 : Elemental Connection (Psychic)
-	1 : Iron Mind
-	2 : Novice Command
-	2 : Group Trainer
-	4 : Adept Education [Occult]
-	6 : Adept Focus
-	8 : Expert Command
+	1				: Novice Athletics
+	1				: Groomer
+	1				: Breeder
+	Hobbyist		: Iron Mind
+	Hobbyist		: Natural Theory
+	2				: Novice Combat
+	2				: Adept Percetion
+	Hobbyist Adept	: Basic Balls
+	Hobbyist Adept	: Egg Index
+	4				: Novice Stealth
+	6				: Novice Education [Pokemon]
+	6				: Expert Perception
+	8				: Novice Education [Technology]
 	
 Features:
-	1 : Rune Master (Gain Gather Unown capability, Unown gain Letter Press)
-	1 : Hidden Power (Gain Hidden Power move)
-	1 : Telekinetic (Gain TK capability)
-	3 : Power of the Mind (Gain Levitate Ability)
-	5 : Words of Power (Hidden Power for ~ or pkmn can be 1 Target Melee, 1 Target 6m, Cone 2. All Hidden Powers have STAB)
-	7 : Rewrite (Reroll type for an instance of Hidden Power known. Can transform an Unown.)
-	
-Capabilities:
-	Rune Master		:	Gather Unown
-	Telekinetic		:	Telekinetic
-
-Abilities:
-	Power of the Mind	: Levitate
-	
-Moves:
-	Hidden Power (SpAtk)	:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB8 | Psychic
-	Confusion				:	At-Will | AC2 | 6m Ranged 1 | Special | DB5 | Psychic | Confuses on a 19+
+	1				: Rogue
+	1				: Hobbiest
+	1				: Varied Hobbies
+	Varied Hobbies	: First Aid (use perception instead)
+	3				: Hobbyist Adept
+	5				: Varied Hobbies
+	Varied Hobbies	: Quick Switch (use perception instead)
+	7				: Varied Hobbies
+	Varied Hobbies	: Swift Mount (use perception instead)
 	
 Basic Info:
-	Saro
-	36yo
+	Joey
+	16yo
 
 Equipment: (15000 total)
-	Gas Mask
-	Dark Vision Goggles
-	$4500
 	
 Pokemon:
 		
-	Level 20 Modest Unown Prime (6) - EMPATH - 400 / 460
+	Level 20 Decisive Mr Mime - Charlie - 600 / 670
 	
-		HP		5
-		ATK		5
-		DEF		5
-		SpAtk	24
-		SpDef	5
-		Speed	20
+		HP		9
+		ATK		10
+		DEF		12
+		SpAtk	15
+		SpDef	17
+		Speed	14
 		
 		Loyalty: 2
 		
-		Holding: Lax Incense
+		Abilities:	Filter
+					Technician
 		
-		Abilities:	Levitate
-					Telepathy
-		
-		Capabilities:	Levitate 6
-						Telepath
-						Swim 2
+		Capabilities:	Overland 5
+						Swim 3
 						Jump 1/1
-						Power 1
+						Power 5
 						Intelligence 6
-						Invisibility
 						Telekinetic
-						Underdog
-						Gather Unown
-						
-		Skills:	Athletics	| 1d6+2
-				Acrobatics	| 2d6
+						Telepathic
+		
+		Skills:	Athletics	| 3d6+2
+				Acrobatics	| 2d6+1
 				Combat		| 2d6
-				Stealth		| 3d6+1
-				Perception	| 6d6
-				Focus		| 4d6
-				
-		Tutors:	Perception++
-				Focus++
-				Intelligence++
-				Advanced Mobility (Levitate)++
-				Far Reading (Focus rank 2 higher for range)
+				Stealth		| 3d6+2
+				Perception	| 4d6+2
+				Focus		| 5d6+3
 		
-		HP: 45
-		Tutor: 0
-		Evasion: 7
+		HP: 81
+		Tutor: 5
+		Evasion: 5
 		
-		Hidden Power (Dragon)	:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB 8 | Psychic
-		//Hidden Power (Fairy)	:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB 8 | Psychic
-		//Hidden Power (Poison)	:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB 8 | Psychic
-		//Hidden Power (Dark)		:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB 8 | Psychic
-		//Hidden Power (Ghost)	:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB 8 | Psychic
-		//Hidden Power (Psychic)	:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB 8 | Psychic
+		Encore
+		Psywave
+		Mimic
+		Double Slap
+		Meditate
+		Copycat
 		
-	Level 20 Modest Unown Prime (6) - PHYSIC - 400 / 460
+	Level 20 Machop
 	
-		HP		5
-		ATK		5
-		DEF		5
-		SpAtk	24
-		SpDef	5
-		Speed	20
-		
-		Loyalty: 2
-		
-		Holding: Lax Incense
-		
-		Abilities:	Levitate
-					Telepathy
-		
-		Capabilities:	Levitate 6
-						Telepath
-						Swim 2
-						Jump 1/1
-						Power 1
-						Intelligence 6
-						Invisibility
-						Telekinetic
-						Underdog
-						Gather Unown
-						
-		Skills:	Athletics	| 1d6+2
-				Acrobatics	| 2d6
-				Combat		| 2d6
-				Stealth		| 3d6+1
-				Perception	| 6d6
-				Focus		| 4d6
-				
-		Tutors:	Perception++
-				Focus++
-				Intelligence++
-				Advanced Mobility (Levitate)++
-				TK Mastery (Focus 2 higher for Telekinetic)
-		
-		HP: 45
-		Tutor: 0
-		Evasion: 7
-		
-		Hidden Power (Fighting)	:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB 8 | Psychic
-		//Hidden Power (Ground)	:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB 8 | Psychic
-		//Hidden Power (Normal)	:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB 8 | Psychic
-		//Hidden Power (Rock)		:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB 8 | Psychic
-		//Hidden Power (Steel)	:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB 8 | Psychic
-		//Hidden Power (Flying)	:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB 8 | Psychic
-		
-	Level 20 Modest Unown Prime (6) - CLASIC - 400 / 460
+	Level 20 Lapras
 	
-		HP		5
-		ATK		5
-		DEF		5
-		SpAtk	24
-		SpDef	5
-		Speed	20
-		
-		Loyalty: 2
-		
-		Holding: Lax Incense
-		
-		Abilities:	Levitate
-					Telepathy
-		
-		Capabilities:	Levitate 6
-						Telepath
-						Swim 2
-						Jump 1/1
-						Power 1
-						Intelligence 6
-						Invisibility
-						Telekinetic
-						Underdog
-						Gather Unown
-						
-		Skills:	Athletics	| 1d6+2
-				Acrobatics	| 2d6
-				Combat		| 2d6
-				Stealth		| 3d6+1
-				Perception	| 6d6
-				Focus		| 4d6
-				
-		Tutors:	Perception++
-				Focus++
-				Intelligence++
-				Advanced Mobility (Levitate)++
-				Extended Invisibility (May remain invisible for 8 minutes)
-		
-		HP: 45
-		Tutor: 0
-		Evasion: 7
-		
-		Hidden Power (Ice)		:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB 8 | Psychic
-		//Hidden Power (Ground)	:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB 8 | Psychic
-		//Hidden Power (Water)	:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB 8 | Psychic
-		//Hidden Power (Bug)		:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB 8 | Psychic
-		//Hidden Power (Fire)		:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB 8 | Psychic
-		//Hidden Power (Grass)	:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB 8 | Psychic
-		
-	Level 20 Modest Unown Prime (1) - FORCED - 400 / 460
-	
-		HP		5
-		ATK		5
-		DEF		5
-		SpAtk	24
-		SpDef	5
-		Speed	20
-		
-		Loyalty: 2
-		
-		Holding: Lax Incense
-		
-		Abilities:	Levitate
-					Telepathy
-		
-		Capabilities:	Levitate 6
-						Telepath
-						Swim 2
-						Jump 1/1
-						Power 1
-						Intelligence 6
-						Invisibility
-						Telekinetic
-						Underdog
-						Gather Unown
-						
-		Skills:	Athletics	| 1d6+2
-				Acrobatics	| 2d6
-				Combat		| 2d6
-				Stealth		| 3d6+1
-				Perception	| 6d6
-				Focus		| 4d6
-				
-		Tutors:	Perception++
-				Focus++
-				Intelligence++
-				Advanced Mobility (Levitate)++
-		
-		HP: 45
-		Tutor: 1
-		Evasion: 7
-		
-		Hidden Power (Electric)	:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB 8 | Psychic
-		//Hidden Power (Psychic)	:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB 8 | Psychic
-		//Hidden Power (Ghost)	:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB 8 | Psychic
-		//Hidden Power (Fairy)	:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB 8 | Psychic
-		//Hidden Power (Flying)	:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB 8 | Psychic
-		//Hidden Power (Ground)	:	EOT | AC2 | Burst 1 / Melee 1 / 6m Ranged 1 / Cone 2 | Special | DB 8 | Psychic
+	Level 20 Rhyhorn
