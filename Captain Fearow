@@ -144,12 +144,12 @@ Pokemon:
 			Focus			| 5d6+2
 			
 		Moves
-			Bullet Punch
-			Mach Punch
-			Vacuum Wave
-			Feint
-			Persuit
-			Agility
+			Bullet Punch	Steel | At-Will | AC2 | DB6 | Physical | Melee 1 Priority | May be declared to take turn immediately
+			Mach Punch	Fighting | At-Will | AC2 | DB8 | Physcial | Melee 1 Priority | May be declared to take turn immediately
+			Vacuum Wave	Fighting | At-Will | AC2 | DB6 | Special | 4m Ranged 1 Priority Aura |  May be declared to take turn immediately
+			Feint		Normal | Scene | Status | Trigger | If a foe uses a move with the shield keyword in responce to an action, Feint causes it to fail. Free action, no command
+			Persuit		Dark | At-Will | AC2 | DB4 | Physical | Can interrupt a fleeing pokemon. +5 to move speeds, DB 8 when interrupting
+			Agility		Psychic | EOT | AC0 | Status | Self | +2 Speed CS
 
 	Level 30 Adamant Golett
 
@@ -181,6 +181,7 @@ Pokemon:
 			Tutor			: 7
 			Darkvision
 			Underdog
+			Groundshaper
 			
 		Tutor
 		
@@ -193,12 +194,12 @@ Pokemon:
 			Focus			| 4d6+2
 			
 		Moves
-			Shadow Punch
-			Mega Punch
-			Dynamic Punch
-			Magnitude
-			Rollout
-			Defense Curl
+			Shadow Punch	Ghost | EOT | AC0 | DB10 | Physical | 6m Ranged 1 | Cannot miss
+			Mega Punch	Normal | At-Will | AC4 | DB10 | Physical | Melee 1
+			Dynamic Punch	Fighting | At-Will | AC9 | DB12 | Physical | Melee 1 | Causes confusion. Ignores evasion if target is flanked
+			Magnitude	Ground | EOT | DBX | Physical | Burst 2 Groundsource | DB = 5 + 1d6. Hits underground targets
+			Rollout		Rock | At-Will | AC4 | DB3 | Physical | Melee 1 Pass | Each successive hit: DB + 4 (max DB15)
+			Defense Curl	Normal | At-Will | AC0 | Status | Self | User becomes Curled Up: Immune to crits, Slowed, AC - 4, Swift to end, if the user uses Rollout or Ice Ball, +10 damage and no accuracy penalty
 
 	Level 20 Patient Male Chimchar
 
