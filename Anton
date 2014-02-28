@@ -18,6 +18,8 @@ Survival:		Untrained
 Education [Pokemon]: 	Untrained	
 Education [General]: 	Untrained	
 Education [Medicine]:	Untrained	
+Education [Occult]: 	Untrained	
+Education [Technology]:	Untrained	
 Guile:			Pathetic	
 Perception:		Untrained	
 Charm:			Expert		
@@ -27,13 +29,13 @@ Intuition:		Expert
 
 Background: That Kid From The Ranch. You Know The One. (Combat, Stealth, Guile down, Charm, Focus, Inuition up)
 
-HP		: 87 (1)
+HP		: 87
 Power		: 3
 High Jump	: 0
 Long Jump	: 0
 Movement 	: 5
 Swimming 	: 2
-Action Points	: 7
+Action Points	: 7 (4)
 Level		: 10
 Exp		: 96
 
@@ -69,7 +71,7 @@ Basic Info:
 	20yo
 
 Equipment:
-	5 Bandages
+	4 Bandages
 	10 Pokeball
 	2 Great Balls
 	Unrefined Moonstone
@@ -79,7 +81,9 @@ Equipment:
 	Pokedex
 	Food x15
 	6ft stick
-	$13651
+	$12691
+	Winter Cloak
+	Cold Weather Gear
 	Passport
 	Fancy fancy prosthetic
 	Memorial pokeball
