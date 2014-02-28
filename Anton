@@ -301,12 +301,12 @@ RELEASED AND STILL WITH US
 		HP: 84
 		Tutor: 8
 		
-		Heal Pulse
-		Confusion
-		Psychic
-		Teleport
-		Calm Mind
-		Magical Leaf
+		Heal Pulse	Psychic | Daily x2 | None | Status | 6m Ranged Aura | Restore 50% of targets max HP. Cannot target self.
+		Confusion	Psychic | At-Will | AC2 | DB7 | Special | 6m Ranged 1 | Confuses on 19+
+		Psychic		Psychic | EOT | AC2 | DB11 | Special | 6m Ranged Push | Target pushed 1 in any direction. Lowers target's SpDef by 1CS on 17+
+		Teleport	Psychic | Scene | AC0 | Status | Self, Interrupt | Teleports 6 as an interrupt
+		Calm Mind	Psychic | EOT | AC0 | Status | Self | +1 SpAtk and SpDef CS
+		Magical Leaf	Grass | EOT | AC0 | DB6 | Special | 8m Ranged 1 | Cannot miss
 
 GOALS
 Save pokemon from cruelty (ongoing)
