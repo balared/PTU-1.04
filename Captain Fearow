@@ -62,15 +62,15 @@ Features:
 	1 : Disciple (Instinct ability) [+Atk, +SpDef]
 	3 : Sight Beyond Sight (Adept Perception, Blindsense capability) [+Atk, +SpDef]
 	5 : Martial Achievement (Pummelling Momentum) [+2 Def]
-	7 : Martial Training (moves Comet Punch, Mega Punch) [+2 Def]
+	7 : Mystic's Power (Drain Punch, Focus Punch) [+Atk, +SpDef]
 	
 Moves:
         Rock Smash      Fighting | At-Will | AC2 | DB4 | Physical | Melee 1 | 17+ : Lower target Defense 1CS
         Mach Punch      Fighting | At-Will | AC2 | DB6 | Physcial | Melee 1 Priority | May be declared to take turn immediately
         Double Kick     Fighting | At-Will | AC3 | DB3 | Physical | Melee 1 Double Strike
         Fury Attack     Normal | At-Will | AC4 | DB2 | Physical | Melee 1 Five Strike
-        Comet Punch     Normal | At-Will | AC4 | DB2 + 2 | Physical | Melee 1 Five Strike
-        Mega Punch      Normal | At-Will | AC4 | DB10 | Physical | Melee 1
+        Drain Punch	Fighting | Scene x2 | AC2 | DB10 | Physical | Melee 1 | Gains HP = 1/2 damage
+        Focus Punch	Fighting | EOT | AC2 | DB17 | Physical | Melee 1 Priority | Declared at start of round. If ~ hasn't been hit by an attack, shift and use Focus Punch.
         
 Abilities:      Iron Fist (+2 DB on moves listed below)
                 Instinct (+2 base Evasion)
