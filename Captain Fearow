@@ -1,0 +1,147 @@
+Body    : +6
+Mind    : -1
+Spirit  : +0
+
+HP	: 13
+Attack	: 15
+Defense	: 15
+SpAtk	: 6
+SpDef	: 15
+Speed	: 6
+
+2
+
+Acrobatics:		Untrained	
+Athletics:		Novice
+Combat:			Expert
+Intimidate:		Untrained	
+Stealth:		Untrained	
+Survival:		Untrained	
+Education [General]:	Pathetic
+Education [Medicine]:	Untrained
+Education [Occult]:	Pathetic
+Education [Pokemon]:	Untrained
+Education [Technology]:	Pathetic
+Guile:			Untrained	
+Perception:		Expert	
+Charm:			Untrained		
+Command:		Untrained		
+Focus:			Untrained		
+Intuition:		Expert		
+
+Background: Performance Fighter (Intuition, Athletics, Combat up, 
+		Education [General], Education [Occult], Education [Technology] down)
+
+HP			: 65
+Physical Evasion	: 5
+Special Evasion		: 5
+Speed Evasion		: 3
+Power			: 6
+High Jump		: 0
+Long Jump		: 1
+Movement 		: 5
+Swimming 		: 2
+Action Points		: 6
+Height:			: 6'0
+Weight:			: 110lb
+Level			: 8
+Exp			: 70
+
+Edges:
+	1 : Basic Martial Arts (Learn Rock Smash)
+	1 : Combat Training (+1 to all Stats)
+	1 : Mystic Senses (intuition instead of charm to improve disposition of Wild Pokemon)
+	2 : Novice Perception
+	2 : Adept Combat
+	4 : Fury of Blows (move Fury Attack)
+	6 : Adept Intuition
+	6 : Expert Combat
+	8 : Expert Intuition
+	
+Features:
+	1 : Martial Artist (Iron Fist ability) [+2 Def]
+	1 : Martial Training (moves Mach Punch, Double Kick) [+2 Def]
+	1 : Disciple (Instinct ability) [+Atk, +SpDef]
+	3 : Sight Beyond Sight (Adept Perception, Blindsense capability) [+Atk, +SpDef]
+	5 : Martial Achievement (Pummelling Momentum) [+2 Def]
+	7 : Martial Training (moves Comet Punch, Mega Punch) [+2 Def]
+	
+Moves:
+        Rock Smash      Fighting | At-Will | AC2 | DB4 | Physical | Melee 1 | 17+ : Lower target Defense 1CS
+        Mach Punch      Fighting | At-Will | AC2 | DB6 | Physcial | Melee 1 Priority | May be declared to take turn immediately
+        Double Kick     Fighting | At-Will | AC3 | DB3 | Physical | Melee 1 Double Strike
+        Fury Attack     Normal | At-Will | AC4 | DB2 | Physical | Melee 1 Five Strike
+        Comet Punch     Normal | At-Will | AC4 | DB2 + 2 | Physical | Melee 1 Five Strike
+        Mega Punch      Normal | At-Will | AC4 | DB10 | Physical | Melee 1
+        
+Abilities:      Iron Fist (+2 DB on moves listed below)
+                Instinct (+2 base Evasion)
+
+Capabilities:   Blindsense (Functions in darkness, cannot be blinded)
+
+Basic Info:
+        Douglas J Farrow
+
+Goals
+
+Equipment: (15000 total)
+
+Notes:
+        Moves increased by Iron Fist
+                Bullet Punch
+                Comet Punch
+                Dizzy Punch
+                Drain Punch
+                Dynamic Punch
+                Fire Punch
+                Meteor Mash
+                Shadow Punch
+                Ice Punch
+                Mach Punch
+                Mega Punch
+                Sky Uppercut
+                Thunder Punch
+                Focus Punch
+                Hammer Arm
+	
+Pokemon:
+
+	Level 
+
+		HP	: 
+		Attack	: 
+		Defense	: 
+		SpAtk	: 
+		SpDef	: 
+		Speed	: 
+		
+		Type:	
+		Height: 
+		Weight: 
+		
+		Abilities:
+			
+		
+		Capabilities
+			HP			: 
+			Physical Evasion	: 
+			Special Evasion		: 
+			Speed Evasion		: 
+			Power			: 
+			Overland		: 
+			Swim			: 
+			Jump			: 
+			Intelligence		: 
+			Tutor			: 
+			
+		Tutor
+		
+		Skills
+			Athletics 		| d6
+			Acrobatics		| d6
+			Combat			| d6
+			Stealth			| d6
+			Percetion		| d6
+			Focus			| d6
+			
+		Moves
