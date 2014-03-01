@@ -2,7 +2,7 @@ Body	: -1
 Mind	: +2
 Spirit	: +4
 
-HP	: 19
+HP	: 20
 Attack	: 5
 Defense	: 11
 SpAtk	: 5
@@ -29,15 +29,15 @@ Intuition:		Expert
 
 Background: That Kid From The Ranch. You Know The One. (Combat, Stealth, Guile down, Charm, Focus, Inuition up)
 
-HP		: 87
+HP		: 92
 Power		: 3
 High Jump	: 0
 Long Jump	: 0
 Movement 	: 5
 Swimming 	: 2
 Action Points	: 7
-Level		: 10
-Exp		: 99
+Level		: 11
+Exp		: 103
 
 Edges:
 	1 : Group Trainer
@@ -65,6 +65,7 @@ Features:
 	1 : Inspired Growth
 	5 : Shared Senses
 	9 : Soul Shuffle
+	11: Guidance
 	
 Basic Info:
 	Anton Talwain
@@ -117,6 +118,7 @@ Pokemon: 560
 		Entrainment	Normal | Scene | AC2 | Status | 4m Ranged 1 | Target gains one of the user's abilities for 3 turns
 		Safeguard	Normal | Scene | None | Status | Blessing | 3 instances to negate a Status Ailment
 		Heal Bell	Normal | Scene | None | Status | Burst 3 Sonic | All targets are cured of Persistent Status ailments
+		Psy Wave	Psychic | Scene | AC5 | Special | 6m Ranged 1 | Target loses (1d4) / 4 of user's health
 	
 	Level 35 Bronzong, Modest - Bella - 1699 / 1770
 	
@@ -141,6 +143,7 @@ Pokemon: 560
 		Feint Attack	Dark | At-Will | AC0 | DB6 | Physical | Melee 1 | Cannot Miss
 		Psy Wave	Psychic | Scene | AC5 | Special | 6m Ranged 1 | Target loses (1d4) / 4 of user's health
 		Iron Defense	Steel | EOT | AC0 | Status | Self | +2 Defense CS
+		Confuse Ray	
 			
 	Level 32 Male Ursaring, Adamant - Winnie - 1449 / 1455
 	
@@ -166,6 +169,7 @@ Pokemon: 560
 		Belly Drum	Normal | Scene | AC0 | Status | Self | +6 CS Stages, lose 1/2 max HP
 		Close Combat	Fighting | Scene x2 | AC2 | DB12 | Physical | Melee 1 Dash | Users Def and SpDef -1 CS
 		Slash		Normal | EOT | AC2 | DB9 | Physical | Melee, Pass | Crit on 18+
+		Scary Face
 	
 	Level 32 Female Plusle, Jolly - Oio - 1305 / 1355
 	
@@ -190,6 +194,7 @@ Pokemon: 560
 		Electro Ball	Electric | Scene x2 | AC2 | DB8 | Special | 10m Ranged 1 | + Speed to damage. Defender subtracts Speed from damage
 		Thunder		Electric | Scene x2 | AC7 | DB13 | Special | 12m Ranged 1 Smite | Paralyzes on 19+. In sunny weather, AC11. In rainy weather, can't miss. If target is airborn from Fly or Sky Drop, cannot miss.
 		Charge		Electric | EOT | AC0 | Status | Self | Doubles damage on electric move next turn. +1 SpDef CS
+		Nuzzle
 
 	Level 32 Female Minun, Jolly - Ioi - 1305 / 1355
 	
@@ -214,6 +219,7 @@ Pokemon: 560
 		Electro Ball	Electric | Scene x2 | AC2 | DB8 | Special | 10m Ranged 1 | + Speed to damage. Defender subtracts Speed from damage
 		Thunder		Electric | Scene x2 | AC7 | DB13 | Special | 12m Ranged 1 Smite | Paralyzes on 19+. In sunny weather, AC11. In rainy weather, can't miss. If target is airborn from Fly or Sky Drop, cannot miss.
 		Charge		Electric | EOT | AC0 | Status | Self | Doubles damage on electric move next turn. +1 SpDef CS
+		Nuzzle
 	
 	Level 5 Female Vulpix, Dreamy - 45
 	
@@ -235,7 +241,10 @@ Pokemon: 560
 		Taunt		Dark | EOT | AC3 | Status | 6m Ranged 1 | Target becomes unranged
 		Pursuit		Dark | At-Will | AC2 | DB4 | Physical | Melee 1 | Interupt on escaping targets. +5 to move speeds, DB8
 		Quick Attack	Normal | At-Will | AC2 | DB4 | Physical | Melee 1 Priority | Declare to take turn immediately
-	
+		Fire Spin
+		Quick Attack
+		Confuse Ray
+		
 IN THE BANK
 		 
 	Level 67 Male Raticate, Adamant - Raticunt - 7 660
@@ -288,6 +297,8 @@ IN THE BANK
 		Sand Attack	Ground | EOT | AC2 | Status | 2m Ranged 1 | Blinded UEOT
 		Gust		Flying | At-Will | AC4 | DB6 | Special | 4m Ranged 1 | Hits Fly or Sky Drop dudes, ignoring range with DB8
 		Quick Attack	Normal | At-Will | AC2 | DB6 | Special | Melee 1 Priority | Declare to take turn immediately
+		Whirlwind
+		Twister
 		
 RELEASED AND STILL WITH US
 
@@ -321,16 +332,24 @@ RELEASED AND STILL WITH US
 GOALS
 Save pokemon from cruelty (ongoing)
 Develop my pokemon
-Unfuck the region
 Tame Raticunt
 
 RIP
 
-Dorothy, level 23 Murkrow, devoured by Trevenant.
-Sneeze, crushed by rocks
-Ivysaur, crushed by rocks
-Magby, crushed by rocks
-Magicarp, crushed by rocks
+	Dorothy, level 23 Murkrow, devoured by Trevenant.
+	Glameow, killed by Erika
+	Sneeze, crushed by rocks
+	Ivysaur, crushed by rocks
+	Magby, crushed by rocks
+	Magicarp, crushed by rocks
+	Deckard Devlin, exploded by Regice
+	Hariyama, exploded by Regice
+	Noctowl, exploded by Regice
+	Muk, exploded by Regice
+	Fletchinder, exploded by Regice
+	Growlith, exploded by Regice
+	1 Other, exploded by Regice
+	Cleric the Smergle, exploded by Regice
 
 Large pokemon that've had a good go at killing me
 
