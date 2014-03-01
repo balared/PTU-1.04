@@ -29,7 +29,7 @@ Intuition:		Expert
 
 Background: That Kid From The Ranch. You Know The One. (Combat, Stealth, Guile down, Charm, Focus, Inuition up)
 
-HP		: 87 (1 / 7)
+HP		: 87
 Power		: 3
 High Jump	: 0
 Long Jump	: 0
@@ -108,7 +108,7 @@ Pokemon: 560
 		Levitate
 		Magic Guard
 		
-		HP	114 (26 / 3)
+		HP	114
 		Tutor	7
 		
 		Confusion	Psychic | At-Will | AC2 | DB7 | Special | 6m Ranged 1 | Confuses on 19+
@@ -132,7 +132,7 @@ Pokemon: 560
 		Levitate
 		Heavy Metal
 		
-		HP: 101 (40 / 1)
+		HP: 101
 		Tutor: 7
 		
 		Safeguard	Normal | Scene | None | Status | Blessing | 3 instances to negate a Status Ailment
@@ -157,7 +157,7 @@ Pokemon: 560
 		Frighten
 		Quick Feet
 		
-		HP	101 (50 / 5)
+		HP	101
 		Tutor	2
 		
 		Feint Attack	Dark | At-Will | AC0 | DB6 | Physical | Melee 1 | Cannot Miss
@@ -205,7 +205,7 @@ Pokemon: 560
 		Minus
 		Static
 		
-		HP: 88 (17 / 8)
+		HP: 88
 		Tutor: 7
 		
 		Thunder Wave	Electric | Scene x2 | None | Status | 6m Ranged 1 | Cannot miss. Paralyzes. Electric immune enemies are not hit
@@ -228,7 +228,7 @@ Pokemon: 560
 		
 		Keen Eye
 		
-		HP	88 (44/5)
+		HP	88
 		Tutor	3
 		
 		Bite		Dark | At-Will | AC2 | DB6 | Physical | Melee 1 | Flinches on 15+
