@@ -2,48 +2,48 @@ Body	: +6
 Mind	: +0
 Spirit	: -1
 
-HP		: 22
+HP	: 22
 Attack	: 6
 Defense	: 6
 SpAtk	: 6
 SpDef	: 6
 Speed	: 24
 
-Acrobatics:				Untrained	
-Athletics:				Novice
-Combat:					Novice
-Intimidate:				Untrained	
-Stealth:				Expert	
-Survival:				Expert	
+Acrobatics:		Untrained	
+Athletics:		Novice
+Combat:			Novice
+Intimidate:		Untrained	
+Stealth:		Expert	
+Survival:		Expert	
 Education [General]:	Untrained
 Education [Medicine]:	Untrained
-Education [Occult]:		Untrained
+Education [Occult]:	Untrained
 Education [Pokemon]:	Untrained
 Education [Technology]:	Pathetic
-Guile:					Untrained	
-Perception:				Untrained	
-Charm:					Pathetic		
-Command:				Adept		
-Focus:					Pathetic		
-Intuition:				Untrained		
+Guile:			Untrained	
+Perception:		Untrained	
+Charm:			Pathetic		
+Command:		Adept		
+Focus:			Pathetic		
+Intuition:		Untrained		
 
 Background: Game Hunter (Stealth, Survival, Command up, 
-						Education [Technology], Charm, Focus down)
+				Education [Technology], Charm, Focus down)
 
-HP					: 92
+HP			: 92
 Physical Evasion	: 1
 Special Evasion		: 1
 Speed Evasion		: 6
-Power				: 6
-High Jump			: 1
-Long Jump			: 0
-Movement 			: 5
-Swimming 			: 2
+Power			: 6
+High Jump		: 1
+Long Jump		: 0
+Movement 		: 5
+Swimming 		: 2
 Action Points		: 6
-Height:				: 5'10"
-Weight:				: 95 lb
-Level				: 8
-Exp					: 70
+Height:			: 5'10"
+Weight:			: 95 lb
+Level			: 8
+Exp			: 70
 
 Edges:
 	1 : Group Trainer
@@ -51,7 +51,7 @@ Edges:
 	1 : Novice Combat
 	2 : Adept Survival
 	2 : Novice Athletics
-	4 :	Adept Stealth
+	4 : Adept Stealth
 	6 : Expert Survival
 	6 : Adept Command
 	8 : Expert Stealth
@@ -74,7 +74,7 @@ Pokemon:
 
 	Level 30 Jolly Male Honchkrow - Don -  / XP
 
-		HP		: 29
+		HP	: 29
 		Attack	: 13
 		Defense	: 5
 		SpAtk	: 9
@@ -91,17 +91,17 @@ Pokemon:
 			Teamwork
 		
 		Capabilities
-			HP					: 127
+			HP			: 127
 			Physical Evasion	: 1
 			Special Evasion		: 1
 			Speed Evasion		: 6
-			Power				: 4
-			Overland			: 4
-			Swim				: 2
-			Jump				: 2/2
-			Fly:				: 8
+			Power			: 4
+			Overland		: 4
+			Swim			: 2
+			Jump			: 2/2
+			Fly:			: 8
 			Intelligence		: 4 
-			Tutor				: 5
+			Tutor			: 5
 			Darkvision
 			Guster
 			Pack Mon
@@ -110,12 +110,12 @@ Pokemon:
 			Teamwork (2AP)
 		
 		Skills
-			Athletics 		| 3d6+2
-			Acrobatics		| 3d6+1
-			Combat			| 4d6
-			Stealth			| 3d6
-			Percetion		| 4d6+1
-			Focus			| 3d6+2
+			Athletics 	| 3d6+2
+			Acrobatics	| 3d6+1
+			Combat		| 4d6
+			Stealth		| 3d6
+			Percetion	| 4d6+1
+			Focus		| 3d6+2
 			
 		Moves
 			Persuit			
@@ -127,7 +127,7 @@ Pokemon:
 
 	Level 10 Jolly Male Murkrow - Michael -  / XP
 
-		HP		: 7
+		HP	: 7
 		Attack	: 9
 		Defense	: 4
 		SpAtk	: 7
@@ -144,17 +144,17 @@ Pokemon:
 			Pack Hunt
 		
 		Capabilities
-			HP					: 41
+			HP			: 41
 			Physical Evasion	: 1
 			Special Evasion		: 1
 			Speed Evasion		: 6
-			Power				: 1
-			Overland			: 3
-			Swim				: 1
-			Jump				: 2/2
-			Fly:				: 6
+			Power			: 1
+			Overland		: 3
+			Swim			: 1
+			Jump			: 2/2
+			Fly:			: 6
 			Intelligence		: 4 
-			Tutor				: 1
+			Tutor			: 1
 			Darkvision
 			Stealth
 			Underdog
@@ -164,12 +164,12 @@ Pokemon:
 			Pack Hunt (2AP)
 		
 		Skills
-			Athletics 		| 2d6+1
-			Acrobatics		| 3d6
-			Combat			| 2d6+1
-			Stealth			| 4d6+1
-			Percetion		| 3d6+1
-			Focus			| 2d6+1
+			Athletics 	| 2d6+1
+			Acrobatics	| 3d6
+			Combat		| 2d6+1
+			Stealth		| 4d6+1
+			Percetion	| 3d6+1
+			Focus		| 2d6+1
 			
 		Moves
 			Astonish
@@ -178,7 +178,7 @@ Pokemon:
 
 	Level 10 Jolly Male Murkrow - Sonny -  / XP
 
-		HP		: 7
+		HP	: 7
 		Attack	: 9
 		Defense	: 4
 		SpAtk	: 7
@@ -195,17 +195,17 @@ Pokemon:
 			Pack Hunt
 		
 		Capabilities
-			HP					: 41
+			HP			: 41
 			Physical Evasion	: 1
 			Special Evasion		: 1
 			Speed Evasion		: 6
-			Power				: 1
-			Overland			: 3
-			Swim				: 1
-			Jump				: 2/2
-			Fly:				: 6
+			Power			: 1
+			Overland		: 3
+			Swim			: 1
+			Jump			: 2/2
+			Fly:			: 6
 			Intelligence		: 4 
-			Tutor				: 1
+			Tutor			: 1
 			Darkvision
 			Stealth
 			Underdog
@@ -215,12 +215,12 @@ Pokemon:
 			Pack Hunt (2AP)
 		
 		Skills
-			Athletics 		| 2d6+1
-			Acrobatics		| 3d6
-			Combat			| 2d6+1
-			Stealth			| 4d6+1
-			Percetion		| 3d6+1
-			Focus			| 2d6+1
+			Athletics 	| 2d6+1
+			Acrobatics	| 3d6
+			Combat		| 2d6+1
+			Stealth		| 4d6+1
+			Percetion	| 3d6+1
+			Focus		| 2d6+1
 			
 		Moves
 			Astonish
@@ -229,7 +229,7 @@ Pokemon:
 
 	Level 10 Jolly Female Murkrow - Petra -  / XP
 
-		HP		: 7
+		HP	: 7
 		Attack	: 9
 		Defense	: 4
 		SpAtk	: 7
@@ -246,17 +246,17 @@ Pokemon:
 			Pack Hunt
 		
 		Capabilities
-			HP					: 41
+			HP			: 41
 			Physical Evasion	: 1
 			Special Evasion		: 1
 			Speed Evasion		: 6
-			Power				: 1
-			Overland			: 3
-			Swim				: 1
-			Jump				: 2/2
-			Fly:				: 6
+			Power			: 1
+			Overland		: 3
+			Swim			: 1
+			Jump			: 2/2
+			Fly:			: 6
 			Intelligence		: 4 
-			Tutor				: 1
+			Tutor			: 1
 			Darkvision
 			Stealth
 			Underdog
@@ -266,12 +266,12 @@ Pokemon:
 			Pack Hunt (2AP)
 		
 		Skills
-			Athletics 		| 2d6+1
-			Acrobatics		| 3d6
-			Combat			| 2d6+1
-			Stealth			| 4d6+1
-			Percetion		| 3d6+1
-			Focus			| 2d6+1
+			Athletics 	| 2d6+1
+			Acrobatics	| 3d6
+			Combat		| 2d6+1
+			Stealth		| 4d6+1
+			Percetion	| 3d6+1
+			Focus		| 2d6+1
 			
 		Moves
 			Astonish
@@ -280,7 +280,7 @@ Pokemon:
 
 	Level 10 Jolly Female Murkrow - Kay -  / XP
 
-		HP		: 7
+		HP	: 7
 		Attack	: 9
 		Defense	: 4
 		SpAtk	: 7
@@ -297,17 +297,17 @@ Pokemon:
 			Pack Hunt
 		
 		Capabilities
-			HP					: 41
+			HP			: 41
 			Physical Evasion	: 1
 			Special Evasion		: 1
 			Speed Evasion		: 6
-			Power				: 1
-			Overland			: 3
-			Swim				: 1
-			Jump				: 2/2
-			Fly:				: 6
+			Power			: 1
+			Overland		: 3
+			Swim			: 1
+			Jump			: 2/2
+			Fly:			: 6
 			Intelligence		: 4 
-			Tutor				: 1
+			Tutor			: 1
 			Darkvision
 			Stealth
 			Underdog
@@ -317,12 +317,12 @@ Pokemon:
 			Pack Hunt (2AP)
 		
 		Skills
-			Athletics 		| 2d6+1
-			Acrobatics		| 3d6
-			Combat			| 2d6+1
-			Stealth			| 4d6+1
-			Percetion		| 3d6+1
-			Focus			| 2d6+1
+			Athletics 	| 2d6+1
+			Acrobatics	| 3d6
+			Combat		| 2d6+1
+			Stealth		| 4d6+1
+			Percetion	| 3d6+1
+			Focus		| 2d6+1
 			
 		Moves
 			Astonish
@@ -331,7 +331,7 @@ Pokemon:
 
 	Level 10 Jolly Female Murkrow - Connie -  / XP
 
-		HP		: 7
+		HP	: 7
 		Attack	: 9
 		Defense	: 4
 		SpAtk	: 7
@@ -348,17 +348,17 @@ Pokemon:
 			Pack Hunt
 		
 		Capabilities
-			HP					: 41
+			HP			: 41
 			Physical Evasion	: 1
 			Special Evasion		: 1
 			Speed Evasion		: 6
-			Power				: 1
-			Overland			: 3
-			Swim				: 1
-			Jump				: 2/2
-			Fly:				: 6
+			Power			: 1
+			Overland		: 3
+			Swim			: 1
+			Jump			: 2/2
+			Fly:			: 6
 			Intelligence		: 4 
-			Tutor				: 1
+			Tutor			: 1
 			Darkvision
 			Stealth
 			Underdog
@@ -368,12 +368,12 @@ Pokemon:
 			Pack Hunt (2AP)
 		
 		Skills
-			Athletics 		| 2d6+1
-			Acrobatics		| 3d6
-			Combat			| 2d6+1
-			Stealth			| 4d6+1
-			Percetion		| 3d6+1
-			Focus			| 2d6+1
+			Athletics 	| 2d6+1
+			Acrobatics	| 3d6
+			Combat		| 2d6+1
+			Stealth		| 4d6+1
+			Percetion	| 3d6+1
+			Focus		| 2d6+1
 			
 		Moves
 			Astonish
