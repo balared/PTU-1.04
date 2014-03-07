@@ -118,13 +118,13 @@ Pokemon:
 		Heal Bell	Normal | Scene | None | Status | Burst 3 Sonic | All targets are cured of Persistent Status ailments
 		Psy Wave	Psychic | Scene | AC5 | Special | 6m Ranged 1 | Target loses (1d4) / 4 of user's health
 	
-	Level 35 Bronzong, Modest - Bella - 1751 / 1770
+	Level 36 Bronzong, Modest - Bella - 1811 / 1880
 	
 		HP	19
 		ATK	7
 		DEF	22
 		SpAtk	21
-		SpDef	23
+		SpDef	24
 		Speed	3
 		
 		Loyalty: 2
@@ -132,7 +132,7 @@ Pokemon:
 		Levitate
 		Heavy Metal
 		
-		HP: 101
+		HP: 102
 		Tutor: 7
 		
 		Safeguard	Normal | Scene | None | Status | Blessing | 3 instances to negate a Status Ailment
