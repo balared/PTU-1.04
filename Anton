@@ -442,52 +442,54 @@ IN THE BANK
 		Savage 		Normal | At-Will | AC2 | DB9 + 10 | Physical | Melee 1
 		Endeavor	Normal | Scene | AC2 | DB0 | Physical | Melee 1 Dash | Target loses 1/10th of its current HP for each injurt on the user
 	
-	Level 7 Female Vulpix, Dreamy - 69 / 70
+	Level 15 Modest Female Ralts, Aria - 220 / 250
 
-		HP	4
-		ATK	5
+		HP	11
+		ATK	1
 		DEF	3
-		SpAtk	6
-		SpDef	9
-		Speed	7
+		SpAtk	7
+		SpDef	13
+		Speed	12
 		
-		Type:	Fire
-		Height: 2'0" / 0.6 (Small)
-		Weight: 21.8lb / 9.9lb
+		Type:	Psychic / Fairy
+		Height: 1'4" / 0.4m (Small)
+		Weight: 14.6lb / 6.6kg (1)
 		
 		Abilities
-			Flash Fire
+			Synchronise
 			
 		Capabilities
-			HP			: 29
+			HP			: 58
 			Physical Evasion	: 0
-			Special Evasion		: 1
-			Speed Evasion		: 1
-			Power			: 2
-			Overland		: 4
-			Swim			: 2
-			Jump			: 1/2
-			Intelligence		: 4
-			Tutor			: 2
+			Special Evasion		: 2
+			Speed Evasion		: 2
+			Power			: 1
+			Overland		: 5
+			Swim			: 1
+			Jump			: 1/1
+			Intelligence		: 5
+			Tutor			: 3
 			Loyalty			: 2
-			Tracker
+			Telekinetic
+			Telepath
+			Teleporter
 			Underdog
+			
+		Tutor
+			Intelligence Up (1)
 		
 		Moves
-			Bite		Dark | At-Will | AC2 | DB6 | Physical | Melee 1 | Flinches on 15+
-			Taunt		Dark | EOT | AC3 | Status | 6m Ranged 1 | Target becomes unranged
-			Pursuit		Dark | At-Will | AC2 | DB4 | Physical | Melee 1 | Interupt on escaping targets. +5 to move speeds, DB8
-			Quick Attack	Normal | At-Will | AC2 | DB4 | Physical | Melee 1 Priority | Declare to take turn immediately
-			Fire Spin
-			Quick Attack
-			Confuse Ray
+			Teleport
+			Double Team
+			Confusion
+			Growl
 		
 		Skills
-			Athletics 		| 3d6+1
+			Athletics 		| 1d6+2
 			Acrobatics		| 2d6
-			Combat			| 2d6
-			Stealth			| 3d6+2
-			Percetion		| 2d6+1
+			Combat			| 1d6
+			Stealth			| 3d6
+			Percetion		| 3d6
 			Focus			| 3d6
 
 RELEASED AND STILL WITH US
