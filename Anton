@@ -93,7 +93,7 @@ Equipment:
 	
 Pokemon: 
 
-	Level 38 Stoic Male Chimecho, Sneeze  - 2071 / 2110
+	Level 38 Stoic Male Chimecho, Sneeze  - 2099 / 2110
 	
 		HP	22
 		ATK	5
@@ -146,7 +146,7 @@ Pokemon:
 			Percetion		| 5d6+1
 			Focus			| 5d6+3
 	
-	Level 36 Bronzong, Modest - Bella - 1811 / 1880
+	Level 36 Bronzong, Modest - Bella - 1838 / 1880
 	
 		HP	19
 		ATK	7
@@ -200,7 +200,7 @@ Pokemon:
 			Percetion		| 6d6+1
 			Focus			| 5d6+1
 			
-	Level 33 Male Ursaring, Adamant - Winnie - 1499 / 1555
+	Level 33 Male Ursaring, Adamant - Winnie - 1524 / 1555
 
 		HP	25
 		ATK	28
@@ -253,13 +253,13 @@ Pokemon:
 			Percetion		| 4d6
 			Focus			| 1d6
 	
-	Level 33 Female Plusle, Jolly - Oio - 1355 / 1355 
+	Level 34 Female Plusle, Jolly - Oio - 1555 / 1660 
 
 		HP	17
 		ATK	5
 		DEF	4
 		SpAtk	18
-		SpDef	19
+		SpDef	20
 		Speed	21
 		
 		Type:	Electric
@@ -305,13 +305,13 @@ Pokemon:
 			Stealth			| 4d6+2
 			Percetion		| 2d6+1
 			Focus			| 2d6
-
-	Level 33 Female Minun, Jolly - Ioi - 1355 / 1355
+	
+	Level 34 Female Minun, Jolly - Ioi - 1555 / 1660 
 
 		HP	17
 		ATK	5
 		DEF	4
-		SpAtk	19
+		SpAtk	20
 		SpDef	18
 		Speed	21
 		
@@ -358,7 +358,59 @@ Pokemon:
 			Stealth			| 4d6+2
 			Percetion		| 2d6+1
 			Focus			| 2d6
+				
+	Level 15 Modest Female Ralts, Aria - 236 / 250
+
+		HP	11
+		ATK	1
+		DEF	3
+		SpAtk	7
+		SpDef	13
+		Speed	12
 		
+		Type:	Psychic / Fairy
+		Height: 1'4" / 0.4m (Small)
+		Weight: 14.6lb / 6.6kg (1)
+		
+		Abilities
+			Synchronise
+			
+		Capabilities
+			HP			: 58
+			Physical Evasion	: 0
+			Special Evasion		: 2
+			Speed Evasion		: 2
+			Power			: 1
+			Overland		: 5
+			Swim			: 1
+			Jump			: 1/1
+			Intelligence		: 5
+			Tutor			: 3
+			Loyalty			: 2
+			Telekinetic
+			Telepath
+			Teleporter
+			Underdog
+			
+		Tutor
+			Intelligence Up (1)
+		
+		Moves
+			Teleport
+			Double Team
+			Confusion
+			Growl
+		
+		Skills
+			Athletics 		| 1d6+2
+			Acrobatics		| 2d6
+			Combat			| 1d6
+			Stealth			| 3d6
+			Percetion		| 3d6
+			Focus			| 3d6
+		
+IN THE BANK
+
 	Level 14 Male Pidgey, Bold - Pudge - 167
 	
 		HP	8
@@ -410,87 +462,6 @@ Pokemon:
 			Stealth			| 3d6
 			Percetion		| 3d6
 			Focus			| 2d6
-		
-IN THE BANK
-		 
-	Level 67 Male Raticate, Adamant - Raticunt - 7 660
-	 
-		HP	20
-		ATK	66
-		DEF	8
-		SpAtk	1
-		SpDef	21
-		Speed	25
-
-		Loyalty: 1
-
-		Guts
-		Crushing Jaw
-		Huge Power
-		
-		HP: 128
-		Tutor: 2
-		Overland: 9
-		Swim: 7
-		Jump: 4/4
-		Power: 4
-		
-		Bite		Dark | At-Will | AC2 | DB6 | Physical | Melee 1 | Flinches on 15+
-		Hyperfang	Normal | At-Will | AC4 | DB10 | Physical | Melee 1 | Flinches on 19+
-		Super Fang	Normal | Scene | AC4 | Physical | Melee 1 | Target loses 1/2 HP
-		Crunch		Dark | At-Will | AC2 | DB8 | Physical | Melee 1 | Lowers target's defense by 1 CS by 17+
-		Savage 		Normal | At-Will | AC2 | DB9 + 10 | Physical | Melee 1
-		Endeavor	Normal | Scene | AC2 | DB0 | Physical | Melee 1 Dash | Target loses 1/10th of its current HP for each injurt on the user
-	
-	Level 15 Modest Female Ralts, Aria - 220 / 250
-
-		HP	11
-		ATK	1
-		DEF	3
-		SpAtk	7
-		SpDef	13
-		Speed	12
-		
-		Type:	Psychic / Fairy
-		Height: 1'4" / 0.4m (Small)
-		Weight: 14.6lb / 6.6kg (1)
-		
-		Abilities
-			Synchronise
-			
-		Capabilities
-			HP			: 58
-			Physical Evasion	: 0
-			Special Evasion		: 2
-			Speed Evasion		: 2
-			Power			: 1
-			Overland		: 5
-			Swim			: 1
-			Jump			: 1/1
-			Intelligence		: 5
-			Tutor			: 3
-			Loyalty			: 2
-			Telekinetic
-			Telepath
-			Teleporter
-			Underdog
-			
-		Tutor
-			Intelligence Up (1)
-		
-		Moves
-			Teleport
-			Double Team
-			Confusion
-			Growl
-		
-		Skills
-			Athletics 		| 1d6+2
-			Acrobatics		| 2d6
-			Combat			| 1d6
-			Stealth			| 3d6
-			Percetion		| 3d6
-			Focus			| 3d6
 
 RELEASED AND STILL WITH US
 
@@ -524,7 +495,6 @@ RELEASED AND STILL WITH US
 GOALS
 Save pokemon from cruelty (ongoing)
 Develop my pokemon
-Tame Raticunt
 
 RIP
 
