@@ -83,18 +83,17 @@ Equipment:
 	Pokedex
 	Food x15
 	6ft stick
-	$4941
+	$2841
 	Winter Cloak
 	Cold Weather Gear
 	Passport
 	Fancy fancy prosthetic
-	Memorial pokeball
 	Snow Boots
 	Safety Goggles
 	
 Pokemon: 
 
-	Level 38 Stoic Male Chimecho, Sneeze  - 2043 / 2110
+	Level 38 Stoic Male Chimecho, Sneeze  - 2071 / 2110
 	
 		HP	22
 		ATK	5
@@ -119,7 +118,7 @@ Pokemon:
 		Heal Bell	Normal | Scene | None | Status | Burst 3 Sonic | All targets are cured of Persistent Status ailments
 		Psy Wave	Psychic | Scene | AC5 | Special | 6m Ranged 1 | Target loses (1d4) / 4 of user's health
 	
-	Level 35 Bronzong, Modest - Bella - 1725 / 1770
+	Level 35 Bronzong, Modest - Bella - 1751 / 1770
 	
 		HP	19
 		ATK	7
@@ -144,7 +143,7 @@ Pokemon:
 		Iron Defense	Steel | EOT | AC0 | Status | Self | +2 Defense CS
 		Confuse Ray	
 			
-	Level 33 Male Ursaring, Adamant - Winnie - 1474 / 1555
+	Level 33 Male Ursaring, Adamant - Winnie - 1499 / 1555
 	
 		HP	25
 		ATK	28
@@ -170,21 +169,21 @@ Pokemon:
 		Slash		Normal | EOT | AC2 | DB9 | Physical | Melee, Pass | Crit on 18+
 		Scary Face
 	
-	Level 32 Female Plusle, Jolly - Oio - 1330 / 1355
+	Level 33 Female Plusle, Jolly - Oio - 1355 / 1355 
 	
 		HP	17
 		ATK	5
 		DEF	4
 		SpAtk	18
 		SpDef	19
-		Speed	20
+		Speed	21
 		
 		Loyalty: 3
 		
 		Plus
 		Static
 		
-		HP: 88
+		HP: 89
 		Tutor: 7
 		
 		Thunder Wave	Electric | Scene x2 | None | Status | 6m Ranged 1 | Cannot miss. Paralyzes. Electric immune enemies are not hit
@@ -195,21 +194,21 @@ Pokemon:
 		Charge		Electric | EOT | AC0 | Status | Self | Doubles damage on electric move next turn. +1 SpDef CS
 		Nuzzle
 
-	Level 32 Female Minun, Jolly - Ioi - 1330 / 1355
+	Level 33 Female Minun, Jolly - Ioi - 1355 / 1355 **
 	
 		HP	15
 		ATK	5
 		DEF	4
 		SpAtk	18
 		SpDef	19
-		Speed	20
+		Speed	21
 		
 		Loyalty: 3
 		
 		Minus
 		Static
 		
-		HP: 88
+		HP: 89
 		Tutor: 7
 		
 		Thunder Wave	Electric | Scene x2 | None | Status | 6m Ranged 1 | Cannot miss. Paralyzes. Electric immune enemies are not hit
@@ -220,10 +219,10 @@ Pokemon:
 		Charge		Electric | EOT | AC0 | Status | Self | Doubles damage on electric move next turn. +1 SpDef CS
 		Nuzzle
 	
-	Level 6 Female Vulpix, Dreamy - 57 / 60
+	Level 7 Female Vulpix, Dreamy - 69 / 70
 	
 		HP	4
-		ATK	4
+		ATK	5
 		DEF	3
 		SpAtk	6
 		SpDef	9
@@ -233,7 +232,7 @@ Pokemon:
 		
 		Keen Eye
 		
-		HP	28
+		HP	29
 		Tutor	3
 		
 		Bite		Dark | At-Will | AC2 | DB6 | Physical | Melee 1 | Flinches on 15+
