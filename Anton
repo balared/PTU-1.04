@@ -95,7 +95,7 @@ Equipment:
 	
 Pokemon: 
 
-	Level 38 Stoic Male Chimecho, Sneeze  - 2015 / 2015
+	Level 38 Stoic Male Chimecho, Sneeze  - 2043 / 2110
 	
 		HP	22
 		ATK	5
@@ -120,7 +120,7 @@ Pokemon:
 		Heal Bell	Normal | Scene | None | Status | Burst 3 Sonic | All targets are cured of Persistent Status ailments
 		Psy Wave	Psychic | Scene | AC5 | Special | 6m Ranged 1 | Target loses (1d4) / 4 of user's health
 	
-	Level 35 Bronzong, Modest - Bella - 1699 / 1770
+	Level 35 Bronzong, Modest - Bella - 1725 / 1770
 	
 		HP	19
 		ATK	7
@@ -145,9 +145,9 @@ Pokemon:
 		Iron Defense	Steel | EOT | AC0 | Status | Self | +2 Defense CS
 		Confuse Ray	
 			
-	Level 32 Male Ursaring, Adamant - Winnie - 1449 / 1455
+	Level 33 Male Ursaring, Adamant - Winnie - 1474 / 1455 **
 	
-		HP	24
+		HP	25
 		ATK	28
 		DEF	12
 		SpAtk	12
@@ -160,7 +160,7 @@ Pokemon:
 		Frighten
 		Quick Feet
 		
-		HP	101
+		HP	105
 		Tutor	2
 		
 		Feint Attack	Dark | At-Will | AC0 | DB6 | Physical | Melee 1 | Cannot Miss
@@ -171,7 +171,7 @@ Pokemon:
 		Slash		Normal | EOT | AC2 | DB9 | Physical | Melee, Pass | Crit on 18+
 		Scary Face
 	
-	Level 32 Female Plusle, Jolly - Oio - 1305 / 1355
+	Level 32 Female Plusle, Jolly - Oio - 1330 / 1355
 	
 		HP	17
 		ATK	5
@@ -196,7 +196,7 @@ Pokemon:
 		Charge		Electric | EOT | AC0 | Status | Self | Doubles damage on electric move next turn. +1 SpDef CS
 		Nuzzle
 
-	Level 32 Female Minun, Jolly - Ioi - 1305 / 1355
+	Level 32 Female Minun, Jolly - Ioi - 1330 / 1355
 	
 		HP	15
 		ATK	5
@@ -221,12 +221,12 @@ Pokemon:
 		Charge		Electric | EOT | AC0 | Status | Self | Doubles damage on electric move next turn. +1 SpDef CS
 		Nuzzle
 	
-	Level 5 Female Vulpix, Dreamy - 45
+	Level 6 Female Vulpix, Dreamy - 57 / 60
 	
-		HP	3
+		HP	4
 		ATK	4
 		DEF	3
-		SpAtk	5
+		SpAtk	6
 		SpDef	9
 		Speed	7
 		
@@ -234,7 +234,7 @@ Pokemon:
 		
 		Keen Eye
 		
-		HP	88
+		HP	28
 		Tutor	3
 		
 		Bite		Dark | At-Will | AC2 | DB6 | Physical | Melee 1 | Flinches on 15+
