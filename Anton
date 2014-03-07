@@ -37,7 +37,7 @@ Movement 	: 5
 Swimming 	: 2
 Action Points	: 7
 Level		: 11
-Exp		: 103
+Exp		: 104
 
 Edges:
 	1 : Group Trainer
@@ -86,7 +86,6 @@ Equipment:
 	$4941
 	Winter Cloak
 	Cold Weather Gear
-	Cold Weather Gear for Adam
 	Passport
 	Fancy fancy prosthetic
 	Memorial pokeball
