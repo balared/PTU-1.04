@@ -358,6 +358,89 @@ Pokemon:
 			Stealth			| 4d6+2
 			Percetion		| 2d6+1
 			Focus			| 2d6
+		
+	Level 14 Male Pidgey, Bold - Pudge - 167
+	
+		HP	8
+		ATK	4
+		DEF	13
+		SpAtk	6
+		SpDef	6
+		Speed	13
+		
+		Type:	Normal / Flying
+		Height: 1'0" / 0.3m (Small)
+		Weight: 4lb / 1.8kg (1)
+		
+		Abilities
+			Keen Eye
+			Guster
+		
+			
+		Capabilities
+			HP			: 88
+			Physical Evasion	: 2
+			Special Evasion		: 1
+			Speed Evasion		: 2
+			Power			: 1
+			Overland		: 2
+			Swim			: 2
+			Sky			: 5
+			Jump			: 1/1
+			Intelligence		: 2
+			Tutor			: 3
+			Loyalty			: 2
+			Telepath
+		
+		Tutor:
+			
+		
+		Moves
+			Tackle		Normal | At-Will | AC3 | DB6 | Physical | Melee 1 Dash Push | Push 2 Meters
+			Sand Attack	Ground | EOT | AC2 | Status | 2m Ranged 1 | Blinded UEOT
+			Gust		Flying | At-Will | AC4 | DB6 | Special | 4m Ranged 1 | Hits Fly or Sky Drop dudes, ignoring range with DB8
+			Quick Attack	Normal | At-Will | AC2 | DB6 | Special | Melee 1 Priority | Declare to take turn immediately
+			Whirlwind
+			Twister
+		
+		Skills
+			Athletics 		| 2d6
+			Acrobatics		| 3d6
+			Combat			| 2d6
+			Stealth			| 3d6
+			Percetion		| 3d6
+			Focus			| 2d6
+		
+IN THE BANK
+		 
+	Level 67 Male Raticate, Adamant - Raticunt - 7 660
+	 
+		HP	20
+		ATK	66
+		DEF	8
+		SpAtk	1
+		SpDef	21
+		Speed	25
+
+		Loyalty: 1
+
+		Guts
+		Crushing Jaw
+		Huge Power
+		
+		HP: 128
+		Tutor: 2
+		Overland: 9
+		Swim: 7
+		Jump: 4/4
+		Power: 4
+		
+		Bite		Dark | At-Will | AC2 | DB6 | Physical | Melee 1 | Flinches on 15+
+		Hyperfang	Normal | At-Will | AC4 | DB10 | Physical | Melee 1 | Flinches on 19+
+		Super Fang	Normal | Scene | AC4 | Physical | Melee 1 | Target loses 1/2 HP
+		Crunch		Dark | At-Will | AC2 | DB8 | Physical | Melee 1 | Lowers target's defense by 1 CS by 17+
+		Savage 		Normal | At-Will | AC2 | DB9 + 10 | Physical | Melee 1
+		Endeavor	Normal | Scene | AC2 | DB0 | Physical | Melee 1 Dash | Target loses 1/10th of its current HP for each injurt on the user
 	
 	Level 7 Female Vulpix, Dreamy - 69 / 70
 
@@ -406,62 +489,7 @@ Pokemon:
 			Stealth			| 3d6+2
 			Percetion		| 2d6+1
 			Focus			| 3d6
-		
-IN THE BANK
-		 
-	Level 67 Male Raticate, Adamant - Raticunt - 7 660
-	 
-		HP	20
-		ATK	66
-		DEF	8
-		SpAtk	1
-		SpDef	21
-		Speed	25
 
-		Loyalty: 1
-
-		Guts
-		Crushing Jaw
-		Huge Power
-		
-		HP: 128
-		Tutor: 2
-		Overland: 9
-		Swim: 7
-		Jump: 4/4
-		Power: 4
-		
-		Bite		Dark | At-Will | AC2 | DB6 | Physical | Melee 1 | Flinches on 15+
-		Hyperfang	Normal | At-Will | AC4 | DB10 | Physical | Melee 1 | Flinches on 19+
-		Super Fang	Normal | Scene | AC4 | Physical | Melee 1 | Target loses 1/2 HP
-		Crunch		Dark | At-Will | AC2 | DB8 | Physical | Melee 1 | Lowers target's defense by 1 CS by 17+
-		Savage 		Normal | At-Will | AC2 | DB9 + 10 | Physical | Melee 1
-		Endeavor	Normal | Scene | AC2 | DB0 | Physical | Melee 1 Dash | Target loses 1/10th of its current HP for each injurt on the user
-		
-	Level 14 Male Pidgey, Bold - Pudge - 167
-	
-		HP	8
-		ATK	4
-		DEF	13
-		SpAtk	6
-		SpDef	6
-		Speed	13
-		
-		Loyalty: 2
-		
-		Keen Eye
-		Guster
-		
-		HP	88
-		Tutor	3
-		
-		Tackle		Normal | At-Will | AC3 | DB6 | Physical | Melee 1 Dash Push | Push 2 Meters
-		Sand Attack	Ground | EOT | AC2 | Status | 2m Ranged 1 | Blinded UEOT
-		Gust		Flying | At-Will | AC4 | DB6 | Special | 4m Ranged 1 | Hits Fly or Sky Drop dudes, ignoring range with DB8
-		Quick Attack	Normal | At-Will | AC2 | DB6 | Special | Melee 1 Priority | Declare to take turn immediately
-		Whirlwind
-		Twister
-		
 RELEASED AND STILL WITH US
 
 	Level 35 Male Gardevoir, Modest - Adam - 1761 / 1770
