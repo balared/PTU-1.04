@@ -74,7 +74,7 @@ Basic Info:
 
 Equipment:
 	0 Bandages
-	10 Pokeball
+	9 Pokeball (6)
 	2 Great Balls (7)
 	10 Ice Heal
 	Unrefined Moonstone
@@ -94,12 +94,12 @@ Equipment:
 	
 Pokemon: 
 
-	Level 38 Stoic Male Chimecho, Sneeze  - 2099 / 2110
+	Level 39 Stoic Male Chimecho, Sneeze  - 2127 / XXXX <----
 	
 		HP	22
 		ATK	5
 		DEF	7
-		SpAtk	35
+		SpAtk	36
 		SpDef	23
 		Speed	7
 		
@@ -112,7 +112,7 @@ Pokemon:
 			Magic Guard
 			
 		Capabilities
-			HP			: 144
+			HP			: 145
 			Physical Evasion	: 1
 			Special Evasion		: 4
 			Speed Evasion		: 1
@@ -137,7 +137,7 @@ Pokemon:
 			Entrainment	Normal | Scene | AC2 | Status | 4m Ranged 1 | Target gains one of the user's abilities for 3 turns
 			Safeguard	Normal | Scene | None | Status | Blessing | 3 instances to negate a Status Ailment
 			Heal Bell	Normal | Scene | None | Status | Burst 3 Sonic | All targets are cured of Persistent Status ailments
-			Psy Wave	Psychic | Scene | AC5 | Special | 6m Ranged 1 | Target loses (1d4) / 4 of user's health
+			Heal Pulse	Psychic | Daily x2 | None | Status | 6m Ranged 1 Aura | Restores 50% max HP
 		
 		Skills
 			Athletics 		| 3d6+2
@@ -147,7 +147,7 @@ Pokemon:
 			Percetion		| 5d6+1
 			Focus			| 5d6+3
 	
-	Level 36 Bronzong, Modest - Bella - 1838 / 1880
+	Level 36 Bronzong, Modest - Bella - 1860 / 1880
 	
 		HP	19
 		ATK	7
@@ -201,7 +201,7 @@ Pokemon:
 			Percetion		| 6d6+1
 			Focus			| 5d6+1
 			
-	Level 33 Male Ursaring, Adamant - Winnie - 1524 / 1555
+	Level 33 Male Ursaring, Adamant - Winnie - 1549 / 1555
 
 		HP	25
 		ATK	28
@@ -254,7 +254,7 @@ Pokemon:
 			Percetion		| 4d6
 			Focus			| 1d6
 	
-	Level 34 Female Plusle, Jolly - Oio - 1555 / 1660 
+	Level 34 Female Plusle, Jolly - Oio - 1581 / 1660 
 
 		HP	17
 		ATK	5
@@ -307,7 +307,7 @@ Pokemon:
 			Percetion		| 2d6+1
 			Focus			| 2d6
 	
-	Level 34 Female Minun, Jolly - Ioi - 1555 / 1660 
+	Level 34 Female Minun, Jolly - Ioi - 1581 / 1660 
 
 		HP	17
 		ATK	5
@@ -360,13 +360,13 @@ Pokemon:
 			Percetion		| 2d6+1
 			Focus			| 2d6
 				
-	Level 15 Modest Female Ralts, Aria - 236 / 250
+	Level 16 Modest Female Ralts, Aria - 266 / XXX <--
 
 		HP	11
 		ATK	1
 		DEF	3
 		SpAtk	7
-		SpDef	13
+		SpDef	14
 		Speed	12
 		
 		Type:	Psychic / Fairy
@@ -377,7 +377,7 @@ Pokemon:
 			Synchronise
 			
 		Capabilities
-			HP			: 58
+			HP			: 59
 			Physical Evasion	: 0
 			Special Evasion		: 2
 			Speed Evasion		: 2
@@ -401,6 +401,8 @@ Pokemon:
 			Double Team
 			Confusion
 			Growl
+			Heal Pulse
+			Magical Leaf
 		
 		Skills
 			Athletics 		| 1d6+2
@@ -496,6 +498,7 @@ RELEASED AND STILL WITH US
 GOALS
 Save pokemon from cruelty (ongoing)
 Develop my pokemon
+
 
 RIP
 
