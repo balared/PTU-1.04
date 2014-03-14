@@ -94,7 +94,7 @@ Equipment:
 	
 Pokemon: 
 
-	Level 39 Stoic Male Chimecho, Sneeze  - 2127 / XXXX <----
+	Level 39 Stoic Male Chimecho, Sneeze  - 2155 / 2230
 	
 		HP	22
 		ATK	5
@@ -147,11 +147,11 @@ Pokemon:
 			Percetion		| 5d6+1
 			Focus			| 5d6+3
 	
-	Level 36 Bronzong, Modest - Bella - 1860 / 1880
+	Level 37 Bronzong, Modest - Bella - 1887 / 1995
 	
 		HP	19
 		ATK	7
-		DEF	22
+		DEF	23
 		SpAtk	21
 		SpDef	24
 		Speed	3
@@ -165,7 +165,7 @@ Pokemon:
 			Heavy Metal
 			
 		Capabilities
-			HP			: 102
+			HP			: 103
 			Physical Evasion	: 4
 			Special Evasion		: 4
 			Speed Evasion		: 0
@@ -201,9 +201,9 @@ Pokemon:
 			Percetion		| 6d6+1
 			Focus			| 5d6+1
 			
-	Level 33 Male Ursaring, Adamant - Winnie - 1549 / 1555
+	Level 34 Male Ursaring, Adamant - Winnie - 1574 / 1660 <--
 
-		HP	25
+		HP	26
 		ATK	28
 		DEF	12
 		SpAtk	12
@@ -220,7 +220,7 @@ Pokemon:
 			Quick Feet
 			
 		Capabilities
-			HP			: 105
+			HP			: 109
 			Physical Evasion	: 2
 			Special Evasion		: 2
 			Speed Evasion		: 1
@@ -254,7 +254,7 @@ Pokemon:
 			Percetion		| 4d6
 			Focus			| 1d6
 	
-	Level 34 Female Plusle, Jolly - Oio - 1581 / 1660 
+	Level 34 Female Plusle, Jolly - Oio - 1607 / 1660 
 
 		HP	17
 		ATK	5
@@ -307,7 +307,7 @@ Pokemon:
 			Percetion		| 2d6+1
 			Focus			| 2d6
 	
-	Level 34 Female Minun, Jolly - Ioi - 1581 / 1660 
+	Level 34 Female Minun, Jolly - Ioi - 1607 / 1660 
 
 		HP	17
 		ATK	5
@@ -360,7 +360,7 @@ Pokemon:
 			Percetion		| 2d6+1
 			Focus			| 2d6
 				
-	Level 16 Modest Female Ralts, Aria - 266 / XXX <--
+	Level 16 Modest Female Ralts, Aria - 283 / 285
 
 		HP	11
 		ATK	1
