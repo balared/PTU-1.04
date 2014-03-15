@@ -84,7 +84,7 @@ Equipment:
 	Pokedex
 	Food x15
 	6ft stick
-	$2841
+	$6841
 	Winter Cloak
 	Cold Weather Gear
 	Passport
@@ -92,14 +92,14 @@ Equipment:
 	Snow Boots
 	Safety Goggles
 	
-Pokemon: 
+Pokemon: XXXXXXX
 
-	Level 39 Stoic Male Chimecho, Sneeze  - 2155 / 2230
+	Level 41 Stoic Male Chimecho, Sneeze  - 2355 / 2480
 	
 		HP	22
 		ATK	5
 		DEF	7
-		SpAtk	36
+		SpAtk	38
 		SpDef	23
 		Speed	7
 		
@@ -110,9 +110,10 @@ Pokemon:
 		Abilities
 			Levitate
 			Magic Guard
+			Soothing Tone
 			
 		Capabilities
-			HP			: 145
+			HP			: 147
 			Physical Evasion	: 1
 			Special Evasion		: 4
 			Speed Evasion		: 1
@@ -147,7 +148,7 @@ Pokemon:
 			Percetion		| 5d6+1
 			Focus			| 5d6+3
 	
-	Level 37 Bronzong, Modest - Bella - 1887 / 1995
+	Level 38 Bronzong, Modest - Bella - 2079 / 2110
 	
 		HP	19
 		ATK	7
@@ -201,9 +202,9 @@ Pokemon:
 			Percetion		| 6d6+1
 			Focus			| 5d6+1
 			
-	Level 34 Male Ursaring, Adamant - Winnie - 1574 / 1660 <--
+	Level 35 Male Ursaring, Adamant - Winnie - 1756 / 1770
 
-		HP	26
+		HP	27
 		ATK	28
 		DEF	12
 		SpAtk	12
@@ -220,7 +221,7 @@ Pokemon:
 			Quick Feet
 			
 		Capabilities
-			HP			: 109
+			HP			: 113
 			Physical Evasion	: 2
 			Special Evasion		: 2
 			Speed Evasion		: 1
@@ -254,12 +255,12 @@ Pokemon:
 			Percetion		| 4d6
 			Focus			| 1d6
 	
-	Level 34 Female Plusle, Jolly - Oio - 1607 / 1660 
+	Level 36 Female Plusle, Jolly - Oio - 1789 / 1880 
 
-		HP	17
+		HP	18
 		ATK	5
 		DEF	4
-		SpAtk	18
+		SpAtk	19
 		SpDef	20
 		Speed	21
 		
@@ -272,7 +273,7 @@ Pokemon:
 			Static
 			
 		Capabilities
-			HP			: 89
+			HP			: 94
 			Physical Evasion	: 0
 			Special Evasion		: 3
 			Speed Evasion		: 4
@@ -307,13 +308,13 @@ Pokemon:
 			Percetion		| 2d6+1
 			Focus			| 2d6
 	
-	Level 34 Female Minun, Jolly - Ioi - 1607 / 1660 
+	Level 36 Female Minun, Jolly - Ioi - 1789 / 1880 
 
-		HP	17
+		HP	18
 		ATK	5
 		DEF	4
 		SpAtk	20
-		SpDef	18
+		SpDef	19
 		Speed	21
 		
 		Type:	Electric
@@ -325,7 +326,7 @@ Pokemon:
 			Static
 			
 		Capabilities
-			HP			: 89
+			HP			: 94
 			Physical Evasion	: 0
 			Special Evasion		: 3
 			Speed Evasion		: 4
@@ -360,14 +361,14 @@ Pokemon:
 			Percetion		| 2d6+1
 			Focus			| 2d6
 				
-	Level 16 Modest Female Ralts, Aria - 283 / 285
+	Level 19 Modest Female Ralts, Aria - 383 / 400
 
-		HP	11
+		HP	12
 		ATK	1
 		DEF	3
 		SpAtk	7
-		SpDef	14
-		Speed	12
+		SpDef	15
+		Speed	13
 		
 		Type:	Psychic / Fairy
 		Height: 1'4" / 0.4m (Small)
@@ -377,7 +378,7 @@ Pokemon:
 			Synchronise
 			
 		Capabilities
-			HP			: 59
+			HP			: 62
 			Physical Evasion	: 0
 			Special Evasion		: 2
 			Speed Evasion		: 2
@@ -400,7 +401,7 @@ Pokemon:
 			Teleport
 			Double Team
 			Confusion
-			Growl
+			Calm Mind
 			Heal Pulse
 			Magical Leaf
 		
