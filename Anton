@@ -30,7 +30,7 @@ Intuition:		Expert
 Background: That Kid From The Ranch. You Know The One. (Combat, Stealth, Guile down, 
 							Charm, Focus, Inuition up)
 
-HP		: 92
+HP		: 92 (82 / 2)
 Power		: 3
 High Jump	: 0
 Long Jump	: 0
@@ -123,13 +123,14 @@ Pokemon: XXXXXXX
 			Levitate		: 8
 			Jump			: 1/1
 			Intelligence		: 5
-			Tutor			: 5
+			Tutor			: 4
 			Loyalty			: 2
 			Telepath
 		
 		Tutor:
 			Perception Skill Up (1)
 			Levitate Up (1)
+			Focus Up (1)
 		
 		Moves
 			Confusion	Psychic | At-Will | AC2 | DB7 | Special | 6m Ranged 1 | Confuses on 19+
@@ -146,7 +147,7 @@ Pokemon: XXXXXXX
 			Combat			| 2d6
 			Stealth			| 2d6
 			Percetion		| 5d6+1
-			Focus			| 5d6+3
+			Focus			| 6d6+3
 	
 	Level 38 Bronzong, Modest - Bella - 2079 / 2110
 	
@@ -166,7 +167,7 @@ Pokemon: XXXXXXX
 			Heavy Metal
 			
 		Capabilities
-			HP			: 103
+			HP			: 103 (83 / 2)
 			Physical Evasion	: 4
 			Special Evasion		: 4
 			Speed Evasion		: 0
