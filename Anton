@@ -176,7 +176,7 @@ Pokemon: XXXXXXX
 			Levitate		: 8
 			Jump			: 1/1
 			Intelligence		: 7
-			Tutor			: 4
+			Tutor			: 3
 			Loyalty			: 2
 			Dead Silent
 		
@@ -184,6 +184,7 @@ Pokemon: XXXXXXX
 			Perception Skill Up (1)
 			Levitate Up (1)
 			Intelligence Up (1)
+			Focus Up (1)
 		
 		Moves
 			Safeguard	Normal | Scene | None | Status | Blessing | 3 instances to negate a Status Ailment
@@ -200,7 +201,7 @@ Pokemon: XXXXXXX
 			Combat			| 2d6
 			Stealth			| 3d6+1
 			Percetion		| 6d6+1
-			Focus			| 5d6+1
+			Focus			| 6d6+1
 			
 	Level 35 Male Ursaring, Adamant - Winnie - 1756 / 1770
 
