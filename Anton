@@ -30,7 +30,7 @@ Intuition:		Expert
 Background: That Kid From The Ranch. You Know The One. (Combat, Stealth, Guile down, 
 							Charm, Focus, Inuition up)
 
-HP		: 92 (82 / 2)
+HP		: 92 (4)
 Power		: 3
 High Jump	: 0
 Long Jump	: 0
@@ -84,17 +84,18 @@ Equipment:
 	Pokedex
 	Food x15
 	6ft stick
-	$6841
+	$6591
 	Winter Cloak
 	Cold Weather Gear
 	Passport
 	Fancy fancy prosthetic
 	Snow Boots
 	Safety Goggles
+	Crowbar
 	
 Pokemon: XXXXXXX
 
-	Level 41 Stoic Male Chimecho, Sneeze  - 2355 / 2480
+	Level 41 Stoic Male Chimecho, Sneeze  - 2442 / 2480
 	
 		HP	22
 		ATK	5
@@ -149,12 +150,12 @@ Pokemon: XXXXXXX
 			Percetion		| 5d6+1
 			Focus			| 6d6+3
 	
-	Level 38 Bronzong, Modest - Bella - 2079 / 2110
+	Level 39 Bronzong, Modest - Bella - 2163 / 2230
 	
 		HP	19
 		ATK	7
 		DEF	23
-		SpAtk	21
+		SpAtk	22
 		SpDef	24
 		Speed	3
 		
@@ -167,7 +168,7 @@ Pokemon: XXXXXXX
 			Heavy Metal
 			
 		Capabilities
-			HP			: 103 (83 / 2)
+			HP			: 104
 			Physical Evasion	: 4
 			Special Evasion		: 4
 			Speed Evasion		: 0
@@ -204,10 +205,10 @@ Pokemon: XXXXXXX
 			Percetion		| 6d6+1
 			Focus			| 6d6+1
 			
-	Level 35 Male Ursaring, Adamant - Winnie - 1756 / 1770
+	Level 36 Male Ursaring, Adamant - Winnie - 1836 / 1880
 
 		HP	27
-		ATK	28
+		ATK	29
 		DEF	12
 		SpAtk	12
 		SpDef	12
@@ -223,7 +224,7 @@ Pokemon: XXXXXXX
 			Quick Feet
 			
 		Capabilities
-			HP			: 113
+			HP			: 114
 			Physical Evasion	: 2
 			Special Evasion		: 2
 			Speed Evasion		: 1
@@ -257,7 +258,7 @@ Pokemon: XXXXXXX
 			Percetion		| 4d6
 			Focus			| 1d6
 	
-	Level 36 Female Plusle, Jolly - Oio - 1789 / 1880 
+	Level 36 Female Plusle, Jolly - Oio - 1867 / 1880 
 
 		HP	18
 		ATK	5
@@ -310,7 +311,7 @@ Pokemon: XXXXXXX
 			Percetion		| 2d6+1
 			Focus			| 2d6
 	
-	Level 36 Female Minun, Jolly - Ioi - 1789 / 1880 
+	Level 36 Female Minun, Jolly - Ioi - 1867 / 1880 
 
 		HP	18
 		ATK	5
@@ -417,9 +418,9 @@ Pokemon: XXXXXXX
 		
 IN THE BANK
 
-	Level 14 Male Pidgey, Bold - Pudge - 167
+	Level 15 Male Pidgey, Bold - Pudge - 238 / 250
 	
-		HP	8
+		HP	9
 		ATK	4
 		DEF	13
 		SpAtk	6
@@ -436,7 +437,7 @@ IN THE BANK
 		
 			
 		Capabilities
-			HP			: 88
+			HP			: 92
 			Physical Evasion	: 2
 			Special Evasion		: 1
 			Speed Evasion		: 2
