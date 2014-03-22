@@ -2,7 +2,7 @@ Body	: -1
 Mind	: +2
 Spirit	: +4
 
-HP	: 20
+HP	: 21
 Attack	: 5
 Defense	: 11
 SpAtk	: 5
@@ -22,23 +22,23 @@ Education [Occult]: 	Untrained
 Education [Technology]:	Untrained	
 Guile:			Pathetic	
 Perception:		Untrained	
-Charm:			Expert		
+Charm:			Master		
 Command:		Expert		
-Focus:			Adept		
+Focus:			Expert		
 Intuition:		Expert		
 
 Background: That Kid From The Ranch. You Know The One. (Combat, Stealth, Guile down, 
 							Charm, Focus, Inuition up)
 
-HP		: 92 (4)
+HP		: 97
 Power		: 3
 High Jump	: 0
 Long Jump	: 0
 Movement 	: 5
 Swimming 	: 2
 Action Points	: 7
-Level		: 11
-Exp		: 109
+Level		: 12
+Exp		: 112
 
 Edges:
 	1 : Group Trainer
@@ -59,6 +59,7 @@ Edges:
 	7 : Expert Intuition
 	8 : Pokemon Connoisseur
 	10: Expert Command
+	12: Master Command
 
 Features:
 	1 : Channeller
@@ -74,8 +75,8 @@ Basic Info:
 
 Equipment:
 	0 Bandages
-	9 Pokeball (6)
-	2 Great Balls (15)
+	7 Pokeball
+	2 Great Balls (17)
 	10 Ice Heal
 	Unrefined Moonstone
 	Good Tent
@@ -84,7 +85,7 @@ Equipment:
 	Pokedex
 	Food x15
 	6ft stick
-	$6591
+	$6401
 	Winter Cloak
 	Cold Weather Gear
 	Passport
@@ -149,61 +150,6 @@ Pokemon: XXXXXXX
 			Stealth			| 2d6
 			Percetion		| 5d6+1
 			Focus			| 6d6+3
-	
-	Level 39 Bronzong, Modest - Bella - 2163 / 2230
-	
-		HP	19
-		ATK	7
-		DEF	23
-		SpAtk	22
-		SpDef	24
-		Speed	3
-		
-		Type:	Steel / Psychic
-		Height: 4'3" / 1.3m
-		Weight: 412.3lb / 186kg (5)
-		
-		Abilities
-			Levitate
-			Heavy Metal
-			
-		Capabilities
-			HP			: 104
-			Physical Evasion	: 4
-			Special Evasion		: 4
-			Speed Evasion		: 0
-			Power			: 8
-			Overland		: 1
-			Swim			: 3
-			Levitate		: 8
-			Jump			: 1/1
-			Intelligence		: 7
-			Tutor			: 3
-			Loyalty			: 2
-			Dead Silent
-		
-		Tutor:
-			Perception Skill Up (1)
-			Levitate Up (1)
-			Intelligence Up (1)
-			Focus Up (1)
-		
-		Moves
-			Safeguard	Normal | Scene | None | Status | Blessing | 3 instances to negate a Status Ailment
-			Extrasensory	Psychic | At-Will | AC2 | DB10 | Special | 5m Ranged 1 | Flinches on 19+
-			Hypnosis	Psychic | Scene x2 | AC6 | Status | 4m Ranged 1 | Target falls asleep
-			Feint Attack	Dark | At-Will | AC0 | DB6 | Physical | Melee 1 | Cannot Miss
-			Psy Wave	Psychic | Scene | AC5 | Special | 6m Ranged 1 | Target loses (1d4) / 4 of user's health
-			Iron Defense	Steel | EOT | AC0 | Status | Self | +2 Defense CS
-			Confuse Ray
-		
-		Skills
-			Athletics 		| 3d6+1
-			Acrobatics		| 2d6
-			Combat			| 2d6
-			Stealth			| 3d6+1
-			Percetion		| 6d6+1
-			Focus			| 6d6+1
 			
 	Level 36 Male Ursaring, Adamant - Winnie - 1836 / 1880
 
@@ -311,14 +257,14 @@ Pokemon: XXXXXXX
 			Percetion		| 2d6+1
 			Focus			| 2d6
 	
-	Level 36 Female Minun, Jolly - Ioi - 1867 / 1880 
+	Level 37 Female Minun, Jolly - Ioi - 1954 / 1995 
 
 		HP	18
 		ATK	5
 		DEF	4
 		SpAtk	20
 		SpDef	19
-		Speed	21
+		Speed	22
 		
 		Type:	Electric
 		Height: 1'4" / 0.4m (Small)
@@ -329,7 +275,7 @@ Pokemon: XXXXXXX
 			Static
 			
 		Capabilities
-			HP			: 94
+			HP			: 95
 			Physical Evasion	: 0
 			Special Evasion		: 3
 			Speed Evasion		: 4
@@ -415,6 +361,54 @@ Pokemon: XXXXXXX
 			Stealth			| 3d6
 			Percetion		| 3d6
 			Focus			| 3d6
+				
+	Level 9 Bashfull Female Chinchou, Aria -  / 
+
+		HP	24
+		ATK	4
+		DEF	4
+		SpAtk	6
+		SpDef	6
+		Speed	10
+		
+		Type:	Water / Electric
+		Height: 1'8"
+		Weight: 26.5lb
+		
+		Abilities
+			Illuminate
+			
+		Capabilities
+			HP			: 91
+			Physical Evasion	: 0
+			Special Evasion		: 1
+			Speed Evasion		: 2
+			Power			: 1
+			Overland		: 3
+			Swim			: 5
+			Jump			: 2/1
+			Intelligence		: 3
+			Tutor			: 2
+			Loyalty			: ???
+			
+		Tutor
+		
+		Moves
+			Bubble
+			Supersonic
+			Thunder Wave
+			Flail
+			Confuse Ray
+			Water Gun
+			Spark
+		
+		Skills
+			Athletics 		| 1d6
+			Acrobatics		| 2d6
+			Combat			| 2d6
+			Stealth			| 1d6-1
+			Percetion		| 3d6
+			Focus			| 2d6
 		
 IN THE BANK
 
@@ -469,6 +463,63 @@ IN THE BANK
 			Stealth			| 3d6
 			Percetion		| 3d6
 			Focus			| 2d6
+			
+MISSING
+	
+	Level 39 Bronzong, Modest - Bella - 2163 / 2230
+	
+		HP	19
+		ATK	7
+		DEF	23
+		SpAtk	22
+		SpDef	24
+		Speed	3
+		
+		Type:	Steel / Psychic
+		Height: 4'3" / 1.3m
+		Weight: 412.3lb / 186kg (5)
+		
+		Abilities
+			Levitate
+			Heavy Metal
+			
+		Capabilities
+			HP			: 104
+			Physical Evasion	: 4
+			Special Evasion		: 4
+			Speed Evasion		: 0
+			Power			: 8
+			Overland		: 1
+			Swim			: 3
+			Levitate		: 8
+			Jump			: 1/1
+			Intelligence		: 7
+			Tutor			: 3
+			Loyalty			: 2
+			Dead Silent
+		
+		Tutor:
+			Perception Skill Up (1)
+			Levitate Up (1)
+			Intelligence Up (1)
+			Focus Up (1)
+		
+		Moves
+			Safeguard	Normal | Scene | None | Status | Blessing | 3 instances to negate a Status Ailment
+			Extrasensory	Psychic | At-Will | AC2 | DB10 | Special | 5m Ranged 1 | Flinches on 19+
+			Hypnosis	Psychic | Scene x2 | AC6 | Status | 4m Ranged 1 | Target falls asleep
+			Feint Attack	Dark | At-Will | AC0 | DB6 | Physical | Melee 1 | Cannot Miss
+			Psy Wave	Psychic | Scene | AC5 | Special | 6m Ranged 1 | Target loses (1d4) / 4 of user's health
+			Iron Defense	Steel | EOT | AC0 | Status | Self | +2 Defense CS
+			Confuse Ray
+		
+		Skills
+			Athletics 		| 3d6+1
+			Acrobatics		| 2d6
+			Combat			| 2d6
+			Stealth			| 3d6+1
+			Percetion		| 6d6+1
+			Focus			| 6d6+1
 
 RELEASED AND STILL WITH US
 
