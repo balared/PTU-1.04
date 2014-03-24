@@ -2,7 +2,7 @@ Body	: -1
 Mind	: +4
 Spirit	: +2
 
-HP	: 22
+HP	: 25
 Attack	: 5
 Defense	: 5
 SpAtk	: 5
@@ -23,14 +23,14 @@ Education [Technology]:	Untrained
 Guile:			Pathetic	
 Perception:		Novice	
 Charm:			Untrained		
-Command:		Novice		
+Command:		Adept		
 Focus:			Untrained		
 Intuition:		Untrained		
 
 Background: Strongman (Perception, Education [Pokemon], Education [General] up, 
 			Education [Occult], Stealth, Guile down)
 
-HP			: 92
+HP			: 107
 Physical Evasion	: 1
 Special Evasion		: 1
 Speed Evasion		: 2
@@ -42,8 +42,8 @@ Swimming 		: 2
 Action Points		: 5
 Height:			: 5'10"
 Weight:			: 95 lb
-Level			: 8
-Exp			: 70
+Level			: 11
+Exp			: 100
 
 Edges:
 	1 : Breeder
@@ -55,6 +55,7 @@ Edges:
 	6 : Expert Education [Pokemon]
 	6 : Adept Education [General]
 	8 : Expert Education [General]
+	10: Adept Command
 	
 Features:
 	1 : Hatcher
@@ -63,6 +64,8 @@ Features:
 	3 : Ancient Heritage
 	5 : Complex Personality
 	7 : Bloodline Development
+	9 : This One's Special, I Know It
+	11: Researcher (Pokemaniac)
 	
 Basic Info:
 
