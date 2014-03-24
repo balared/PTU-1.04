@@ -2,7 +2,7 @@ Body	: +6
 Mind	: -1
 Spirit	: +0
 
-HP	: 39
+HP	: 37
 Attack	: 5
 Defense	: 8
 SpAtk	: 5
@@ -30,7 +30,7 @@ Intuition:		Untrained
 Background: Strongman (Acrobatics, Athletics, Combat up, 
 		Education [General], Education [Occult], Education [Technology] down)
 
-HP			: 149
+HP			: 143
 Physical Evasion	: 1
 Special Evasion		: 1
 Speed Evasion		: 1
@@ -41,7 +41,7 @@ Movement 		: 9
 Swimming 		: 4
 Action Points		: 7
 Throwing Range		: 9
-Height:			: 6'10
+Height:			: Uncomfortable
 Weight:			: 250lb (5)
 Level			: 11
 Exp			: 100
@@ -67,7 +67,7 @@ Features:
 	5 : Athlete's Offense [+2HP] (Learn Block and Strength)
 	7 : Power Play [+2HP] (Strength gives a free Trip, bonus to Skill Roll equal to Power, trips after push on success. Block gives a penalty to all rolls equal to Power UEOYNT)
 	9 : Strength Training [+2HP] (Extended At Will - 2 Tutor Points to teach a target Strength or Block once)
-	11: Walk It Off [+2HP] (Daily Extended Action - Remove an Injury)
+	11: Enduring Soul (May add to a Pokemon's HP regardless of Base Relation)
 	
 Moves:
 	Agility		Normal | EOT | None | Status | Self | +2 Speed CS
@@ -89,14 +89,14 @@ Equipment: (15000 total)
 	
 Pokemon:
 
-	Level 20 Patient Onix - Dragger
+	Level 20 Proud Onix - Dragger
 
-		HP	: 21
-		Attack	: 5
-		Defense	: 21
-		SpAtk	: 3
-		SpDef	: 15
-		Speed	: 5
+		HP	: 10 + 30 = 40
+		Attack	:  9 +  0 =  9
+		Defense	: 20 +  0 = 20
+		SpAtk	:  4 +  0 =  4
+		SpDef	:  7 +  0 =  7
+		Speed	:  3 +  0 =  3
 		
 		Type:	Rock/Ground
 		Height: 28'10"
@@ -107,9 +107,9 @@ Pokemon:
 			Frighten (Swift - Target loses 2 Speed CS)
 		
 		Capabilities
-			HP			: 103
-			Physical Evasion	: 5
-			Special Evasion		: 4
+			HP			: 150
+			Physical Evasion	: 4
+			Special Evasion		: 1
 			Speed Evasion		: 1
 			Power			: 12
 			Overland		: 7
@@ -151,12 +151,12 @@ Pokemon:
 			
 	Level 30 Proud Hariyama - Puncher
 
-		HP	: 36
-		Attack	: 32
-		Defense	: 6
-		SpAtk	: 2
-		SpDef	: 6
-		Speed	: 5
+		HP	: 16 + 40 = 56
+		Attack	: 12 +  0 = 12
+		Defense	:  6 +  0 =  6
+		SpAtk	:  2 +  0 =  2
+		SpDef	:  6 +  0 =  6
+		Speed	:  5 +  0 =  5
 		
 		Type:	Fighting
 		Height: 7'7"
@@ -167,7 +167,7 @@ Pokemon:
 			Sumo Stance (Weight Class +1, Immune to Push effects)
 		
 		Capabilities
-			HP			: 148
+			HP			: 208
 			Physical Evasion	: 1
 			Special Evasion		: 1
 			Speed Evasion		: 1
@@ -180,7 +180,7 @@ Pokemon:
 			Aura
 			
 		Tutor
-			Strength (2)
+			Block (2)
 			Capability Training (Power) (1)
 			Skill Training (Athletics) (1)
 			Skill Training (Combat) (1)
@@ -202,14 +202,14 @@ Pokemon:
 			Vital Throw	Fighting | EOT | AC0 | DB9 | Physical | Melee 1 Push Reaction | If user melee attacked and has not yet taken an action, user may declare Vital Throw as a reaction. Cannot miss.
 			Arm Thrust	Fighting | EOT | AC4 | DB2(FS) + 2 | Physical | Melee 1 Five-Strike
 			
-	Level 30 Patient Golett - Lifter - XXXXXX
+	Level 30 Proud Golett - Lifter - XXXXXX
 
-		HP	: 23
-		Attack	: 20
-		Defense	: 18
-		SpAtk	: 4
-		SpDef	: 5
-		Speed	: 2
+		HP	:  8 + 40 = 48
+		Attack	:  7 +  0 = 7
+		Defense	:  6 +  0 = 6
+		SpAtk	:  2 +  0 = 2
+		SpDef	:  5 +  0 = 5
+		Speed	:  4 +  0 = 4
 		
 		Type:	Ground/Ghost
 		Height: 3.3ft
@@ -220,7 +220,7 @@ Pokemon:
 			Hustle (-2 Accuracy, +10 Damage on Physical moves)
 		
 		Capabilities
-			HP			: 109
+			HP			: 148
 			Physical Evasion	: 3
 			Special Evasion		: 1
 			Speed Evasion		: 0
