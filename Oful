@@ -2,19 +2,19 @@ Body	: +6
 Mind	: -1
 Spirit	: +0
 
-HP	: 32
+HP	: 39
 Attack	: 5
 Defense	: 8
 SpAtk	: 5
 SpDef	: 7
 Speed	: 5
 
-Acrobatics:		Adept	
-Athletics:		Expert + 2
+Acrobatics:		Expert	
+Athletics:		Expert + 7 (2 Shoes, 5 Focus)
 Combat:			Adept
 Intimidate:		Untrained	
 Stealth:		Untrained	
-Survival:		Untrained	
+Survival:		Novice	
 Education [General]:	Pathetic
 Education [Medicine]:	Untrained
 Education [Occult]:	Pathetic
@@ -24,49 +24,52 @@ Guile:			Untrained
 Perception:		Untrained	
 Charm:			Untrained		
 Command:		Untrained		
-Focus:			Untrained		
+Focus:			Novice		
 Intuition:		Untrained		
 
 Background: Strongman (Acrobatics, Athletics, Combat up, 
 		Education [General], Education [Occult], Education [Technology] down)
 
-HP			: 120
+HP			: 149
 Physical Evasion	: 1
 Special Evasion		: 1
 Speed Evasion		: 1
 Power			: 11
 High Jump		: 1
 Long Jump		: 2
-Movement 		: 7
-Swimming 		: 5
-Action Points		: 5
+Movement 		: 9
+Swimming 		: 4
+Action Points		: 7
+Throwing Range		: 9
 Height:			: 6'10
 Weight:			: 250lb (5)
-Level			: 8
-Exp			: 70
+Level			: 11
+Exp			: 100
 
 Edges:
-	1 : Basic Martial Arts
-	1 : Athletic Prowess
-	1 : Swimmer
+	1 : Novice Focus
+	1 : Skill Stunt (Athletics, Lifting Staggering weights)
+	1 : Skill Stunt (Athletics, Moving Drag weights)
 	2 : Novice Survival
 	2 : Adept Combat
-	4 :Adept Athletics
+	4 : Adept Athletics
 	6 : Adept Acrobatics
 	6 : Expert Athletics
-	8 : Power Boost
+	8 : Power Boost (+2 Power Rating)
+	10: Expert Acrobatics
 	
 Features:
-	1 : Agility Training
-	1 : Athlete
-	1 : Defensive Line
-	1 : Defender
-	3 : Coaching
-	5 : Athlete's Offense
-	7 : Power Play
+	1 : Agility Training [Training] [Orders] (Pokemon becomes Agile [+1 Movement, +4 Initiative])
+	1 : Athlete [+2HP] (With half an hour of working out, can apply Agility Training to self, until next Extended Rest. Can be done in conjunction with Training or Orders)
+	1 : Defensive Line [+2HP] (Gain Defender feature. Automatically succeed Intercept checks)
+	1^: Defender [+Spd] +[Def] (1AP Full Action Interrupt - When an ally is hit by an attack, attempt an interrupt)
+	3 : Coaching [+2HP] (Agile pokemon get Defensive Line, Power Play and Moment of Triumph if I have them)
+	5 : Athlete's Offense [+2HP] (Learn Block and Strength)
+	7 : Power Play [+2HP] (Strength gives a free Trip, bonus to Skill Roll equal to Power, trips after push on success. Block gives a penalty to all rolls equal to Power UEOYNT)
+	9 : Strength Training [+2HP] (Extended At Will - 2 Tutor Points to teach a target Strength or Block once)
+	11: Walk It Off [+2HP] (Daily Extended Action - Remove an Injury)
 	
 Moves:
-	Rock Smash	Fighting | At Will | AC2 | DB6 | Melee 1 | Target Defense lowered 1CS on 17+
 	Agility		Normal | EOT | None | Status | Self | +2 Speed CS
 	Block		Normal | At-Will | AC2 | Status | Melee 1 | Target is Stuck and Trapped until the beginning of your next turn
 	Strength	Normal | EOT | AC4 | DB8 | Physical | Melee 1 Push | Target is Pushed 2 meters, +1 Power
@@ -82,6 +85,7 @@ Goals
 Equipment: (15000 total)
 	Running Shoes	| 2000
 	A4 Strength	| 3400
+	Athletics Focus | 6000
 	
 Pokemon:
 
