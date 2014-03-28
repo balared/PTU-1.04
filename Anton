@@ -96,12 +96,12 @@ Equipment:
 	
 Pokemon: XXXXXXX
 
-	Level 41 Stoic Male Chimecho, Sneeze  - 2470 / 2480
+	Level 42 Stoic Male Chimecho, Sneeze  - 2499 / 2610
 	
 		HP	22
 		ATK	5
 		DEF	7
-		SpAtk	38
+		SpAtk	39
 		SpDef	23
 		Speed	7
 		
@@ -115,7 +115,7 @@ Pokemon: XXXXXXX
 			Soothing Tone
 			
 		Capabilities
-			HP			: 117
+			HP			: 118
 			Physical Evasion	: 1
 			Special Evasion		: 4
 			Speed Evasion		: 1
@@ -151,7 +151,7 @@ Pokemon: XXXXXXX
 			Percetion		| 5d6+1
 			Focus			| 6d6+3
 			
-	Level 36 Male Ursaring, Adamant - Winnie - 1836 / 1880
+	Level 36 Male Ursaring, Adamant - Winnie - 1863 / 1880
 
 		HP	27
 		ATK	29
@@ -204,14 +204,14 @@ Pokemon: XXXXXXX
 			Percetion		| 4d6
 			Focus			| 1d6
 	
-	Level 36 Female Plusle, Jolly - Oio - 1867 / 1880 
+	Level 37 Female Plusle, Jolly - Oio - 1904 / 1995 
 
 		HP	18
 		ATK	5
 		DEF	4
 		SpAtk	19
 		SpDef	20
-		Speed	21
+		Speed	22
 		
 		Type:	Electric
 		Height: 1'4" / 0.4m (Small)
@@ -257,7 +257,7 @@ Pokemon: XXXXXXX
 			Percetion		| 2d6+1
 			Focus			| 2d6
 	
-	Level 37 Female Minun, Jolly - Ioi - 1954 / 1995 
+	Level 37 Female Minun, Jolly - Ioi - 1981 / 1995 
 
 		HP	18
 		ATK	5
@@ -362,9 +362,9 @@ Pokemon: XXXXXXX
 			Percetion		| 3d6
 			Focus			| 3d6
 				
-	Level 9 Bashfull Female Chinchou, Aria -  / 
+	Level 10 Bashfull Female Chinchou, Aria - 84 / 90
 
-		HP	24
+		HP	25
 		ATK	4
 		DEF	4
 		SpAtk	6
@@ -379,7 +379,7 @@ Pokemon: XXXXXXX
 			Illuminate
 			
 		Capabilities
-			HP			: 91
+			HP			: 95
 			Physical Evasion	: 0
 			Special Evasion		: 1
 			Speed Evasion		: 2
