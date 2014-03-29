@@ -366,7 +366,7 @@ Pokemon: XXXXXXX
 			Percetion		| 3d6
 			Focus			| 3d6
 
-	Level 16 Male Pidgey, Bold - Pudge - 257 / 285
+	Level 16 Male Pidgeotto, Bold - Pudge - 257 / 285
 	
 		HP	14
 		ATK	4
@@ -376,8 +376,8 @@ Pokemon: XXXXXXX
 		Speed	16
 		
 		Type:	Normal / Flying
-		Height: 1'0" / 0.3m (Small)
-		Weight: 4lb / 1.8kg (1)
+		Height: 3'7" / 1.1m (Small)
+		Weight: 66.1 lb / 30kg (3)
 		
 		Abilities
 			Keen Eye
@@ -392,13 +392,14 @@ Pokemon: XXXXXXX
 			Swim			: 2
 			Sky			: 8
 			Jump			: 2/2
-			Intelligence		: 3
+			Intelligence		: 4
 			Tutor			: 3
 			Loyalty			: 2
 			Underdog
 		
 		Tutor:
 			Fly Speed + 
+			Intelligence +
 		
 		Moves
 			Tackle		Normal | At-Will | AC3 | DB6 | Physical | Melee 1 Dash Push | Push 2 Meters
