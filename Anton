@@ -22,8 +22,8 @@ Education [Occult]: 	Untrained
 Education [Technology]:	Untrained	
 Guile:			Pathetic	
 Perception:		Untrained	
-Charm:			Master		
-Command:		Expert		
+Charm:			Expert		
+Command:		Master		
 Focus:			Expert		
 Intuition:		Expert		
 
@@ -38,7 +38,7 @@ Movement 	: 5
 Swimming 	: 2
 Action Points	: 7
 Level		: 12
-Exp		: 112
+Exp		: 113
 
 Edges:
 	1 : Group Trainer
@@ -74,8 +74,8 @@ Basic Info:
 	20yo
 
 Equipment:
-	0 Bandages
-	7 Pokeball
+	3 Bandages
+	8 Pokeball
 	2 Great Balls (17)
 	2 Dusk Balls
 	10 Ice Heal
@@ -86,7 +86,7 @@ Equipment:
 	Pokedex
 	Food x15
 	6ft stick
-	$3601
+	$3001
 	Winter Cloak
 	Cold Weather Gear
 	Passport
@@ -99,7 +99,7 @@ Equipment:
 	
 Pokemon: XXXXXXX
 
-	Level 42 Stoic Male Chimecho, Sneeze  - 2499 / 2610
+	Level 42 Stoic Male Chimecho, Sneeze  - 2531 / 2610
 	
 		HP	22
 		ATK	5
@@ -154,9 +154,9 @@ Pokemon: XXXXXXX
 			Percetion		| 5d6+1
 			Focus			| 6d6+3
 			
-	Level 36 Male Ursaring, Adamant - Winnie - 1863 / 1880
+	Level 37 Male Ursaring, Adamant - Winnie - 1892 / XXXX
 
-		HP	27
+		HP	28
 		ATK	29
 		DEF	12
 		SpAtk	12
@@ -173,7 +173,7 @@ Pokemon: XXXXXXX
 			Quick Feet
 			
 		Capabilities
-			HP			: 114
+			HP			: 118
 			Physical Evasion	: 2
 			Special Evasion		: 2
 			Speed Evasion		: 1
@@ -197,7 +197,7 @@ Pokemon: XXXXXXX
 			Belly Drum	Normal | Scene | AC0 | Status | Self | +6 CS Stages, lose 1/2 max HP
 			Close Combat	Fighting | Scene x2 | AC2 | DB12 | Physical | Melee 1 Dash | Users Def and SpDef -1 CS
 			Slash		Normal | EOT | AC2 | DB9 | Physical | Melee, Pass | Crit on 18+
-			Scary Face
+			Rest
 		
 		Skills
 			Athletics 		| 4d6+2
@@ -207,7 +207,7 @@ Pokemon: XXXXXXX
 			Percetion		| 4d6
 			Focus			| 1d6
 	
-	Level 37 Female Plusle, Jolly - Oio - 1904 / 1995 
+	Level 37 Female Plusle, Jolly - Oio - 1934 / 1995 
 
 		HP	18
 		ATK	5
@@ -260,12 +260,12 @@ Pokemon: XXXXXXX
 			Percetion		| 2d6+1
 			Focus			| 2d6
 	
-	Level 37 Female Minun, Jolly - Ioi - 1981 / 1995 
+	Level 38 Female Minun, Jolly - Ioi - 2011 / XXXX 
 
 		HP	18
 		ATK	5
 		DEF	4
-		SpAtk	20
+		SpAtk	21
 		SpDef	19
 		Speed	22
 		
@@ -278,7 +278,7 @@ Pokemon: XXXXXXX
 			Static
 			
 		Capabilities
-			HP			: 95
+			HP			: 96
 			Physical Evasion	: 0
 			Special Evasion		: 3
 			Speed Evasion		: 4
@@ -364,10 +364,62 @@ Pokemon: XXXXXXX
 			Stealth			| 3d6
 			Percetion		| 3d6
 			Focus			| 3d6
-				
-	Level 10 Bashfull Female Chinchou, Aria - 84 / 90
 
-		HP	25
+	Level 16 Male Pidgey, Bold - Pudge - 257 / 285
+	
+		HP	14
+		ATK	4
+		DEF	17
+		SpAtk	5
+		SpDef	5
+		Speed	16
+		
+		Type:	Normal / Flying
+		Height: 1'0" / 0.3m (Small)
+		Weight: 4lb / 1.8kg (1)
+		
+		Abilities
+			Keen Eye
+
+		Capabilities
+			HP			: 68
+			Physical Evasion	: 3
+			Special Evasion		: 1
+			Speed Evasion		: 3
+			Power			: 3
+			Overland		: 3
+			Swim			: 2
+			Sky			: 8
+			Jump			: 2/2
+			Intelligence		: 3
+			Tutor			: 3
+			Loyalty			: 2
+			Underdog
+		
+		Tutor:
+			Fly Speed + 
+		
+		Moves
+			Tackle		Normal | At-Will | AC3 | DB6 | Physical | Melee 1 Dash Push | Push 2 Meters
+			Sand Attack	Ground | EOT | AC2 | Status | 2m Ranged 1 | Blinded UEOT
+			Gust		Flying | At-Will | AC4 | DB6 | Special | 4m Ranged 1 | Hits Fly or Sky Drop dudes, ignoring range with DB8
+			Quick Attack	Normal | At-Will | AC2 | DB6 | Special | Melee 1 Priority | Declare to take turn immediately
+			Whirlwind
+			Twister
+		
+		Skills
+			Athletics 		| 2d6
+			Acrobatics		| 3d6
+			Combat			| 2d6
+			Stealth			| 3d6
+			Percetion		| 3d6
+			Focus			| 2d6
+		
+IN THE BANK
+				
+	Level 11 Bashfull Female Chinchou, Aria - 100 / 110
+
+		HP	26
 		ATK	4
 		DEF	4
 		SpAtk	6
@@ -382,7 +434,7 @@ Pokemon: XXXXXXX
 			Illuminate
 			
 		Capabilities
-			HP			: 95
+			HP			: 99
 			Physical Evasion	: 0
 			Special Evasion		: 1
 			Speed Evasion		: 2
@@ -410,60 +462,6 @@ Pokemon: XXXXXXX
 			Acrobatics		| 2d6
 			Combat			| 2d6
 			Stealth			| 1d6-1
-			Percetion		| 3d6
-			Focus			| 2d6
-		
-IN THE BANK
-
-	Level 15 Male Pidgey, Bold - Pudge - 238 / 250
-	
-		HP	9
-		ATK	4
-		DEF	13
-		SpAtk	6
-		SpDef	6
-		Speed	13
-		
-		Type:	Normal / Flying
-		Height: 1'0" / 0.3m (Small)
-		Weight: 4lb / 1.8kg (1)
-		
-		Abilities
-			Keen Eye
-			Guster
-		
-			
-		Capabilities
-			HP			: 92
-			Physical Evasion	: 2
-			Special Evasion		: 1
-			Speed Evasion		: 2
-			Power			: 1
-			Overland		: 2
-			Swim			: 2
-			Sky			: 5
-			Jump			: 1/1
-			Intelligence		: 2
-			Tutor			: 3
-			Loyalty			: 2
-			Telepath
-		
-		Tutor:
-			
-		
-		Moves
-			Tackle		Normal | At-Will | AC3 | DB6 | Physical | Melee 1 Dash Push | Push 2 Meters
-			Sand Attack	Ground | EOT | AC2 | Status | 2m Ranged 1 | Blinded UEOT
-			Gust		Flying | At-Will | AC4 | DB6 | Special | 4m Ranged 1 | Hits Fly or Sky Drop dudes, ignoring range with DB8
-			Quick Attack	Normal | At-Will | AC2 | DB6 | Special | Melee 1 Priority | Declare to take turn immediately
-			Whirlwind
-			Twister
-		
-		Skills
-			Athletics 		| 2d6
-			Acrobatics		| 3d6
-			Combat			| 2d6
-			Stealth			| 3d6
 			Percetion		| 3d6
 			Focus			| 2d6
 			
