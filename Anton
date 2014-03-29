@@ -23,7 +23,7 @@ Education [Technology]:	Untrained
 Guile:			Pathetic	
 Perception:		Untrained	
 Charm:			Expert		
-Command:		Master		
+Command:		Expert		
 Focus:			Expert		
 Intuition:		Expert		
 
@@ -38,7 +38,7 @@ Movement 	: 5
 Swimming 	: 2
 Action Points	: 7
 Level		: 12
-Exp		: 113
+Exp		: 117
 
 Edges:
 	1 : Group Trainer
@@ -59,7 +59,7 @@ Edges:
 	7 : Expert Intuition
 	8 : Pokemon Connoisseur
 	10: Expert Command
-	12: Master Command
+	12: Master Intuition
 
 Features:
 	1 : Channeller
@@ -86,7 +86,7 @@ Equipment:
 	Pokedex
 	Food x15
 	6ft stick
-	$3001
+	$8001
 	Winter Cloak
 	Cold Weather Gear
 	Passport
@@ -98,14 +98,14 @@ Equipment:
 	Rubber Gloves
 	Carbos
 	
-Pokemon: XXXXXXX
+Pokemon: 6
 
-	Level 42 Stoic Male Chimecho, Sneeze  - 2531 / 2610
+	Level 43 Stoic Male Chimecho, Sneeze  - 2721 / 2740
 	
 		HP	22
 		ATK	5
 		DEF	7
-		SpAtk	39
+		SpAtk	40
 		SpDef	23
 		Speed	7
 		
@@ -119,7 +119,7 @@ Pokemon: XXXXXXX
 			Soothing Tone
 			
 		Capabilities
-			HP			: 118
+			HP			: 119
 			Physical Evasion	: 1
 			Special Evasion		: 4
 			Speed Evasion		: 1
@@ -140,7 +140,7 @@ Pokemon: XXXXXXX
 		
 		Moves
 			Confusion	Psychic | At-Will | AC2 | DB7 | Special | 6m Ranged 1 | Confuses on 19+
-			Extrasensory	Psychic | At-Will | AC2 | DB8 | Special | 5m Ranged 1 | Flinches on 19+
+			Synchronoise	
 			Last Resort	Normal | At-Will | AC2 | DB14 | Special | Melee 1 Dash | Can only be used once every other move has been used
 			Entrainment	Normal | Scene | AC2 | Status | 4m Ranged 1 | Target gains one of the user's abilities for 3 turns
 			Safeguard	Normal | Scene | None | Status | Blessing | 3 instances to negate a Status Ailment
@@ -155,10 +155,10 @@ Pokemon: XXXXXXX
 			Percetion		| 5d6+1
 			Focus			| 6d6+3
 			
-	Level 37 Male Ursaring, Adamant - Winnie - 1892 / XXXX
+	Level 38 Male Ursaring, Adamant - Winnie - 2042 / 2110
 
 		HP	28
-		ATK	29
+		ATK	30
 		DEF	12
 		SpAtk	12
 		SpDef	12
@@ -174,7 +174,7 @@ Pokemon: XXXXXXX
 			Quick Feet
 			
 		Capabilities
-			HP			: 118
+			HP			: 119
 			Physical Evasion	: 2
 			Special Evasion		: 2
 			Speed Evasion		: 1
@@ -192,13 +192,13 @@ Pokemon: XXXXXXX
 			Intelligence Up (1)
 		
 		Moves
-			Feint Attack	Dark | At-Will | AC0 | DB6 | Physical | Melee 1 | Cannot Miss
+			Snore		
 			Fury Swipes	Normal | EOT | AC5 | DB3 + 2 | Physical | Melee 1 Five Strike
 			Aerial Ace	Flying | EOT | AC0 | DB6 | Physical | Melee 1 | Cannot Miss
 			Belly Drum	Normal | Scene | AC0 | Status | Self | +6 CS Stages, lose 1/2 max HP
 			Close Combat	Fighting | Scene x2 | AC2 | DB12 | Physical | Melee 1 Dash | Users Def and SpDef -1 CS
 			Slash		Normal | EOT | AC2 | DB9 | Physical | Melee, Pass | Crit on 18+
-			Rest
+			Rest		
 		
 		Skills
 			Athletics 		| 4d6+2
@@ -208,66 +208,13 @@ Pokemon: XXXXXXX
 			Percetion		| 4d6
 			Focus			| 1d6
 	
-	Level 37 Female Plusle, Jolly - Oio - 1934 / 1995 
+	Level 39 Female Plusle, Jolly - Oio - 2114 / 2230 
 
 		HP	18
 		ATK	5
 		DEF	4
-		SpAtk	19
-		SpDef	20
-		Speed	22
-		
-		Type:	Electric
-		Height: 1'4" / 0.4m (Small)
-		Weight: 9.3lb / 4.2kg (1)
-		
-		Abilities
-			Plus
-			Static
-			
-		Capabilities
-			HP			: 94
-			Physical Evasion	: 0
-			Special Evasion		: 3
-			Speed Evasion		: 4
-			Power			: 1
-			Overland		: 7
-			Swim			: 3
-			Jump			: 2/3
-			Intelligence		: 5
-			Tutor			: 5
-			Loyalty			: 3
-			Zapper
-			Underdog
-		
-		Tutor:
-			Overland Up (1)
-			Intelligence Up (1)
-		
-		Moves
-			Thunder Wave	Electric | Scene x2 | None | Status | 6m Ranged 1 | Cannot miss. Paralyzes. Electric immune enemies are not hit
-			Helping Hand	Normal | EOT | None | Status | 4m Ranged 1 Priority | If user hasn't taken its turn yet, can be used during an ally's turn. +2 on accuracy, +10 on damage.
-			Spark		Electric | EOT | AC2 | DB8 | Physical | Melee 1 Dash | Paralyzes on 15+
-			Electro Ball	Electric | Scene x2 | AC2 | DB8 | Special | 10m Ranged 1 | + Speed to damage. Defender subtracts Speed from damage
-			Thunder		Electric | Scene x2 | AC7 | DB13 | Special | 12m Ranged 1 Smite | Paralyzes on 19+. In sunny weather, AC11. In rainy weather, can't miss. If target is airborn from Fly or Sky Drop, cannot miss.
-			Charge		Electric | EOT | AC0 | Status | Self | Doubles damage on electric move next turn. +1 SpDef CS
-			Nuzzle
-		
-		Skills
-			Athletics 		| 3d6+2
-			Acrobatics		| 4d6+2
-			Combat			| 2d6
-			Stealth			| 4d6+2
-			Percetion		| 2d6+1
-			Focus			| 2d6
-	
-	Level 38 Female Minun, Jolly - Ioi - 2011 / XXXX 
-
-		HP	18
-		ATK	5
-		DEF	4
-		SpAtk	21
-		SpDef	19
+		SpAtk	20
+		SpDef	21
 		Speed	22
 		
 		Type:	Electric
@@ -304,7 +251,60 @@ Pokemon: XXXXXXX
 			Electro Ball	Electric | Scene x2 | AC2 | DB8 | Special | 10m Ranged 1 | + Speed to damage. Defender subtracts Speed from damage
 			Thunder		Electric | Scene x2 | AC7 | DB13 | Special | 12m Ranged 1 Smite | Paralyzes on 19+. In sunny weather, AC11. In rainy weather, can't miss. If target is airborn from Fly or Sky Drop, cannot miss.
 			Charge		Electric | EOT | AC0 | Status | Self | Doubles damage on electric move next turn. +1 SpDef CS
-			Nuzzle
+			Thunderbolt	
+		
+		Skills
+			Athletics 		| 3d6+2
+			Acrobatics		| 4d6+2
+			Combat			| 2d6
+			Stealth			| 4d6+2
+			Percetion		| 2d6+1
+			Focus			| 2d6
+	
+	Level 39 Female Minun, Jolly - Ioi - 2193 / 2230 
+
+		HP	18
+		ATK	5
+		DEF	4
+		SpAtk	21
+		SpDef	20
+		Speed	22
+		
+		Type:	Electric
+		Height: 1'4" / 0.4m (Small)
+		Weight: 9.3lb / 4.2kg (1)
+		
+		Abilities
+			Plus
+			Static
+			
+		Capabilities
+			HP			: 97
+			Physical Evasion	: 0
+			Special Evasion		: 3
+			Speed Evasion		: 4
+			Power			: 1
+			Overland		: 7
+			Swim			: 3
+			Jump			: 2/3
+			Intelligence		: 5
+			Tutor			: 5
+			Loyalty			: 3
+			Zapper
+			Underdog
+		
+		Tutor:
+			Overland Up (1)
+			Intelligence Up (1)
+		
+		Moves
+			Thunder Wave	Electric | Scene x2 | None | Status | 6m Ranged 1 | Cannot miss. Paralyzes. Electric immune enemies are not hit
+			Helping Hand	Normal | EOT | None | Status | 4m Ranged 1 Priority | If user hasn't taken its turn yet, can be used during an ally's turn. +2 on accuracy, +10 on damage.
+			Spark		Electric | EOT | AC2 | DB8 | Physical | Melee 1 Dash | Paralyzes on 15+
+			Electro Ball	Electric | Scene x2 | AC2 | DB8 | Special | 10m Ranged 1 | + Speed to damage. Defender subtracts Speed from damage
+			Thunder		Electric | Scene x2 | AC7 | DB13 | Special | 12m Ranged 1 Smite | Paralyzes on 19+. In sunny weather, AC11. In rainy weather, can't miss. If target is airborn from Fly or Sky Drop, cannot miss.
+			Charge		Electric | EOT | AC0 | Status | Self | Doubles damage on electric move next turn. +1 SpDef CS
+			Thunderbolt	
 		
 		Skills
 			Athletics 		| 3d6+2
@@ -366,14 +366,14 @@ Pokemon: XXXXXXX
 			Percetion		| 3d6
 			Focus			| 3d6
 
-	Level 16 Male Pidgeotto, Bold - Pudge - 257 / 285
+	Level 19 Male Pidgeotto, Bold - Pudge - 375 / 400 +++
 	
-		HP	14
+		HP	15
 		ATK	4
-		DEF	17
+		DEF	18
 		SpAtk	5
 		SpDef	5
-		Speed	16
+		Speed	17
 		
 		Type:	Normal / Flying
 		Height: 3'7" / 1.1m (Small)
@@ -383,7 +383,7 @@ Pokemon: XXXXXXX
 			Keen Eye
 
 		Capabilities
-			HP			: 68
+			HP			: 74
 			Physical Evasion	: 3
 			Special Evasion		: 1
 			Speed Evasion		: 3
