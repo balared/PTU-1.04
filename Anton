@@ -2,7 +2,7 @@ Body	: -1
 Mind	: +2
 Spirit	: +4
 
-HP	: 21
+HP	: 22
 Attack	: 5
 Defense	: 11
 SpAtk	: 5
@@ -30,7 +30,7 @@ Intuition:		Master
 Background: That Kid From The Ranch. You Know The One. (Combat, Stealth, Guile down, 
 							Charm, Focus, Inuition up)
 
-HP		: 97 (79 / 0)
+HP		: 101 (79 / 0)
 Power		: 3
 High Jump	: 0
 Long Jump	: 0
