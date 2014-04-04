@@ -89,9 +89,9 @@ Equipment: (15000 total)
 	
 Pokemon:
 
-	Level 20 Proud Onix - Dragger
+	Level 30 Proud Onix - Dragger
 
-		HP	: 10 + 30 = 40
+		HP	: 10 + 40 = 50
 		Attack	:  9 +  0 =  9
 		Defense	: 20 +  0 = 20
 		SpAtk	:  4 +  0 =  4
@@ -107,7 +107,7 @@ Pokemon:
 			Frighten (Swift - Target loses 2 Speed CS)
 		
 		Capabilities
-			HP			: 150
+			HP			: 190
 			Physical Evasion	: 4
 			Special Evasion		: 1
 			Speed Evasion		: 1
@@ -149,9 +149,9 @@ Pokemon:
 		Notes:
 			Heavy Slam is an egg move
 			
-	Level 30 Proud Hariyama - Puncher
+	Level 40 Proud Hariyama - Puncher
 
-		HP	: 16 + 40 = 56
+		HP	: 16 + 50 = 66
 		Attack	: 12 +  0 = 12
 		Defense	:  6 +  0 =  6
 		SpAtk	:  2 +  0 =  2
@@ -165,9 +165,10 @@ Pokemon:
 		Abilities:
 			Thick Fat (+1 Resistant to Fire and Ice)
 			Sumo Stance (Weight Class +1, Immune to Push effects)
+			Sheer Force (Ignore all secondary effects based on Accuracy, +2 to DB)
 		
 		Capabilities
-			HP			: 208
+			HP			: 248
 			Physical Evasion	: 1
 			Special Evasion		: 1
 			Speed Evasion		: 1
@@ -176,7 +177,7 @@ Pokemon:
 			Swim			: 3
 			Jump			: 1/1
 			Intelligence		: 5
-			Tutor			: 1
+			Tutor			: 3
 			Aura
 			
 		Tutor
@@ -202,36 +203,38 @@ Pokemon:
 			Vital Throw	Fighting | EOT | AC0 | DB9 | Physical | Melee 1 Push Reaction | If user melee attacked and has not yet taken an action, user may declare Vital Throw as a reaction. Cannot miss.
 			Arm Thrust	Fighting | EOT | AC4 | DB2(FS) + 2 | Physical | Melee 1 Five-Strike
 			
-	Level 30 Proud Golett - Lifter - XXXXXX
-
-		HP	:  8 + 40 = 48
-		Attack	:  7 +  0 = 7
-		Defense	:  6 +  0 = 6
-		SpAtk	:  2 +  0 = 2
-		SpDef	:  5 +  0 = 5
-		Speed	:  4 +  0 = 4
+	Level 40 Proud Golurk - Lifter - XXXXXX
+	
+		HP	:   9 + 50 = 59
+		Attack	:  12 +  0 = 12
+		Defense	:   6 +  0 = 6
+		SpAtk	:   2 +  0 = 2
+		SpDef	:   5 +  0 = 5
+		Speed	:   4 +  0 = 4
 		
 		Type:	Ground/Ghost
-		Height: 3.3ft
-		Weight: 202.8lb (4)
+		Height: 9'0" / 2.8m
+		Weight: 727.5lb / 330kg (6)
 		
 		Abilities:
 			Iron Fist (Punch moves get +2DB)
-			Hustle (-2 Accuracy, +10 Damage on Physical moves)
+			Bodyguard
+			No Guard (Gets no evasion against Melee, ignores evasion for Melee)
 		
 		Capabilities
-			HP			: 148
+			HP			: 227
 			Physical Evasion	: 3
 			Special Evasion		: 1
 			Speed Evasion		: 0
-			Power			: 9
-			Overland		: 5
-			Swim			: 2
-			Jump			: 1/1
-			Intelligence		: 4
-			Tutor			: 4
+			Power			: 16
+			Overland		: 6
+			Swim			: 3
+			Sky			: 5
+			Jump			: 2/2
+			Intelligence		: 5
+			Tutor			: 6
 			Darkvision
-			Underdog
+			Groundshaper
 			
 		Tutor
 			Strength (2)
