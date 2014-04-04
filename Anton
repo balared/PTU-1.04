@@ -156,10 +156,10 @@ Pokemon: 6
 			Percetion		| 5d6+1
 			Focus			| 6d6+3
 			
-	Level 38 Male Ursaring, Adamant - Winnie - 2042 / 2110
+	Level 40 Male Ursaring, Adamant - Winnie - 2312 / 2355
 
-		HP	28
-		ATK	30
+		HP	29
+		ATK	31
 		DEF	12
 		SpAtk	12
 		SpDef	12
@@ -173,9 +173,10 @@ Pokemon: 6
 			Guts
 			Frighten
 			Quick Feet
+			Bodyguard
 			
 		Capabilities
-			HP			: 119 (97 / 5)
+			HP			: 124 (97 / 5)
 			Physical Evasion	: 2
 			Special Evasion		: 2
 			Speed Evasion		: 1
