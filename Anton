@@ -30,15 +30,15 @@ Intuition:		Master
 Background: That Kid From The Ranch. You Know The One. (Combat, Stealth, Guile down, 
 							Charm, Focus, Inuition up)
 
-HP		: 97
+HP		: 97 (79 / 0)
 Power		: 3
 High Jump	: 0
 Long Jump	: 0
 Movement 	: 5
 Swimming 	: 2
 Action Points	: 7
-Level		: 12
-Exp		: 117
+Level		: 13
+Exp		: 122
 
 Edges:
 	1 : Group Trainer
@@ -68,6 +68,7 @@ Features:
 	5 : Shared Senses
 	9 : Soul Shuffle
 	11: Guidance
+	13: Channeler's Reach
 	
 Basic Info:
 	Anton Talwain
@@ -174,7 +175,7 @@ Pokemon: 6
 			Quick Feet
 			
 		Capabilities
-			HP			: 119
+			HP			: 119 (97 / 5)
 			Physical Evasion	: 2
 			Special Evasion		: 2
 			Speed Evasion		: 1
