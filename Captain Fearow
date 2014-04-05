@@ -2,8 +2,8 @@ Body    : +6
 Mind    : -1
 Spirit  : +0
 
-HP	: 13
-Attack	: 15
+HP	: 16
+Attack	: 19
 Defense	: 15
 SpAtk	: 6
 SpDef	: 15
@@ -30,7 +30,7 @@ Intuition:		Expert
 Background: Performance Fighter (Intuition, Athletics, Combat up, 
 		Education [General], Education [Occult], Education [Technology] down)
 
-HP			: 65
+HP			: 80
 Physical Evasion	: 5
 Special Evasion		: 5
 Speed Evasion		: 3
@@ -55,6 +55,7 @@ Edges:
 	6 : Adept Intuition
 	6 : Expert Combat
 	8 : Expert Intuition
+	10: Expert Perception
 	
 Features:
 	1 : Martial Artist (Iron Fist ability) [+2 Def]
@@ -63,14 +64,16 @@ Features:
 	3 : Sight Beyond Sight (Adept Perception, Blindsense capability) [+Atk, +SpDef]
 	5 : Martial Achievement (Pummelling Momentum) [+2 Def]
 	7 : Mystic's Power (Drain Punch, Focus Punch) [+Atk, +SpDef]
+	9 : Type Expereise (Gain STAB with Fighting Moves) [+2Atk]
+	11: Type Expertise (Gain STAB with Normal moves) [+2Atk]
 	
 Moves:
-        Rock Smash      Fighting | At-Will | AC2 | DB4 | Physical | Melee 1 | 17+ : Lower target Defense 1CS
-        Mach Punch      Fighting | At-Will | AC2 | DB6 | Physcial | Melee 1 Priority | May be declared to take turn immediately
-        Double Kick     Fighting | At-Will | AC3 | DB3 | Physical | Melee 1 Double Strike
-        Fury Attack     Normal | At-Will | AC4 | DB2 | Physical | Melee 1 Five Strike
-        Drain Punch	Fighting | Scene x2 | AC2 | DB10 | Physical | Melee 1 | Gains HP = 1/2 damage
-        Focus Punch	Fighting | EOT | AC2 | DB17 | Physical | Melee 1 Priority | Declared at start of round. If ~ hasn't been hit by an attack, shift and use Focus Punch.
+        Rock Smash      Fighting | At-Will | AC2 | DB6 | Physical | Melee 1 | 17+ : Lower target Defense 1CS
+        Mach Punch      Fighting | At-Will | AC2 | DB8 | Physcial | Melee 1 Priority | May be declared to take turn immediately
+        Double Kick     Fighting | At-Will | AC3 | DB3 + 2 | Physical | Melee 1 Double Strike
+        Fury Attack     Normal | At-Will | AC4 | DB2 + 2 | Physical | Melee 1 Five Strike
+        Drain Punch	Fighting | Scene x2 | AC2 | DB12 | Physical | Melee 1 | Gains HP = 1/2 damage
+        Focus Punch	Fighting | EOT | AC2 | DB19 | Physical | Melee 1 Priority | Declared at start of round. If ~ hasn't been hit by an attack, shift and use Focus Punch.
         
 Abilities:      Iron Fist (+2 DB on moves listed below)
                 Instinct (+2 base Evasion)
@@ -104,10 +107,10 @@ Notes:
 	
 Pokemon:
 
-	Level 30 Adamant Male Hitmonchan
+	Level 40 Adamant Male Hitmonchan
 
 		HP	: 5
-		Attack	: 33
+		Attack	: 43
 		Defense	: 18
 		SpAtk	: 2
 		SpDef	: 21
@@ -120,9 +123,10 @@ Pokemon:
 		Abilities:
 			Iron Fist
 			Discipline
+			Bodyguard
 		
 		Capabilities
-			HP			: 55
+			HP			: 65
 			Physical Evasion	: 3
 			Special Evasion		: 4
 			Speed Evasion		: 1
@@ -131,7 +135,7 @@ Pokemon:
 			Swim			: 3
 			Jump			: 2/2
 			Intelligence		: 4
-			Tutor			: 7
+			Tutor			: 9
 			
 		Tutor
 		
@@ -146,10 +150,10 @@ Pokemon:
 		Moves
 			Bullet Punch	Steel | At-Will | AC2 | DB6 | Physical | Melee 1 Priority | May be declared to take turn immediately
 			Mach Punch	Fighting | At-Will | AC2 | DB8 | Physcial | Melee 1 Priority | May be declared to take turn immediately
-			Vacuum Wave	Fighting | At-Will | AC2 | DB6 | Special | 4m Ranged 1 Priority Aura |  May be declared to take turn immediately
-			Feint		Normal | Scene | Status | Trigger | If a foe uses a move with the shield keyword in responce to an action, Feint causes it to fail. Free action, no command
 			Persuit		Dark | At-Will | AC2 | DB4 | Physical | Can interrupt a fleeing pokemon. +5 to move speeds, DB 8 when interrupting
-			Agility		Psychic | EOT | AC0 | Status | Self | +2 Speed CS
+			Fire Punch
+			Ice Punch
+			Thunder Punch
 
 	Level 30 Adamant Golett
 
@@ -201,14 +205,14 @@ Pokemon:
 			Rollout		Rock | At-Will | AC4 | DB3 | Physical | Melee 1 Pass | Each successive hit: DB + 4 (max DB15)
 			Defense Curl	Normal | At-Will | AC0 | Status | Self | User becomes Curled Up: Immune to crits, Slowed, AC - 4, Swift to end, if the user uses Rollout or Ice Ball, +10 damage and no accuracy penalty
 
-	Level 20 Patient Male Chimchar
+	Level 40 Patient Male Infernape
 
-		HP	: 18
-		Attack	: 18
-		Defense	: 5
-		SpAtk	: 18
-		SpDef	: 5
-		Speed	: 6
+		HP	: 8
+		Attack	: 62
+		Defense	: 7
+		SpAtk	: 10
+		SpDef	: 7
+		Speed	: 8
 		
 		Type:	Fire / Fighting
 		Height: 2'11"
@@ -217,9 +221,10 @@ Pokemon:
 		Abilities:
 			Flash Fire (Immune to Fire. +5 to Fire Damage when hit by Fire)
 			Iron Fist
+			Courage
 		
 		Capabilities
-			HP			: 94
+			HP			: 74
 			Physical Evasion	: 1
 			Special Evasion		: 1
 			Speed Evasion		: 1
@@ -232,22 +237,21 @@ Pokemon:
 			Firestarter
 			Heater
 			Glow
-			Underdog
 			
 		Tutor
 		
 		Skills
-			Athletics 		| 4d6+2
-			Acrobatics		| 4d6+2
-			Combat			| 3d6
-			Stealth			| 3d6+2
-			Percetion		| 3d6+3
-			Focus			| 2d6
+			Athletics 		| 5d6+2
+			Acrobatics		| 6d6+2
+			Combat			| 5d6
+			Stealth			| 4d6+2
+			Percetion		| 2d6+3
+			Focus			| 3d6
 			
 		Moves
-			Ember
-			Scratch
 			Mach Punch
-			Fury Swipes
 			Flame Wheel
+			Fury Swipes
+			Close Combat
+			Ember
 			Feint
