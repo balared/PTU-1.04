@@ -60,12 +60,14 @@ Edges:
 	
 Features:
 	1 : Agility Training [Training] [Orders] (Pokemon becomes Agile [+1 Movement, +4 Initiative])
-	1 : Athlete [+2HP] (With half an hour of working out, can apply Agility Training to self, until next Extended Rest. Can be done in conjunction with Training or Orders)
+	1 : Athlete [+2HP] (With half an hour of working out, can apply Agility Training to self, 
+		until next Extended Rest. Can be done in conjunction with Training or Orders)
 	1 : Defensive Line [+2HP] (Gain Defender feature. Automatically succeed Intercept checks)
 	1^: Defender [+Spd] +[Def] (1AP Full Action Interrupt - When an ally is hit by an attack, attempt an interrupt)
 	3 : Coaching [+2HP] (Agile pokemon get Defensive Line, Power Play and Moment of Triumph if I have them)
 	5 : Athlete's Offense [+2HP] (Learn Block and Strength)
-	7 : Power Play [+2HP] (Strength gives a free Trip, bonus to Skill Roll equal to Power, trips after push on success. Block gives a penalty to all rolls equal to Power UEOYNT)
+	7 : Power Play [+2HP] (Strength gives a free Trip, bonus to Skill Roll equal to Power, 
+		trips after push on success. Block gives a penalty to all rolls equal to Power UEOYNT)
 	9 : Strength Training [+2HP] (Extended At Will - 2 Tutor Points to teach a target Strength or Block once)
 	11: Enduring Soul (May add to a Pokemon's HP regardless of Base Relation)
 	
