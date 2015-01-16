@@ -1,0 +1,237 @@
+Body	: 
+Mind	: 
+Spirit	: 
+
+HP	: 
+ATK	: 
+DEF	: 
+SPA	: 
+SPD	: 
+SPE	: 
+
+Acrobatics:             
+Athletics:		
+Combat:	                
+Intimidate:	        
+Stealth:		
+Survival:	        
+Education [General]:	
+Education [Medicine]:   
+Education [Occult]:	
+Education [Pokemon]:	
+Education [Technology]:	
+Guile:                  
+Perception:             
+Charm:			
+Command:		
+Focus:			
+Intuition:		
+
+Background:     
+                
+
+HP			: 
+Physical Evasion	: 
+Special Evasion		: 
+Speed Evasion		: 
+Power			: 
+High Jump		: 
+Long Jump		: 
+Movement 		: 
+Swimming 		: 
+Action Points		: 
+Throwing Range		: 
+Height:			: 
+Weight:			: 
+Level			: 
+Exp			: 
+
+Edges:
+	1 : 
+	1 : 
+	1 : 
+	
+Features:
+	1 : 
+	1 : 
+	1 : 
+	
+Moves:
+	
+Basic Info:
+
+Goals
+
+Equipment: 
+	
+Pokemon:
+
+	Level 30 Proud Onix - Dragger
+
+		HP	: 10 + 40 = 50
+		Attack	:  9 +  0 =  9
+		Defense	: 20 +  0 = 20
+		SpAtk	:  4 +  0 =  4
+		SpDef	:  7 +  0 =  7
+		Speed	:  3 +  0 =  3
+		
+		Type:	Rock/Ground
+		Height: 28'10"
+		Weight: 463lb (6)
+		
+		Abilities:
+			Sturdy (Immune to Sheer Cold, Guillotine, Horn Drill and Fissure. Full to 0 HP move sets to 1. Massive damage has no effect) 
+			Frighten (Swift - Target loses 2 Speed CS)
+		
+		Capabilities
+			HP			: 190
+			Physical Evasion	: 4
+			Special Evasion		: 1
+			Speed Evasion		: 1
+			Power			: 12
+			Overland		: 7
+			Swim			: 4
+			Burrow			: 7
+			Jump			: 2/3
+			Intelligence		: 3
+			Reach			: 3
+			Mountable		: 5
+			Tutor			: 1
+			Darkvision
+			Groundshaper
+			Underdog
+			Materializer
+			
+		Tutor
+			Block (2)
+			Capability Training (Power) (1)
+			Skill Training (Combat) (1)
+		
+		Skills
+			Athletics 		| 4d6+2
+			Acrobatics		| 2d6
+			Combat			| 3d6
+			Stealth			| 2d6
+			Percetion		| 3d6
+			Focus			| 4d6+1
+			
+		Moves
+			Strength	Normal | EOT | AC4 | DB8 | Physical | Melee 1 Push | Target is Pushed 2 meters, +1 Power
+			Block		Normal | At-Will | AC2 | Status | Melee 1 | Target is Stuck and Trapped until the beginning of your next turn
+			Stealth Rock	Rock | Scene | AC0 | Status | Field, Hazard | Put 4 adjacent Stealth Rock hazards. If enemy moves within 2 meters, move 1 rock to the offender, destroy rock, offender takes 1/10th of their Max HP in damage (applying weakness/resist but not stats). Can only hit each pokemon once per recall
+			Rock Tomb	Rock | At-Will | AC5 | DB8 | Physical | 6m Ranged 1 | Lowers speed by 1CS
+			Rock Throw	Rock | At-Will | AC5 | DB7 | Physical | 6m Ranged 1
+			Bind		Normal | Static | Static | User gains +1 to Accuracy on Struggle Attacks for Grapple and +2 on Skill Checks to initiate Grapple. Whenever the user ends their turn and is grappling, the target loses 1/10 of max health.
+			
+		Notes:
+			Heavy Slam is an egg move
+			
+	Level 40 Proud Hariyama - Puncher
+
+		HP	: 16 + 50 = 66
+		Attack	: 12 +  0 = 12
+		Defense	:  6 +  0 =  6
+		SpAtk	:  2 +  0 =  2
+		SpDef	:  6 +  0 =  6
+		Speed	:  5 +  0 =  5
+		
+		Type:	Fighting
+		Height: 7'7"
+		Weight: 559.5lb (7)
+		
+		Abilities:
+			Thick Fat (+1 Resistant to Fire and Ice)
+			Sumo Stance (Weight Class +1, Immune to Push effects)
+			Sheer Force (Ignore all secondary effects based on Accuracy, +2 to DB)
+		
+		Capabilities
+			HP			: 248
+			Physical Evasion	: 1
+			Special Evasion		: 1
+			Speed Evasion		: 1
+			Power			: 16
+			Overland		: 6
+			Swim			: 3
+			Jump			: 1/1
+			Intelligence		: 5
+			Tutor			: 3
+			Aura
+			
+		Tutor
+			Block (2)
+			Capability Training (Power) (1)
+			Skill Training (Athletics) (1)
+			Skill Training (Combat) (1)
+			Capability Training (Intelligence) (1)
+		
+		Skills
+			Athletics 		| 6d6+2
+			Acrobatics		| 1d6
+			Combat			| 6d6
+			Stealth			| 1d6
+			Percetion		| 3d6
+			Focus			| 4d6+1
+			
+		Moves
+			Strength	Normal | EOT | AC4 | DB8 | Physical | Melee 1 Push | Target is Pushed 2 meters, +1 Power
+			Block		Normal | At-Will | AC2 | Status | Melee 1 | Target is Stuck and Trapped until the beginning of your next turn
+			Knock Off	Dark | Scene | AC2 | DB7 | Static | Melee 1 | Automatic disarm. Consumables destroyed.
+			Whirlwind	Normal | Scene x2 | AC2 | Status | Line 6 | All targets pushed X meters, where X is 8 - Weight Class. Disperses Smokescreen, destroys hazards
+			Vital Throw	Fighting | EOT | AC0 | DB9 | Physical | Melee 1 Push Reaction | If user melee attacked and has not yet taken an action, user may declare Vital Throw as a reaction. Cannot miss.
+			Arm Thrust	Fighting | EOT | AC4 | DB2(FS) + 2 | Physical | Melee 1 Five-Strike
+			
+	Level 40 Proud Golurk - Lifter - XXXXXX
+	
+		HP	:   9 + 50 = 59
+		Attack	:  12 +  0 = 12
+		Defense	:   6 +  0 = 6
+		SpAtk	:   2 +  0 = 2
+		SpDef	:   5 +  0 = 5
+		Speed	:   4 +  0 = 4
+		
+		Type:	Ground/Ghost
+		Height: 9'0" / 2.8m
+		Weight: 727.5lb / 330kg (6)
+		
+		Abilities:
+			Iron Fist (Punch moves get +2DB)
+			Bodyguard
+			No Guard (Gets no evasion against Melee, ignores evasion for Melee)
+		
+		Capabilities
+			HP			: 227
+			Physical Evasion	: 3
+			Special Evasion		: 1
+			Speed Evasion		: 0
+			Power			: 16
+			Overland		: 6
+			Swim			: 3
+			Sky			: 5
+			Jump			: 2/2
+			Intelligence		: 5
+			Tutor			: 6
+			Darkvision
+			Groundshaper
+			
+		Tutor
+			Strength (2)
+			Capability Training (Power) (1)
+		
+		Skills
+			Athletics 	| 4d6+2
+			Acrobatics	| 2d6
+			Combat		| 2d6+2
+			Stealth		| 2d6
+			Percetion	| 3d6+1
+			Focus		| 4d6+2
+			
+		Moves
+			Strength	Normal | EOT | AC4 | DB8 | Physical | Melee 1 Push | Target is Pushed 2 meters, +1 Power
+			Block		Normal | At-Will | AC2 | Status | Melee 1 | Target is Stuck and Trapped until the beginning of your next turn
+			Mega Punch	Normal | At-Will | AC4 | DB10 | Physical | Melee 1
+			Shadow Punch	Ghost | EOT | AC0 | DB10 | Physical | 6m Ranged 1 | Cannot miss
+			Dynamic Punch	Fighting | At-Will | AC9 | DB12 | Physical | Melee 1 | Confuses. Evasion is ignored if target is Flanked
+			Defense Curl	Normal | At-Will | AC0 | Status | Self | Immune to Crits, Damage Reduction 10, Slowed, Accuracy -4, Swift action to end. If ~ has Rollout or Ice Ball, not sllowed and those moves get +10 damage and no Accuracy penalty
+			
+		Goals
+			Get Heavy Slam
