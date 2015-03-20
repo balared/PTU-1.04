@@ -8,6 +8,25 @@ Background
 		Pathetic Acrobatics
 		Pathetic Medicine Education
 		
+
+Derived Stats
+	AP	7
+	HP		
+		Level x 2 + HP x 3 + 10
+			98
+	Evasion
+		Physical	1
+		Special		1
+		Speed		3
+	Power		4
+	High Jump	0
+	Long Jump	1
+	Overland	3
+	Swim		1
+	Levitate	4
+	Throwing	6
+	Size		Medium, 100lb (WC3)
+		
 Skills
 	Acrobatics		Pathetic
 	Athletics		Untrained
