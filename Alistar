@@ -24,8 +24,8 @@ Skills
 	Perception		Expert
 	Charm			Untrained
 	Command			Master
-	Focus					Adept
-	Intuition				Novice
+	Focus			Adept
+	Intuition		Novice
 	
 Gear:
 	|---------------|-----------------------|---------------|---------------|
@@ -43,12 +43,12 @@ Gear:
 	|---------------|-----------------------|---------------|---------------|
 	
 Stats:
-	HP		20"
-	Atk		5
-	Def		5
+	HP	20"
+	Atk	5
+	Def	5
 	SpAtk	12
 	SpDef	6
-	Spd		18
+	Spd	18
 	
 Abilities:
 	Levitate
@@ -94,12 +94,12 @@ Features
 	
 Pokemon
 	Level 24 Cuddly Unown Prime - Dryad - 699/745
-		HP		19 + 10 = 29
-		Atk		 8 +  0 =  8
-		Def		 8 +  0 =  8
+		HP	19 + 10 = 29
+		Atk	 8 +  0 =  8
+		Def	 8 +  0 =  8
 		SpAtk	10 + 11 = 21
 		SpDef	 8 +  0 =  8
-		Spd		13 + 10 = 28
+		Spd	13 + 10 = 28
 		
 		Type	Psychic
 		
@@ -114,9 +114,9 @@ Pokemon
 		Capabilities
 			HP	82
 			Evasion
-				Def		1
+				Def	1
 				SpDef	1
-				Spd		3
+				Spd	3
 			Levitate 6
 			Swim 2
 			Jump 1/1
@@ -157,9 +157,9 @@ Pokemon
 			(Grass, Fire, Dragon, Water for off picks)
 		
 	Level 24 NATURE Unown Prime - Djinn - 699/745
-		HP		19 + 10 = 29
-		Atk		 8 +  0 =  8
-		Def		 8 +  0 =  8
+		HP	19 + 10 = 29
+		Atk	 8 +  0 =  8
+		Def	 8 +  0 =  8
 		SpAtk	10 + 11 = 21
 		SpDef	 8 +  0 =  8
 		Spd		13 + 10 = 28
@@ -177,9 +177,9 @@ Pokemon
 		Capabilities
 			HP	82
 			Evasion
-				Def		1
+				Def	1
 				SpDef	1
-				Spd		3
+				Spd	3
 			Levitate 6
 			Swim 2
 			Jump 1/1
@@ -220,12 +220,12 @@ Pokemon
 			(Grass, Fire, Dragon, Water for off picks)
 			
 	Level 24 NATURE Unown Prime - Dwarf - 699/745
-		HP		19 + 10 = 29
-		Atk		 8 +  0 =  8
-		Def		 8 +  0 =  8
+		HP	19 + 10 = 29
+		Atk	 8 +  0 =  8
+		Def	 8 +  0 =  8
 		SpAtk	10 + 11 = 21
 		SpDef	 8 +  0 =  8
-		Spd		13 + 10 = 28
+		Spd	13 + 10 = 28
 		
 		Type	Psychic
 		
@@ -240,9 +240,9 @@ Pokemon
 		Capabilities
 			HP	82
 			Evasion
-				Def		1
+				Def	1
 				SpDef	1
-				Spd		3
+				Spd	3
 			Levitate 6
 			Swim 2
 			Jump 1/1
@@ -283,12 +283,12 @@ Pokemon
 			(Grass, Fire, Dragon, Water for off picks)
 			
 	Level 24 NATURE Unown Prime - Demon - 699/745
-		HP		19 + 10 = 29
-		Atk		 8 +  0 =  8
-		Def		 8 +  0 =  8
+		HP	19 + 10 = 29
+		Atk	 8 +  0 =  8
+		Def	 8 +  0 =  8
 		SpAtk	10 + 11 = 21
 		SpDef	 8 +  0 =  8
-		Spd		13 + 10 = 28
+		Spd	13 + 10 = 28
 		
 		Type	Psychic
 		
@@ -303,9 +303,9 @@ Pokemon
 		Capabilities
 			HP	82
 			Evasion
-				Def		1
+				Def	1
 				SpDef	1
-				Spd		3
+				Spd	3
 			Levitate 6
 			Swim 2
 			Jump 1/1
@@ -346,12 +346,12 @@ Pokemon
 			(Grass, Fire, Dragon, Water for off picks)
 			
 	Level 24 NATURE Unown Prime - Devil - 699/745
-		HP		19 + 10 = 29
-		Atk		 8 +  0 =  8
-		Def		 8 +  0 =  8
+		HP	19 + 10 = 29
+		Atk	 8 +  0 =  8
+		Def	 8 +  0 =  8
 		SpAtk	10 + 11 = 21
 		SpDef	 8 +  0 =  8
-		Spd		13 + 10 = 28
+		Spd	13 + 10 = 28
 		
 		Type	Psychic
 		
@@ -366,9 +366,9 @@ Pokemon
 		Capabilities
 			HP	82
 			Evasion
-				Def		1
+				Def	1
 				SpDef	1
-				Spd		3
+				Spd	3
 			Levitate 6
 			Swim 2
 			Jump 1/1
