@@ -56,13 +56,12 @@ Gear:
 	| 1		| Water Filter		|  500		|  500		|
 	| 1		| Multitool		|  500		|  500		|
 	| 1		| Backpack		|    0		|    0		|
-	| 1		| Pokeball		|  100		|  100		|
 	| 1		| Shank			|    0		|    0		|
 	|---------------|-----------------------|---------------|---------------|
-	|		|			| Subtotal	| 4500		|
+	|		|			| Subtotal	| 4400		|
 	| 		| 			| Cash		| 1500		|
 	|---------------|-----------------------|---------------|---------------|
-	|		|			| Total		| 6000		|
+	|		|			| Total		| 5900		|
 	|---------------|-----------------------|---------------|---------------|
 	
 Stats:
@@ -78,7 +77,7 @@ Abilities:
 	
 Capabilities:
 	Telekinetic
-	Gather Unown
+	Gather Unown 1/week
 	
 Moves:
 	Hidden Power
@@ -180,8 +179,8 @@ Pokemon
 			(Ice + Dark)
 			(Grass, Fire, Dragon, Water for off picks)
 		
-	Level 24 NATURE Unown Prime - Djinn - 699/745
-		HP	19 + 10 = 29
+	Level 24 Cuddly Unown Prime - Djinn - 738/745
+		HP	24 + 10 = 34
 		Atk	 8 +  0 =  8
 		Def	 8 +  0 =  8
 		SpAtk	10 + 11 = 21
@@ -199,7 +198,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	82
+			HP	136
 			Evasion
 				Def	1
 				SpDef	1
@@ -240,16 +239,18 @@ Pokemon
 				Ground | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
 			Hidden Power
 				Flying | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
-			(Ice + Dark)
+			Hidden Power
+				Ice | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			(Dark)
 			(Grass, Fire, Dragon, Water for off picks)
 			
-	Level 24 NATURE Unown Prime - Dwarf - 699/745
-		HP	19 + 10 = 29
+	Level 24 Cuddly Unown Prime - Dwarf - 738/745
+		HP	24 + 10 = 34
 		Atk	 8 +  0 =  8
 		Def	 8 +  0 =  8
 		SpAtk	10 + 11 = 21
 		SpDef	 8 +  0 =  8
-		Spd	13 + 10 = 28
+		Spd		13 + 10 = 28
 		
 		Type	Psychic
 		
@@ -262,7 +263,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	82
+			HP	136
 			Evasion
 				Def	1
 				SpDef	1
@@ -303,16 +304,18 @@ Pokemon
 				Ground | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
 			Hidden Power
 				Flying | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
-			(Ice + Dark)
+			Hidden Power
+				Ice | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			(Dark)
 			(Grass, Fire, Dragon, Water for off picks)
 			
-	Level 24 NATURE Unown Prime - Demon - 699/745
-		HP	19 + 10 = 29
+	Level 24 Cuddly Unown Prime - Demon - 738/745
+		HP	24 + 10 = 34
 		Atk	 8 +  0 =  8
 		Def	 8 +  0 =  8
 		SpAtk	10 + 11 = 21
 		SpDef	 8 +  0 =  8
-		Spd	13 + 10 = 28
+		Spd		13 + 10 = 28
 		
 		Type	Psychic
 		
@@ -325,7 +328,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	82
+			HP	136
 			Evasion
 				Def	1
 				SpDef	1
@@ -366,16 +369,18 @@ Pokemon
 				Ground | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
 			Hidden Power
 				Flying | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
-			(Ice + Dark)
+			Hidden Power
+				Ice | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			(Dark)
 			(Grass, Fire, Dragon, Water for off picks)
 			
-	Level 24 NATURE Unown Prime - Devil - 699/745
-		HP	19 + 10 = 29
+	Level 24 Cuddly Unown Prime - Devil - 738/745
+		HP	24 + 10 = 34
 		Atk	 8 +  0 =  8
 		Def	 8 +  0 =  8
 		SpAtk	10 + 11 = 21
 		SpDef	 8 +  0 =  8
-		Spd	13 + 10 = 28
+		Spd		13 + 10 = 28
 		
 		Type	Psychic
 		
@@ -388,7 +393,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	82
+			HP	136
 			Evasion
 				Def	1
 				SpDef	1
@@ -429,6 +434,63 @@ Pokemon
 				Ground | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
 			Hidden Power
 				Flying | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
-			(Ice + Dark)
+			Hidden Power
+				Ice | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			(Dark)
+			(Grass, Fire, Dragon, Water for off picks)
+			
+	Level 12 Decisive Unown Prime - Drow - 156/160
+		HP	12 + 12 = 24
+		Atk	 7 +  0 =  7
+		Def	 9 +  0 =  9
+		SpAtk	7 +  0 = 7
+		SpDef	 7 +  0 =  7
+		Spd		7 +  0 = 7
+		
+		Type	Psychic
+		
+		Abilities
+			Levitate
+			Telepathy
+			
+		Size
+			Height	1'8 / 0.5m (Small)
+			Weight	11lb / 5kg (1)
+			
+		Capabilities
+			HP	94
+			Evasion
+				Def	1
+				SpDef	1
+				Spd	3
+			Levitate 4
+			Swim 2
+			Jump 1/1
+			Power 1
+			Invisibility
+			Telekinetic
+			Gather Unown
+			
+		Tutor
+			Points	0+0 / 3+0 (Top Percentage)
+			
+			Edges/Features
+				Underdog's Strength	
+				Skill Improvement (Perception)
+				Skill Improvement (Focus)
+		
+		Skills
+			Athletics	1d6+2
+			Acrobatics	2d6+0
+			Combat		2d6+0
+			Stealth		3d6+1
+			Perception	6d6+0
+			Focus		4d6+0
+		
+		Moves
+			Hidden Power
+				Electric | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			Hidden Power
+				Fighting | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
 			(Grass, Fire, Dragon, Water for off picks)
  
