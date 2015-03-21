@@ -116,8 +116,8 @@ Features
 	13:	Top Percentage (At-Will Free - Pokemon levelling to %5 level gains 1 Tutor Point, 4 times. After 4 triggers, +1 to all base stats)
 	
 Pokemon
-	Level 24 Cuddly Unown Prime - Dryad - 699/745
-		HP	19 + 10 = 29
+	Level 24 Cuddly Unown Prime - Dryad -  - 738/745
+		HP	24 + 10 = 34
 		Atk	 8 +  0 =  8
 		Def	 8 +  0 =  8
 		SpAtk	10 + 11 = 21
@@ -135,7 +135,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	82
+			HP	136
 			Evasion
 				Def	1
 				SpDef	1
@@ -176,7 +176,9 @@ Pokemon
 				Ground | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
 			Hidden Power
 				Flying | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
-			(Ice + Dark)
+			Hidden Power
+				Ice | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
+			(Dark)
 			(Grass, Fire, Dragon, Water for off picks)
 		
 	Level 24 Cuddly Unown Prime - Djinn - 738/745
@@ -185,7 +187,7 @@ Pokemon
 		Def	 8 +  0 =  8
 		SpAtk	10 + 11 = 21
 		SpDef	 8 +  0 =  8
-		Spd		13 + 10 = 28
+		Spd	13 + 10 = 28
 		
 		Type	Psychic
 		
@@ -250,7 +252,7 @@ Pokemon
 		Def	 8 +  0 =  8
 		SpAtk	10 + 11 = 21
 		SpDef	 8 +  0 =  8
-		Spd		13 + 10 = 28
+		Spd	13 + 10 = 28
 		
 		Type	Psychic
 		
@@ -315,7 +317,7 @@ Pokemon
 		Def	 8 +  0 =  8
 		SpAtk	10 + 11 = 21
 		SpDef	 8 +  0 =  8
-		Spd		13 + 10 = 28
+		Spd	13 + 10 = 28
 		
 		Type	Psychic
 		
@@ -380,7 +382,7 @@ Pokemon
 		Def	 8 +  0 =  8
 		SpAtk	10 + 11 = 21
 		SpDef	 8 +  0 =  8
-		Spd		13 + 10 = 28
+		Spd	13 + 10 = 28
 		
 		Type	Psychic
 		
