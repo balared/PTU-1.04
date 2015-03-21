@@ -461,7 +461,7 @@ Pokemon
 				Def	1
 				SpDef	1
 				Spd	3
-			Levitate 4
+			Levitate 6
 			Swim 2
 			Jump 1/1
 			Power 1
@@ -473,7 +473,7 @@ Pokemon
 			Points	0+0 / 3+0 (Top Percentage)
 			
 			Edges/Features
-				Underdog's Strength	
+				Improved Mobility (Levitate)	
 				Skill Improvement (Perception)
 				Skill Improvement (Focus)
 		
