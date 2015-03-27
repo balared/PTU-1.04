@@ -50,6 +50,7 @@ Gear:
 	| Amount	| Name			| Cost		| Total		|
 	|---------------|-----------------------|---------------|---------------|
 	| 1		| Enhanced Sight	| 1000		| 1000		|
+	| 1		| Datajack (owed	|		|  400		|
 	| 1		| Tent			| 1000		| 1000		|
 	| 1		| Sleeping Bag		| 1000		| 1000		|
 	| 1		| 25ft Surdy Rope	|  400		|  400		|
@@ -60,7 +61,7 @@ Gear:
 	|---------------|-----------------------|---------------|---------------|
 	|		|			| Subtotal	| 4400		|
 	|		| Owed by Cogs		|		| -500		|
-	| 		| 			| Cash		| 1000		|
+	| 		| 			| Cash		|  600		|
 	|---------------|-----------------------|---------------|---------------|
 	|		|			| Total		| 5900		|
 	|---------------|-----------------------|---------------|---------------|
@@ -78,7 +79,7 @@ Abilities:
 	
 Capabilities:
 	Telekinetic
-	Gather Unown 1/week
+	Gather Unown 1/week (1/7)
 	
 Moves:
 	Hidden Power
@@ -117,8 +118,8 @@ Features
 	13:	Top Percentage (At-Will Free - Pokemon levelling to %5 level gains 1 Tutor Point, 4 times. After 4 triggers, +1 to all base stats)
 	
 Pokemon
-	Level 24 Cuddly Unown Prime - Dryad -  - 738/745
-		HP	18 + 10 = 27
+	Level 25 Cuddly Unown Prime - Dryad - 765/820
+		HP	19 + 10 = 29
 		Atk	 7 +  0 =  7
 		Def	 7 +  0 =  7
 		SpAtk	 9 + 11 = 20
@@ -136,7 +137,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	115
+			HP	119
 			Evasion
 				Def	1
 				SpDef	1
@@ -150,11 +151,12 @@ Pokemon
 			Gather Unown
 			
 		Tutor
-			Points	0+4 / 5+4 (Top Percentage)
+			Points	1+4 / 6+4 (Top Percentage)
 			
 			Edges/Features	
 				Skill Improvement (Perception)
 				Skill Improvement (Focus)
+				Skill Improvement (Stealth)
 				Advanced Mobility (Levitate)
 				Extended Invisibility
 				TK Mastery
@@ -163,7 +165,7 @@ Pokemon
 			Athletics	1d6+2
 			Acrobatics	2d6+0
 			Combat		2d6+0
-			Stealth		3d6+1
+			Stealth		4d6+1
 			Perception	6d6+0
 			Focus		4d6+0
 		
@@ -179,8 +181,8 @@ Pokemon
 			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 		
-	Level 24 Cuddly Unown Prime - Djinn - 738/745
-		HP	18 + 10 = 27
+	Level 24 Cuddly Unown Prime - Djinn - 765/820
+		HP	19 + 10 = 29
 		Atk	 7 +  0 =  7
 		Def	 7 +  0 =  7
 		SpAtk	 9 + 11 = 20
@@ -198,7 +200,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	115
+			HP	119
 			Evasion
 				Def	1
 				SpDef	1
@@ -212,11 +214,12 @@ Pokemon
 			Gather Unown
 			
 		Tutor
-			Points	0+4 / 5+4 (Top Percentage)
+			Points	1+4 / 6+4 (Top Percentage)
 			
 			Edges/Features	
 				Skill Improvement (Perception)
 				Skill Improvement (Focus)
+				Skill Improvement (Stealth)
 				Advanced Mobility (Levitate)
 				Extended Invisibility
 				TK Mastery
@@ -225,7 +228,7 @@ Pokemon
 			Athletics	1d6+2
 			Acrobatics	2d6+0
 			Combat		2d6+0
-			Stealth		3d6+1
+			Stealth		4d6+1
 			Perception	6d6+0
 			Focus		4d6+0
 		
@@ -241,8 +244,8 @@ Pokemon
 			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 			
-	Level 24 Cuddly Unown Prime - Dwarf - 738/745
-		HP	18 + 10 = 27
+	Level 24 Cuddly Unown Prime - Dwarf - 765/820
+		HP	19 + 10 = 29
 		Atk	 7 +  0 =  7
 		Def	 7 +  0 =  7
 		SpAtk	 9 + 11 = 20
@@ -260,7 +263,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	115
+			HP	119
 			Evasion
 				Def	1
 				SpDef	1
@@ -274,11 +277,12 @@ Pokemon
 			Gather Unown
 			
 		Tutor
-			Points	0+4 / 5+4 (Top Percentage)
+			Points	1+4 / 6+4 (Top Percentage)
 			
 			Edges/Features	
 				Skill Improvement (Perception)
 				Skill Improvement (Focus)
+				Skill Improvement (Stealth)
 				Advanced Mobility (Levitate)
 				Extended Invisibility
 				TK Mastery
@@ -287,7 +291,7 @@ Pokemon
 			Athletics	1d6+2
 			Acrobatics	2d6+0
 			Combat		2d6+0
-			Stealth		3d6+1
+			Stealth		4d6+1
 			Perception	6d6+0
 			Focus		4d6+0
 		
@@ -303,8 +307,8 @@ Pokemon
 			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 			
-	Level 24 Cuddly Unown Prime - Demon - 738/745
-		HP	18 + 10 = 27
+	Level 24 Cuddly Unown Prime - Demon - 765/820
+		HP	19 + 10 = 29
 		Atk	 7 +  0 =  7
 		Def	 7 +  0 =  7
 		SpAtk	 9 + 11 = 20
@@ -322,7 +326,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	115
+			HP	119
 			Evasion
 				Def	1
 				SpDef	1
@@ -336,11 +340,12 @@ Pokemon
 			Gather Unown
 			
 		Tutor
-			Points	0+4 / 5+4 (Top Percentage)
+			Points	1+4 / 6+4 (Top Percentage)
 			
 			Edges/Features	
 				Skill Improvement (Perception)
 				Skill Improvement (Focus)
+				Skill Improvement (Stealth)
 				Advanced Mobility (Levitate)
 				Extended Invisibility
 				TK Mastery
@@ -349,7 +354,7 @@ Pokemon
 			Athletics	1d6+2
 			Acrobatics	2d6+0
 			Combat		2d6+0
-			Stealth		3d6+1
+			Stealth		4d6+1
 			Perception	6d6+0
 			Focus		4d6+0
 		
@@ -365,8 +370,8 @@ Pokemon
 			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 			
-	Level 24 Cuddly Unown Prime - Devil - 738/745
-		HP	18 + 10 = 27
+	Level 24 Cuddly Unown Prime - Devil - 765/820
+		HP	19 + 10 = 29
 		Atk	 7 +  0 =  7
 		Def	 7 +  0 =  7
 		SpAtk	 9 + 11 = 20
@@ -384,7 +389,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	115
+			HP	119
 			Evasion
 				Def	1
 				SpDef	1
@@ -398,11 +403,12 @@ Pokemon
 			Gather Unown
 			
 		Tutor
-			Points	0+4 / 5+4 (Top Percentage)
+			Points	1+4 / 6+4 (Top Percentage)
 			
 			Edges/Features	
 				Skill Improvement (Perception)
 				Skill Improvement (Focus)
+				Skill Improvement (Stealth)
 				Advanced Mobility (Levitate)
 				Extended Invisibility
 				TK Mastery
@@ -411,7 +417,7 @@ Pokemon
 			Athletics	1d6+2
 			Acrobatics	2d6+0
 			Combat		2d6+0
-			Stealth		3d6+1
+			Stealth		4d6+1
 			Perception	6d6+0
 			Focus		4d6+0
 		
@@ -427,13 +433,13 @@ Pokemon
 			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 			
-	Level 12 Decisive Unown Prime - Drow - 156/160
-		HP	12 + 12 = 24
+	Level 13 Decisive Unown Prime - Drow - 177/190
+		HP	13 + 12 = 24
 		Atk	 7 +  0 =  7
 		Def	 9 +  0 =  9
-		SpAtk	7 +  0 = 7
+		SpAtk	 7 +  0 = 7
 		SpDef	 7 +  0 =  7
-		Spd		7 +  0 = 7
+		Spd	 7 +  0 = 7
 		
 		Type	Psychic
 		
@@ -446,7 +452,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	94
+			HP	98
 			Evasion
 				Def	1
 				SpDef	1
@@ -466,12 +472,13 @@ Pokemon
 				Improved Mobility (Levitate)	
 				Skill Improvement (Perception)
 				Skill Improvement (Focus)
+				Skill Improvement (Stealth)
 		
 		Skills
 			Athletics	1d6+2
 			Acrobatics	2d6+0
 			Combat		2d6+0
-			Stealth		3d6+1
+			Stealth		4d6+1
 			Perception	6d6+0
 			Focus		4d6+0
 		
