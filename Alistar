@@ -433,8 +433,8 @@ Pokemon
 			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 			
-	Level 13 Decisive Unown Prime - Drake - 177/190
-		HP	13 + 12 = 24
+	Level 15 Decisive Unown Prime - Drake - 237/250
+		HP	12 + 15 = 27
 		Atk	 7 +  0 =  7
 		Def	 9 +  0 =  9
 		SpAtk	 7 +  0 = 7
@@ -452,7 +452,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	98
+			HP	106
 			Evasion
 				Def	1
 				SpDef	1
