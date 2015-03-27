@@ -118,7 +118,7 @@ Features
 	
 Pokemon
 	Level 24 Cuddly Unown Prime - Dryad -  - 738/745
-		HP	23 + 10 = 33
+		HP	18 + 10 = 27
 		Atk	 7 +  0 =  7
 		Def	 7 +  0 =  7
 		SpAtk	 9 + 11 = 20
@@ -136,7 +136,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	136
+			HP	115
 			Evasion
 				Def	1
 				SpDef	1
@@ -176,13 +176,11 @@ Pokemon
 				Ground | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
 			Hidden Power
 				Flying | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
-			Hidden Power
-				Ice | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
-			(Dark)
+			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 		
 	Level 24 Cuddly Unown Prime - Djinn - 738/745
-		HP	23 + 10 = 33
+		HP	18 + 10 = 27
 		Atk	 7 +  0 =  7
 		Def	 7 +  0 =  7
 		SpAtk	 9 + 11 = 20
@@ -200,7 +198,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	136
+			HP	115
 			Evasion
 				Def	1
 				SpDef	1
@@ -240,13 +238,11 @@ Pokemon
 				Ground | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
 			Hidden Power
 				Flying | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
-			Hidden Power
-				Ice | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
-			(Dark)
+			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 			
 	Level 24 Cuddly Unown Prime - Dwarf - 738/745
-		HP	23 + 10 = 33
+		HP	18 + 10 = 27
 		Atk	 7 +  0 =  7
 		Def	 7 +  0 =  7
 		SpAtk	 9 + 11 = 20
@@ -264,7 +260,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	136
+			HP	115
 			Evasion
 				Def	1
 				SpDef	1
@@ -304,13 +300,11 @@ Pokemon
 				Ground | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
 			Hidden Power
 				Flying | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
-			Hidden Power
-				Ice | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
-			(Dark)
+			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 			
 	Level 24 Cuddly Unown Prime - Demon - 738/745
-		HP	23 + 10 = 33
+		HP	18 + 10 = 27
 		Atk	 7 +  0 =  7
 		Def	 7 +  0 =  7
 		SpAtk	 9 + 11 = 20
@@ -328,7 +322,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	136
+			HP	115
 			Evasion
 				Def	1
 				SpDef	1
@@ -368,13 +362,11 @@ Pokemon
 				Ground | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
 			Hidden Power
 				Flying | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
-			Hidden Power
-				Ice | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
-			(Dark)
+			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 			
 	Level 24 Cuddly Unown Prime - Devil - 738/745
-		HP	23 + 10 = 33
+		HP	18 + 10 = 27
 		Atk	 7 +  0 =  7
 		Def	 7 +  0 =  7
 		SpAtk	 9 + 11 = 20
@@ -392,7 +384,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	136
+			HP	115
 			Evasion
 				Def	1
 				SpDef	1
@@ -432,9 +424,7 @@ Pokemon
 				Ground | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
 			Hidden Power
 				Flying | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
-			Hidden Power
-				Ice | EOT | AC2 | DB6+2 STAB always | Special | Burst 1/Melee 1/6m Ranged 1/Cone2
-			(Dark)
+			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 			
 	Level 12 Decisive Unown Prime - Drow - 156/160
