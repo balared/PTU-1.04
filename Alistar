@@ -12,7 +12,7 @@ Derived Stats
 	AP	7
 	HP		
 		Level x 2 + HP x 3 + 10
-			98
+			98 (31)
 	Evasion
 		Physical	1
 		Special		1
@@ -137,7 +137,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	119
+			HP	119 (30)
 			Evasion
 				Def	1
 				SpDef	1
@@ -200,7 +200,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	119
+			HP	119 (30)
 			Evasion
 				Def	1
 				SpDef	1
@@ -433,13 +433,13 @@ Pokemon
 			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 			
-	Level 15 Decisive Unown Prime - Drake - 244/250
-		HP	12 + 15 = 27
+	Level 19 Decisive Unown Prime - Drake - 336/250
+		HP	12 + 19 = 31
 		Atk	 7 +  0 =  7
 		Def	 9 +  0 =  9
-		SpAtk	 7 +  0 = 7
+		SpAtk	 7 +  0 =  7
 		SpDef	 7 +  0 =  7
-		Spd	 7 +  0 = 7
+		Spd	 7 +  0 =  7
 		
 		Type	Psychic
 		
@@ -452,7 +452,7 @@ Pokemon
 			Weight	11lb / 5kg (1)
 			
 		Capabilities
-			HP	106
+			HP	122
 			Evasion
 				Def	1
 				SpDef	1
@@ -466,7 +466,7 @@ Pokemon
 			Gather Unown
 			
 		Tutor
-			Points	0+0 / 3+0 (Top Percentage)
+			Points	0+0 / 4+1 (Top Percentage)
 			
 			Edges/Features
 				Improved Mobility (Levitate)	
