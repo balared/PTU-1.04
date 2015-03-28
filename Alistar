@@ -1,5 +1,5 @@
 Alistar
-Level 14
+Level 16
 Background
 	That Weird Kid
 		Adept Occult Education
@@ -12,11 +12,11 @@ Derived Stats
 	AP	7
 	HP		
 		Level x 2 + HP x 3 + 10
-			98 (31)
+			102 (31)
 	Evasion
 		Physical	1
 		Special		1
-		Speed		3
+		Speed		4
 	Power		4
 	High Jump	0
 	Long Jump	1
@@ -42,7 +42,7 @@ Skills
 	Perception		Expert
 	Charm			Untrained
 	Command			Master
-	Focus			Adept
+	Focus			Expert
 	Intuition		Novice
 	
 Gear:
@@ -72,7 +72,7 @@ Stats:
 	Def	5
 	SpAtk	12
 	SpDef	6
-	Spd	18
+	Spd	20
 	
 Abilities:
 	Levitate
@@ -102,6 +102,7 @@ Edges
 	12:	Master Command
 	12:	Master Occult Education
 	14:	Novice Survival
+	16:	Expert Focus
 	
 Features
 	1:	Telekinetic [+SpAtk] (Gain Telekinetic capability)
@@ -116,6 +117,7 @@ Features
 	9:	Ace Trainer (Drain 1AP Extended - For each pokemon trained, choose a stat besides HP. Baseline +1 CS to that stat)
 	11:	Words of Power [+SpAtk] (Hidden Power on self or pkmn can be Burst, 1 Target Melee 1, 1 Target 6m or Cone 2. Self and pkmn always have STAB on Hidden Power)
 	13:	Top Percentage (At-Will Free - Pokemon levelling to %5 level gains 1 Tutor Point, 4 times. After 4 triggers, +1 to all base stats)
+	15:	Perseverance (1AP Free - If a pokemon gains an injury, it doesn't. 1/scene/target)
 	
 Pokemon
 	Level 25 Cuddly Unown Prime - Dryad - 765/820
@@ -181,7 +183,7 @@ Pokemon
 			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 		
-	Level 24 Cuddly Unown Prime - Djinn - 765/820
+	Level 25 Cuddly Unown Prime - Djinn - 765/820
 		HP	19 + 10 = 29
 		Atk	 7 +  0 =  7
 		Def	 7 +  0 =  7
@@ -244,7 +246,7 @@ Pokemon
 			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 			
-	Level 24 Cuddly Unown Prime - Dwarf - 765/820
+	Level 25 Cuddly Unown Prime - Dwarf - 765/820
 		HP	19 + 10 = 29
 		Atk	 7 +  0 =  7
 		Def	 7 +  0 =  7
@@ -307,7 +309,7 @@ Pokemon
 			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 			
-	Level 24 Cuddly Unown Prime - Demon - 765/820
+	Level 25 Cuddly Unown Prime - Demon - 765/820
 		HP	19 + 10 = 29
 		Atk	 7 +  0 =  7
 		Def	 7 +  0 =  7
@@ -370,7 +372,7 @@ Pokemon
 			(Dark, Ice)
 			(Grass, Fire, Dragon, Water for off picks)
 			
-	Level 24 Cuddly Unown Prime - Devil - 765/820
+	Level 25 Cuddly Unown Prime - Devil - 765/820
 		HP	19 + 10 = 29
 		Atk	 7 +  0 =  7
 		Def	 7 +  0 =  7
